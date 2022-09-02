@@ -201,7 +201,7 @@ function loadSceneResources(){
 		return;
 	}
 	let ext = path.substr(path.lastIndexOf(".")  + 1);
-	if(ext == "png" || ext == "jpg"){
+	if(ext == "png" || ext == "webp"){
 		loadImage(path, "tempPreloadImage", false, loadSceneResources);
 	} else if(ext == "ogg" || ext == "m4a"){
 		loadAudio(path, false, loadSceneResources);
@@ -296,8 +296,8 @@ function drawImage(canvas, file, callback=null){
 	let ctx = canvas.getContext("2d");
 	let image = new Image();
 	image.onload = function(){
-		//ctx.drawImage(image, 160, 0, 960, 720, 0, 0, 960, 720);
-		ctx.drawImage(image, 0, 0, 960, 720, 0, 0, 960, 720);
+		ctx.drawImage(image, 160, 0, 960, 720, 0, 0, 960, 720);
+		//ctx.drawImage(image, 0, 0, 960, 720, 0, 0, 960, 720);
 		if(callback != null){
 			callback();
 		}
