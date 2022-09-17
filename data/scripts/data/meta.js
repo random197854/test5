@@ -1005,6 +1005,18 @@ var CV = {
         jap: "よもぎかすみ",
         japAlias: ["よもぎ", "かすみ"]
     },
+    ITO_MUSUBI:{
+        eng: "Ito Musubi",
+        engAlias: ["Ito", "Musubi Ito", "Musubi"],
+        jap: "緒むすび",
+        japAlias: ["緒", "むすび"]
+    },
+    SHIMOTSUKI_SARA:{
+        eng: "Shimotsuki Sara",
+        engAlias: ["Shimotsuki", "Sara Shimotsuki", "Sara"],
+        jap: "霜月咲空",
+        japAlias: ["霜月", "咲空"]
+    },
     IGNORE:{
         eng: "",
         engAlias: [],
@@ -8746,6 +8758,44 @@ var CHAR = {
             originalCharacter:true,
             artist:ARTIST.HOMURA_YUNI,
             cv:CV.YOMOGI_KASUMI
+        }
+    },
+    REPITA_RICHSTAR:{
+        base:{
+            name:{
+                eng:"Repita Richstar",
+                engAlias:["Lepita Richstar", "Repita", "Lepita", "Richstar"],
+                jap:"レピタ・リッチスター",
+                japAlias:["レピタ", "リッチスター"]
+            },
+            tags:[
+                TAG.MULTICOLORED_HAIR, TAG.CYAN_HAIR, TAG.VIOLET_HAIR, TAG.SHOULDER_LENGTH_HAIR,
+                TAG.BLUE_EYES,
+                TAG.SMALL_BREASTS, TAG.LIGHT_SKIN, TAG.HORNS
+            ],
+            gender:"female",
+            originalCharacter:true,
+            artist:ARTIST.NOBUSHITO,
+            cv:CV.ITO_MUSUBI
+        }
+    },
+    ELE_ANSTAN:{
+        base:{
+            name:{
+                eng:"Ele Anstan",
+                engAlias:["Ele", "Anstan"],
+                jap:"エレ・アンスタン",
+                japAlias:["エレ", "アンスタン"]
+            },
+            tags:[
+                TAG.VIOLET_HAIR, TAG.SHOULDER_LENGTH_HAIR,
+                TAG.BLUE_EYES,
+                TAG.BIG_BREASTS, TAG.LIGHT_SKIN
+            ],
+            gender:"female",
+            originalCharacter:true,
+            artist:ARTIST.SANO_TOSHIHIDE,
+            cv:CV.SHIMOTSUKI_SARA
         }
     },
 
@@ -23053,6 +23103,88 @@ var SCENE = {
             ],
             male:[],
             location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0465_1":{
+        character:CHAR.FUUMA_SAIKA,
+        tags:{
+            female:[
+                TAG.TAIMANIN_OUTFIT, TAG.RIPPED_CLOTHING, TAG.BREAST_CUTOUTS, TAG.VAGINAL_CUTOUT,
+                TAG.DOGGY_STYLE,
+                TAG.VAGINAL_SEX, TAG.BLOWJOB, TAG.NAKADASHI, TAG.CUM_IN_MOUTH, TAG.DOUBLE_PENIS_PENETRATION, TAG.SPANKING, TAG.BUKKAKE
+            ],
+            male:[],
+            location:[TAG.PRISON_CELL, TAG.PRIVATE],
+            misc:[TAG.GROUP]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0465_2":{
+        character:CHAR.FUUMA_SAIKA,
+        tags:{
+            female:[
+                TAG.TAIMANIN_OUTFIT, TAG.RIPPED_CLOTHING, TAG.BREAST_CUTOUTS, TAG.VAGINAL_CUTOUT, TAG.PET_COLLAR, TAG.NIPPLE_PIERCING, TAG.LINKED_PIERCINGS,
+                TAG.SITTING_SEX,
+                TAG.VAGINAL_SEX, TAG.VAGINAL_LEAKAGE, TAG.NIPPLE_PULLING, TAG.NAKADASHI, TAG.AHEGAO
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0466_1":{
+        character:CHAR.FRANCIS,
+        tags:{
+            female:[
+                TAG.BIKINI, TAG.BREASTS_OUT, TAG.PANTYLESS, TAG.METAL_BONDAGE,
+                TAG.PILEDRIVER,
+                TAG.VIBRATOR, TAG.VAGINAL_INSERTION, TAG.ANAL_INSERTION, TAG.DOUBLE_PENETRATION, TAG.VAGINAL_SEX, TAG.NAKADASHI, TAG.ANAL_SEX
+            ],
+            male:[TAG.ORC],
+            location:[TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0466_2":{
+        character:CHAR.FRANCIS,
+        tags:{
+            female:[
+                TAG.NAKED,
+                TAG.VAGINAL_SEX, TAG.NAKADASHI, TAG.HANDJOB, TAG.BLOWJOB, TAG.BUKKAKE
+            ],
+            male:[TAG.ORC],
+            location:[TAG.PRIVATE],
+            misc:[TAG.GROUP]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0467":{
+        character:[CHAR.REPITA_RICHSTAR, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.DRESS, TAG.FRILLY_CLOTHING, TAG.THIGH_HIGH_STOCKINGS, TAG.EVENING_GLOVES, TAG.HAIRBAND, TAG.PANTIES_AROUND_LEG, TAG.PANTY_GAG, TAG.CLAMPS,
+                TAG.SITTING_SEX,
+                TAG.VAGINAL_SEX, TAG.SQUIRTING, TAG.AHEGAO, TAG.INCONTINENCE, TAG.NAKADASHI, TAG.VAGINAL_LEAKAGE
+            ],
+            male:[],
+            location:[TAG.BEDROOM, TAG.ON_BED, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0468":{
+        character:[CHAR.ELE_ANSTAN],
+        tags:{
+            female:[
+                TAG.PANTIES, TAG.THIGH_HIGH_STOCKINGS, TAG.T_SHIRT, TAG.PROTRUDING_NIPPLES, TAG.RIPPED_CLOTHING, TAG.BREAST_CUTOUTS, TAG.VAGINAL_CUTOUT,
+                TAG.TENTACLE_BONDAGE, TAG.TENTACLE_RAPE, TAG.VAGINAL_SEX, TAG.BLOWJOB, TAG.DOUBLE_PENIS_PENETRATION, TAG.ANAL_SEX, TAG.TRIPLE_PENIS_PENETRATION, TAG.SQUIRTING
+            ],
+            male:[],
+            location:[TAG.OUTSIDE, TAG.PRIVATE],
             misc:[]
         },
         ignoredCharacterTags:[],
