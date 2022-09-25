@@ -21356,6 +21356,7 @@ var SCENE = {
             misc:[]
         },
         ignoredCharacterTags:[],
+        nextScene:"0470_1"
     },
     "0383_1":{
         character:[CHAR.LILIM, CHAR.IGAWA_SAKURA, CHAR.FUUMA_KOTAROU],
@@ -23120,6 +23121,7 @@ var SCENE = {
             misc:[TAG.GROUP]
         },
         ignoredCharacterTags:[],
+        nextScene:"0465_2"
     },
     "0465_2":{
         character:CHAR.FUUMA_SAIKA,
@@ -23148,6 +23150,7 @@ var SCENE = {
             misc:[]
         },
         ignoredCharacterTags:[],
+        nextScene:"0466_2"
     },
     "0466_2":{
         character:CHAR.FRANCIS,
@@ -23185,6 +23188,67 @@ var SCENE = {
             ],
             male:[],
             location:[TAG.OUTSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0469_1":{
+        character:[CHAR.IGAWA_ASAGI, CHAR.IGAWA_SAKURA],
+        form:["young", "young"],
+        tags:{
+            female:[
+                TAG.NIPPLE_STICKER, TAG.BREASTS_OUT, TAG.SKIRT, TAG.EYE_MASK, TAG.COLLAR, TAG.NAKED, TAG.LEOTARD, TAG.PARTIALLY_TRANSPARENT_CLOTHING, TAG.THIGH_HIGH_STOCKINGS, TAG.EVENING_GLOVES, TAG.GLOVES,
+                TAG.DEEPTHROAT, TAG.PROSTITUTION, TAG.CUM_SWALLOWING, 
+            ],
+            male:[],
+            location:[TAG.BROTHEL, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+        nextScene:"0469_2"
+    },
+    "0469_2":{
+        character:[CHAR.IGAWA_ASAGI, CHAR.IGAWA_SAKURA],
+        form:["young", "young"],
+        tags:{
+            female:[
+                TAG.BREASTS_OUT, TAG.SKIRT, TAG.EYE_MASK, TAG.COLLAR, TAG.HALF_NAKED, TAG.LEOTARD, TAG.PARTIALLY_TRANSPARENT_CLOTHING, TAG.THIGH_HIGH_STOCKINGS, TAG.EVENING_GLOVES, TAG.GLOVES, TAG.PANTIES_PUSHED_TO_SIDE,
+                TAG.PROSTITUTION, TAG.VAGINAL_SEX, TAG.STOMACH_DEFORMATION, TAG.AHEGAO, TAG.VAGINAL_LEAKAGE, TAG.SQUIRTING, TAG.NAKADASHI, TAG.LOTION, TAG.SLAVE_TATTOO, TAG.STOMACH_INFLATION
+            ],
+            male:[],
+            location:[TAG.BROTHEL, TAG.PRIVATE],
+            misc:[TAG.CUT_IN_XRAY]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0470_1":{
+        character:[CHAR.MIZUKI_YUKIKAZE, CHAR.KOUKAWA_ASUKA, CHAR.FUUMA_KOTAROU],
+        form:["adult", "future", null],
+        tags:{
+            female:[
+                TAG.BUNNYGIRL_OUTFIT, TAG.BREASTS_OUT, TAG.FRILLY_CLOTHING, TAG.PANTIES_PUSHED_TO_SIDE, TAG.COLLAR, TAG.NECKTIE, TAG.USAMIMI,
+                TAG.REVERSE_COWGIRL_POSITION,
+                TAG.HANDJOB, TAG.NIPPLE_SUCKING, TAG.NIPPLE_PLAY, TAG.VAGINAL_SEX, TAG.NAKADASHI, TAG.AHEGAO
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+        nextScene:"0470_2"
+    },
+    "0470_2":{
+        character:[CHAR.MIZUKI_YUKIKAZE, CHAR.KOUKAWA_ASUKA, CHAR.FUUMA_KOTAROU],
+        form:["adult", "future", null],
+        tags:{
+            female:[
+                TAG.BUNNYGIRL_OUTFIT, TAG.BREASTS_OUT, TAG.FRILLY_CLOTHING, TAG.PANTIES_PUSHED_TO_SIDE, TAG.COLLAR, TAG.NECKTIE, TAG.USAMIMI, TAG.NAKED,
+                TAG.STANDING_SEX,
+                TAG.VAGINAL_SEX, TAG.STOMACH_DEFORMATION, TAG.VAGINAL_LEAKAGE, TAG.NAKADASHI, TAG.PREGNANT, TAG.BLOWJOB, TAG.BUKKAKE
+
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
             misc:[]
         },
         ignoredCharacterTags:[],
