@@ -8798,7 +8798,25 @@ var CHAR = {
             cv:CV.SHIMOTSUKI_SARA
         }
     },
-
+    INAGE_NATSU:{
+        base:{
+            name:{
+                eng:"Inage Natsu",
+                engAlias:["Inage", "Natsu Inage", "Natsu"],
+                jap:"稲毛夏",
+                japAlias:["稲毛", "夏"]
+            },
+            tags:[
+                TAG.WHITE_HAIR, TAG.LONG_HAIR,
+                TAG.BLUE_EYES,
+                TAG.HUGE_BREASTS, TAG.LIGHT_SKIN
+            ],
+            gender:"female",
+            originalCharacter:true,
+            artist:ARTIST.SHINDOL,
+            cv:CV.TSURUMAKI_CHITOSE
+        }
+    },
 
     // :{
     //     base:{
@@ -23249,6 +23267,89 @@ var SCENE = {
             ],
             male:[],
             location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0471_1":{
+        character:CHAR.ROKKA,
+        tags:{
+            female:[
+                TAG.TAIMANIN_OUTFIT,
+                TAG.FULL_NELSON,
+                TAG.RAPE, TAG.VAGINAL_SEX, TAG.STOMACH_DEFORMATION, TAG.NAKADASHI, TAG.STOMACH_INFLATION, TAG.ANAL_SEX
+            ],
+            male:[],
+            location:[TAG.OUTSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+        nextScene:"0471_2"
+    },
+    "0471_2":{
+        character:CHAR.ROKKA,
+        tags:{
+            female:[
+                TAG.NAKED,
+                TAG.VAGINAL_LEAKAGE, TAG.SPREAD_PUSSY, TAG.BUKKAKE, TAG.CUM_IN_MOUTH, TAG.SQUIRTING, TAG.INCONTINENCE, TAG.MASTURBATION
+            ],
+            male:[],
+            location:[TAG.BROTHEL, TAG.SEMI_PRIVATE],
+            misc:[TAG.NO_SEX]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0472_1":{
+        character:[CHAR.INAGE_NATSU, CHAR.AISHUU_HEBIKO],
+        tags:{
+            female:[
+                TAG.NAKED,
+                TAG.VAGINAL_SEX, TAG.STOMACH_DEFORMATION, TAG.NAKADASHI, TAG.MASTURBATION, TAG.PROTRUDING_NIPPLES, TAG.BUKKAKE, TAG.AHEGAO
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+        artistOverwrite:ARTIST.SHINDOL,
+        nextScene:"0472_2"
+    },
+    "0472_2":{
+        character:[CHAR.INAGE_NATSU, CHAR.AISHUU_HEBIKO],
+        tags:{
+            female:[
+                TAG.COMPLETELY_NAKED, TAG.TAIMANIN_OUTFIT, TAG.BREASTS_OUT,
+                TAG.NIPPLE_PLAY, TAG.BREAST_GROPING, TAG.VAGINAL_FINGERING, TAG.STOMACH_DEFORMATION, TAG.VAGINAL_LEAKAGE, TAG.SQUIRTING, TAG.KISSING, TAG.YURI
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[TAG.NO_SEX]
+        },
+        ignoredCharacterTags:[],
+        artistOverwrite:ARTIST.SHINDOL
+    },
+    "0473":{
+        character:CHAR.MINASE_MOMIJI,
+        tags:{
+            female:[
+                TAG.SCHOOL_UNIFORM, TAG.BRA, TAG.PANTIES, TAG.BREASTS_OUT, TAG.PANTIES_AROUND_LEG,
+                TAG.KISSING, TAG.BREAST_GROPING, TAG.CLIT_PLAY, TAG.VAGINAL_SEX, TAG.MIND_CONTROL, TAG.AHEGAO, TAG.NAKADASHI, TAG.VAGINAL_LEAKAGE
+            ],
+            male:[],
+            location:[TAG.CLASSROOM, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0474":{
+        character:CHAR.FUUMA_MAWARI,
+        tags:{
+            female:[
+                TAG.SCHOOL_UNIFORM, TAG.BREASTS_OUT, TAG.BRALESS, TAG.PANTIES_PUSHED_TO_SIDE, TAG.PANTIES_PUSHED_TO_SIDE,
+                TAG.YURI, TAG.CUNNILINGUS, TAG.NIPPLE_SUCKING, TAG.SQUIRTING, TAG.VAGINAL_SEX, TAG.FUTANARI, TAG.NAKADASHI
+            ],
+            male:[],
+            location:[TAG.CLASSROOM, TAG.PRIVATE],
             misc:[]
         },
         ignoredCharacterTags:[],
