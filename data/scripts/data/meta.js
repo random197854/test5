@@ -23354,6 +23354,87 @@ var SCENE = {
         },
         ignoredCharacterTags:[],
     },
+    "0475_1":{
+        character:CHAR.HATORI_SHIZUKA,
+        tags:{
+            female:[
+                TAG.HALLOWEEN_OUTFIT, TAG.WITCH_HAT, TAG.BREASTS_OUT, TAG.CHOKER, TAG.CLOAK,
+                TAG.PAIZURI, TAG.BLOWJOB_PAIZURI, TAG.BUKKAKE
+            ],
+            male:[],
+            location:[TAG.ALLEYWAY, TAG.SEMI_PUBLIC],
+            misc:[TAG.NO_SEX]
+        },
+        ignoredCharacterTags:[],
+        nextScene:"0475_2"
+    },
+    "0475_2":{
+        character:CHAR.HATORI_SHIZUKA,
+        tags:{
+            female:[
+                TAG.HALLOWEEN_OUTFIT, TAG.WITCH_HAT, TAG.BREASTS_OUT, TAG.PANTIES_PUSHED_TO_SIDE, TAG.THIGH_HIGH_STOCKINGS, TAG.CHOKER, TAG.CLOAK,
+                TAG.VAGINAL_SEX, TAG.HANDJOB, TAG.BUKKAKE, TAG.NAKADASHI
+            ],
+            male:[],
+            location:[TAG.ALLEYWAY, TAG.SEMI_PUBLIC],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0476_1":{
+        character:CHAR.ANNEROSE_VAJRA,
+        tags:{
+            female:[
+                TAG.HALLOWEEN_OUTFIT, TAG.HORNS, TAG.FRILLY_CLOTHING, TAG.SKIRT, TAG.BAT_WINGS, TAG.CHOKER, TAG.THONG, TAG.THIGH_HIGH_STOCKINGS, TAG.BREASTS_OUT, TAG.PANTIES_PUSHED_TO_SIDE,
+                TAG.BREAST_GROPING, TAG.VAGINAL_FINGERING, TAG.VAGINAL_LEAKAGE, TAG.NIPPLE_PLAY, TAG.VAGINAL_SEX, TAG.AHEGAO, TAG.KISSING, TAG.NAKADASHI, TAG.NIPPLE_PINCHING, TAG.MINDBREAK
+            ],
+            male:[],
+            location:[TAG.ALLEYWAY, TAG.SEMI_PUBLIC],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+        nextScene:"0476_2"
+    },
+    "0476_2":{
+        character:CHAR.ANNEROSE_VAJRA,
+        tags:{
+            female:[
+                TAG.HALLOWEEN_OUTFIT, TAG.HORNS, TAG.FRILLY_CLOTHING, TAG.SKIRT, TAG.CHOKER, TAG.THONG, TAG.THIGH_HIGH_STOCKINGS, TAG.BREASTS_OUT, TAG.PANTIES_AROUND_LEG,
+                TAG.VAGINAL_LEAKAGE, TAG.VAGINAL_SEX, TAG.HANDJOB, TAG.BLOWJOB, TAG.NIPPLE_PINCHING, TAG.BREAST_GROPING, TAG.BUKKAKE, TAG.NAKADASHI, TAG.DOUBLE_PEACE_SIGN_AHEGAO, TAG.DOUBLE_PENIS_PENETRATION, TAG.MINDBREAK
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.ON_BED, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0477":{
+        character:CHAR.RUNE,
+        tags:{
+            female:[
+                TAG.SHORT_SHORTS, TAG.CROP_TOP, TAG.BREASTS_OUT,
+                TAG.VAGINAL_SEX, TAG.STOMACH_DEFORMATION, TAG.BREAST_GROWTH, TAG.NIPPLE_PINCHING, TAG.LACTATION, TAG.NIPPLE_PULLING, TAG.VAGINAL_LEAKAGE, TAG.NAKADASHI, TAG.AHEGAO
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0478":{
+        character:[CHAR.KANON, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.HALLOWEEN_OUTFIT, TAG.BREASTS_OUT, TAG.PANTYLESS, TAG.HANDCUFFS, TAG.NECKTIE, TAG.HAT,
+                TAG.STANDING_SEX,
+                TAG.VIBRATOR, TAG.VAGINAL_SEX, TAG.BREAST_GROPING, TAG.NIPPLE_PULLING, TAG.NAKADASHI, TAG.AHEGAO
+            ],
+            male:[],
+            location:[],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
 
     "EX0001":{
         character:CHAR.IGAWA_ASAGI,
