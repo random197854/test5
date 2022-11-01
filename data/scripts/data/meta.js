@@ -8817,6 +8817,25 @@ var CHAR = {
             cv:CV.TSURUMAKI_CHITOSE
         }
     },
+    AMATSU_ANRI:{
+        base:{
+            name:{
+                eng:"Amatsu Anri",
+                engAlias:["Amatsu", "Anri Amatsu", "Anri"],
+                jap:"天津杏里",
+                japAlias:["天津", "杏里"]
+            },
+            tags:[
+                TAG.SHORT_HAIR, TAG.BROWN_HAIR,
+                TAG.GREEN_EYES,
+                TAG.LIGHT_SKIN, TAG.HUGE_BREASTS
+            ],
+            gender:"female",
+            originalCharacter:true,
+            artist:ARTIST.SHINDOL,
+            cv:CV.AONO_MUSUBI
+        }
+    },
 
     // :{
     //     base:{
@@ -23431,6 +23450,89 @@ var SCENE = {
             ],
             male:[],
             location:[],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0479_1":{
+        character:CHAR.SANADA_SAKI,
+        tags:{
+            female:[
+                TAG.TAIMANIN_OUTFIT, TAG.RIPPED_CLOTHING, TAG.BREAST_CUTOUTS, TAG.VAGINAL_CUTOUT,
+                TAG.STANDING_SEX,
+                TAG.TENTACLE_RAPE, TAG.BREAST_GROPING, TAG.CLIT_PLAY, TAG.NIPPLE_SUCKING, TAG.VAGINAL_SEX, TAG.SQUIRTING, TAG.NAKADASHI, TAG.AHEGAO
+            ],
+            male:[],
+            location:[TAG.OUTSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0479_2":{
+        character:CHAR.SANADA_SAKI,
+        tags:{
+            female:[
+                TAG.TAIMANIN_OUTFIT, TAG.RIPPED_CLOTHING, TAG.BREAST_CUTOUTS, TAG.VAGINAL_CUTOUT,
+                TAG.QUICKIE_FIX_POSITION,
+                TAG.PILLORY, TAG.BLOWJOB, TAG.VAGINAL_SEX, TAG.BUKKAKE, TAG.NAKADASHI, TAG.CUM_IN_MOUTH
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0480_1":{
+        character:CHAR.MAYA_CORDELIA,
+        tags:{
+            female:[
+                TAG.TAIMANIN_OUTFIT, TAG.RIPPED_CLOTHING, TAG.PANTIES_PUSHED_TO_SIDE, TAG.PROTRUDING_NIPPLES,
+                TAG.VIBRATOR, TAG.VAGINAL_INSERTION, TAG.LARGE_INSERTIONS, TAG.LOTION, TAG.AHEGAO, TAG.VAGINAL_LEAKAGE, TAG.SQUIRTING, TAG.INCONTINENCE, TAG.WOMB_TATTOO, TAG.SCAT, TAG.GAPING
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[TAG.NO_SEX]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0480_2":{
+        character:CHAR.MAYA_CORDELIA,
+        tags:{
+            female:[
+                TAG.TAIMANIN_OUTFIT, TAG.RIPPED_CLOTHING, TAG.PANTIES_PUSHED_TO_SIDE, TAG.NIPPLE_CUTOUTS,
+                TAG.FULL_NELSON,
+                TAG.VAGINAL_SEX, TAG.LOTION, TAG.VAGINAL_LEAKAGE, TAG.WOMB_TATTOO, TAG.STOMACH_DEFORMATION, TAG.AHEGAO, TAG.SQUIRTING, TAG.NAKADASHI, TAG.STOMACH_INFLATION, TAG.PREGNANT, TAG.SALIVA, TAG.INCONTINENCE
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[TAG.CUT_IN_XRAY]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0481":{
+        character:CHAR.KARINA,
+        tags:{
+            female:[
+                TAG.PANTIES, TAG.PANTIES_PUSHED_TO_SIDE, TAG.DRESS,
+                TAG.DOGGY_STYLE,
+                TAG.VAGINAL_LEAKAGE, TAG.VAGINAL_FINGERING, TAG.SQUIRTING, TAG.VAGINAL_SEX, TAG.NAKADASHI
+            ],
+            male:[],
+            location:[TAG.BEDROOM, TAG.ON_BED, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0482":{
+        character:CHAR.AMATSU_ANRI,
+        tags:{
+            female:[
+                TAG.TAIMANIN_OUTFIT, TAG.RIPPED_CLOTHING, TAG.ANAL_CUTOUT, TAG.BREASTS_OUT,
+                TAG.QUICKIE_FIX_POSITION,
+                TAG.ANAL_SEX, TAG.NAKADASHI, TAG.VAGINAL_LEAKAGE, TAG.VAGINAL_SEX, TAG.AHEGAO, TAG.BREAST_GROPING
+            ],
+            male:[],
+            location:[TAG.OUTSIDE, TAG.PRIVATE],
             misc:[]
         },
         ignoredCharacterTags:[],
