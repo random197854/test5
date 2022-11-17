@@ -23467,6 +23467,7 @@ var SCENE = {
             misc:[]
         },
         ignoredCharacterTags:[],
+        nextScene:"0479_2"
     },
     "0479_2":{
         character:CHAR.SANADA_SAKI,
@@ -23494,6 +23495,7 @@ var SCENE = {
             misc:[TAG.NO_SEX]
         },
         ignoredCharacterTags:[],
+        nextScene:"0480_2"
     },
     "0480_2":{
         character:CHAR.MAYA_CORDELIA,
@@ -23533,6 +23535,96 @@ var SCENE = {
             ],
             male:[],
             location:[TAG.OUTSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0483_1":{
+        character:CHAR.KOKOA_LAPUCELLE,
+        tags:{
+            female:[
+                TAG.SUIT, TAG.HORNS,
+                TAG.FUTANARI,
+            ],
+            male:[
+                TAG.SPATS, TAG.SKIRT, TAG.FRILLY_CLOTHING, TAG.RIPPED_CLOTHING, TAG.CHOKER,
+                TAG.STANDING_SEX,
+                TAG.HANDJOB, TAG.ANAL_SEX, TAG.BUKKAKE, TAG.NAKADASHI, TAG.NIPPLE_PINCHING
+            ],
+            location:[TAG.INSIDE, TAG.SEMI_PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+        nextScene:"0483_2"
+    },
+    "0483_2":{
+        character:CHAR.KOKOA_LAPUCELLE,
+        tags:{
+            female:[
+                TAG.HORNS, TAG.COMPLETELY_NAKED,
+                TAG.VAGINAL_SEX, TAG.ASPHYXIATION, TAG.NAKADASHI,
+            ],
+            male:[
+                TAG.NAKED, TAG.CHOKER, TAG.BLOWJOB, TAG.ANAL_SEX, TAG.DOUBLE_PENIS_PENETRATION, TAG.NAKADASHI, TAG.CUM_IN_MOUTH, TAG.CUM_SWALLOWING, TAG.PEACE_SIGN, TAG.AHEGAO, TAG.BUKKAKE
+            ],
+            location:[TAG.LOVE_HOTEL, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0484_1":{
+        character:[CHAR.DOLORES, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.BREASTS_OUT, TAG.TANK_TOP, TAG.PANTYLESS,
+                TAG.COWGIRL_POSITION,
+                TAG.VAGINAL_SEX, TAG.SWEATING, TAG.BREAST_GROPING, TAG.NAKADASHI
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+        nextScene:"0484_2"
+    },
+    "0484_2":{
+        character:[CHAR.DOLORES, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.TANK_TOP, TAG.BREASTS_OUT, TAG.PANTYLESS,
+                TAG.SITTING_SEX,
+                TAG.BREAST_GROPING, TAG.VAGINAL_SEX, TAG.SQUIRTING, TAG.NIPPLE_PINCHING, TAG.NAKADASHI
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0485":{
+        character:[CHAR.BILBA, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.THIGH_HIGH_STOCKINGS, TAG.BREASTS_OUT,
+                TAG.BREAST_SUCKING, TAG.INTERCRURAL_SEX, TAG.BUKKAKE
+
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[TAG.NO_SEX]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0486":{
+        character:[CHAR.MARGARET_RIDLEY, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.LINGERIE, TAG.PARTIALLY_TRANSPARENT_CLOTHING, TAG.PANTIES, TAG.THIGH_HIGH_STOCKINGS, TAG.EVENING_GLOVES, TAG.BREASTS_OUT, TAG.CHOKER,
+                TAG.COWGIRL_POSITION,
+                TAG.VAGINAL_SEX, TAG.NAKADASHI, TAG.SWEATING, TAG.BREAST_GROPING
+            ],
+            male:[],
+            location:[TAG.BROTHEL, TAG.PRIVATE],
             misc:[]
         },
         ignoredCharacterTags:[],
