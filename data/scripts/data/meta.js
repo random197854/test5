@@ -4788,6 +4788,22 @@ var CHAR = {
                     japAlias:[]
                 },
             },
+            witch:{
+                name:{
+                    eng:"Genei no Majo",
+                    engAlias:["Phantom Witch", "Phantom Witch Shiranui", "Fallen Shiranui", "Demon Shiranui", "Witch Shiranui"],
+                    jap:"幻影の魔女",
+                    japAlias:[]
+                },
+                tags:[
+                    TAG.HETEROCHROMIA, TAG.BLUE_EYES, TAG.HORNS,
+                    TAG.UNNATURAL_SKIN
+                ],
+                remove:{
+                    tags:[TAG.LIGHT_SKIN]
+                }
+
+            },
             young:{
                 name:{
                     eng:"Young Shiranui",
@@ -23561,8 +23577,8 @@ var SCENE = {
         character:CHAR.KOKOA_LAPUCELLE,
         tags:{
             female:[
-                TAG.HORNS, TAG.COMPLETELY_NAKED,
-                TAG.VAGINAL_SEX, TAG.ASPHYXIATION, TAG.NAKADASHI,
+                TAG.HORNS, TAG.COMPLETELY_NAKED, 
+                TAG.FUTANARI, TAG.VAGINAL_SEX, TAG.ASPHYXIATION, TAG.NAKADASHI,
             ],
             male:[
                 TAG.NAKED, TAG.CHOKER, TAG.BLOWJOB, TAG.ANAL_SEX, TAG.DOUBLE_PENIS_PENETRATION, TAG.NAKADASHI, TAG.CUM_IN_MOUTH, TAG.CUM_SWALLOWING, TAG.PEACE_SIGN, TAG.AHEGAO, TAG.BUKKAKE
@@ -23625,6 +23641,62 @@ var SCENE = {
             ],
             male:[],
             location:[TAG.BROTHEL, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0487_1":{
+        character:[CHAR.MIZUKI_SHIRANUI, CHAR.MIZUKI_SHIRANUI],
+        form:["witch", "adult"],
+        tags:{
+            female:[
+                TAG.TAIMANIN_OUTFIT, TAG.BREASTS_OUT, TAG.PANTIES_PUSHED_TO_SIDE, TAG.THIGH_HIGH_STOCKINGS, TAG.RIPPED_CLOTHING,
+                TAG.TENTACLE_BONDAGE, TAG.BREAST_GROPING, TAG.TENTACLE_RAPE, TAG.VAGINAL_LEAKAGE, TAG.BREAST_INJECTION, TAG.STOMACH_DEFORMATION, TAG.BLOWJOB, TAG.VAGINAL_SEX, TAG.ANAL_SEX, TAG.TRIPLE_PENIS_PENETRATION, TAG.NAKADASHI, TAG.BUKKAKE, TAG.INCONTINENCE, TAG.BREAST_GROPING
+            ],
+            male:[],
+            location:[TAG.FLESH_ROOM, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+        nextScene:"0487_2"
+    },
+    "0487_2":{
+        character:CHAR.MIZUKI_SHIRANUI,
+        form:"witch",
+        tags:{
+            female:[
+                TAG.BREASTS_OUT, TAG.PANTYLESS,
+                TAG.SPREAD_PUSSY, TAG.VAGINAL_LEAKAGE, TAG.BUKKAKE, TAG.VAGINAL_SEX, TAG.AHEGAO
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0488_1":{
+        character:CHAR.FUUMA_AKI,
+        tags:{
+            female:[
+                TAG.TAIMANIN_OUTFIT, TAG.BREASTS_OUT, TAG.PANTYLESS,
+                TAG.BREAST_GROPING, TAG.BREAST_SUCKING, TAG.CUNNILINGUS, TAG.VAGINAL_SEX, TAG.NIPPLE_PINCHING, TAG.LACTATION
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE, TAG.ON_BED],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+        nextScene:"0488_2"
+    },
+    "0488_2":{
+        character:CHAR.FUUMA_AKI,
+        tags:{
+            female:[
+                TAG.TAIMANIN_OUTFIT, TAG.BREASTS_OUT, TAG.PANTYLESS,
+                TAG.PREGNANT, TAG.BLOWJOB, TAG.VAGINAL_SEX, TAG.VAGINAL_LEAKAGE, TAG.NAKADASHI, TAG.CUM_IN_MOUTH, TAG.LACTATION, TAG.BREAST_GROPING, TAG.DOUBLE_PENIS_PENETRATION
+            ],
+            male:[TAG.ANILINGUS],
+            location:[TAG.INSIDE, TAG.PRIVATE, TAG.ON_BED],
             misc:[]
         },
         ignoredCharacterTags:[],
