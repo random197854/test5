@@ -1017,6 +1017,24 @@ var CV = {
         jap: "霜月咲空",
         japAlias: ["霜月", "咲空"]
     },
+    SAITOU_YOSHIE:{
+        eng: "Saitou Yoshie",
+        engAlias: ["Saitou", "Yoshie Saitou", "Yoshie"],
+        jap: "さいとうよしえ",
+        japAlias: ["さいとう", "よしえ"]
+    },
+    HANAMIYA_KAEDE:{
+        eng: "Hanamiya Kaede",
+        engAlias: ["Hanamiya", "Kaede Hanamiya"],
+        jap: "花宮楓",
+        japAlias: ["花宮", "楓"]
+    },
+    OMYOU_NODOKA:{
+        eng: "Omyou Nodoka",
+        engAlias: ["Omyou", "Nodoka Omyou", "Nodoka"],
+        jap: "尾名和奏",
+        japAlias: ["尾名", "和奏"]
+    },
     IGNORE:{
         eng: "",
         engAlias: [],
@@ -8852,6 +8870,82 @@ var CHAR = {
             cv:CV.AONO_MUSUBI
         }
     },
+    KURAHASI_HOKUTO:{
+        base:{
+            name:{
+                eng:"Kurahashi Hokuto",
+                engAlias:["Kurahashi", "Hokuto Kurahashi", "Hokuto"],
+                jap:"鞍橋ほくと",
+                japAlias:["鞍橋", "ほくと"]
+            },
+            tags:[
+                TAG.BLACK_HAIR, TAG.LONG_HAIR,
+                TAG.GREEN_EYES,
+                TAG.LIGHT_SKIN, TAG.AVERAGE_BREASTS
+            ],
+            gender:"female",
+            originalCharacter:true,
+            artist:ARTIST.SANO_TOSHIHIDE,
+            cv:CV.SAITOU_YOSHIE
+        }
+    },
+    KAMIMURA_AZUMA:{
+        base:{
+            name:{
+                eng:"Kamimura Azuma",
+                engAlias:["Azuma Kamimura", "Azuma", "Kamimura"],
+                jap:"神村東",
+                japAlias:["神村", "東"]
+            },
+            tags:[
+               TAG.ORANGE_HAIR, TAG.PONYTAIL,
+               TAG.VIOLET_EYES,
+               TAG.LIGHT_SKIN, TAG.BIG_BREASTS
+            ],
+            gender:"female",
+            originalCharacter:false,
+            artist:ARTIST.KAGAMI_HIROTAKA,
+            cv:CV.NAKANO_SHINO
+        }
+    },
+    MURUSHIE:{
+        base:{
+            name:{
+                eng:"Murushie",
+                engAlias:[""],
+                jap:"ムルシェ",
+                japAlias:[""]
+            },
+            tags:[
+                TAG.GREEN_HAIR, TAG.LONG_HAIR,
+                TAG.GREEN_EYES,
+                TAG.LIGHT_SKIN, TAG.BIG_BREASTS, TAG.POINTED_EARS, TAG.HEAD_WINGS
+            ],
+            gender:"female",
+            originalCharacter:true,
+            artist:ARTIST.AIKAWA_ARISA,
+            cv:CV.HANAMIYA_KAEDE
+        }
+    },
+    ICHIMONJI_MIIKO:{
+        base:{
+            name:{
+                eng:"Ichimoji Miiko",
+                engAlias:["Ichimoji", "Miiko Ichimoji", "Miiko"],
+                jap:"一文字魅衣子",
+                japAlias:["一文字", "魅衣子"]
+            },
+            tags:[
+                TAG.BLACK_HAIR, TAG.LONG_HAIR,
+                TAG.GREY_EYES,
+                TAG.HUGE_BREASTS, TAG.LIGHT_SKIN
+            ],
+            gender:"female",
+            originalCharacter:true,
+            artist:ARTIST.ZOL,
+            cv:CV.OMYOU_NODOKA
+        }
+    },
 
     // :{
     //     base:{
@@ -9214,25 +9308,6 @@ var CHAR = {
             originalCharacter:false,
             artist:ARTIST.KAGAMI_HIROTAKA,
             cv:CV.MOMOZONO_KAORU
-        }
-    },
-    KAMIMURA_AZUMA:{
-        base:{
-            name:{
-                eng:"Kamimura Azuma",
-                engAlias:["Azuma Kamimura", "Azuma", "Kamimura"],
-                jap:"神村東",
-                japAlias:["神村", "東"]
-            },
-            tags:[
-               TAG.ORANGE_HAIR, TAG.PONYTAIL,
-               TAG.VIOLET_EYES,
-               TAG.LIGHT_SKIN, TAG.BIG_BREASTS
-            ],
-            gender:"female",
-            originalCharacter:false,
-            artist:ARTIST.KAGAMI_HIROTAKA,
-            cv:CV.NAKANO_SHINO
         }
     },
     MARIKA_KRISHNA:{
@@ -23696,6 +23771,86 @@ var SCENE = {
                 TAG.PREGNANT, TAG.BLOWJOB, TAG.VAGINAL_SEX, TAG.VAGINAL_LEAKAGE, TAG.NAKADASHI, TAG.CUM_IN_MOUTH, TAG.LACTATION, TAG.BREAST_GROPING, TAG.DOUBLE_PENIS_PENETRATION
             ],
             male:[TAG.ANILINGUS],
+            location:[TAG.INSIDE, TAG.PRIVATE, TAG.ON_BED],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0489_1":{
+        character:CHAR.KURAHASI_HOKUTO,
+        tags:{
+            female:[
+                TAG.BREASTS_OUT, TAG.PANTIES_PUSHED_TO_SIDE, TAG.THIGH_HIGH_STOCKINGS,
+                TAG.BREAST_GROPING, TAG.TENTACLE_RAPE, TAG.VAGINAL_SEX, TAG.ANAL_SEX, TAG.DOUBLE_PENIS_PENETRATION, TAG.DEEPTHROAT, TAG.TRIPLE_PENIS_PENETRATION, TAG.NIPPLE_SUCKING, TAG.SQUIRTING, TAG.NAKADASHI, TAG.BUKKAKE
+            ],
+            male:[],
+            location:[TAG.OUTSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0489_2":{
+        character:CHAR.KURAHASI_HOKUTO,
+        tags:{
+            female:[
+                TAG.BREASTS_OUT, TAG.PANTIES_PUSHED_TO_SIDE, TAG.THIGH_HIGH_STOCKINGS,
+                TAG.RAPE, TAG.VAGINAL_SEX, TAG.SQUIRTING, TAG.NAKADASHI, TAG.STOMACH_INFLATION, TAG.ANAL_SEX, TAG.BUKKAKE
+            ],
+            male:[],
+            location:[TAG.OUTSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0490_1":{
+        character:CHAR.KAMIMURA_AZUMA,
+        tags:{
+            female:[
+                TAG.THIGH_HIGH_STOCKINGS, TAG.TIGHT_CLOTHING, TAG.SHORT_SHORTS,
+                TAG.QUICKIE_FIX_POSITION,
+                TAG.LIVE_STREAMING, TAG.VAGINAL_SEX, TAG.AHEGAO, TAG.WEARING_CONDOMS, TAG.VAGINAL_LEAKAGE, TAG.DRUGS
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[TAG.OVERLAY_XRAY]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0490_2":{
+        character:CHAR.KAMIMURA_AZUMA,
+        tags:{
+            female:[
+                TAG.BREASTS_OUT, TAG.TIGHT_CLOTHING, TAG.THIGH_HIGH_STOCKINGS, TAG.LEOTARD, TAG.SHORT_SHORTS, TAG.NIPPLE_PIERCING,
+                TAG.LIVE_STREAMING, TAG.VAGINAL_SEX, TAG.VAGINAL_LEAKAGE, TAG.AHEGAO, TAG.NAKADASHI, TAG.WOMB_TATTOO, TAG.KISSING, TAG.HEART_PUPILS, TAG.LACTATION
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE, TAG.ON_BED],
+            misc:[TAG.OVERLAY_XRAY]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0491":{
+        character:CHAR.MURUSHIE,
+        tags:{
+            female:[
+            TAG.BREASTS_OUT, TAG.PANTIES_PUSHED_TO_SIDE, TAG.PANTYLESS,
+                TAG.COWGIRL_POSITION,
+                TAG.VAGINAL_SEX, TAG.BREAST_GROPING, TAG.RYONA, TAG.NAKADASHI
+            ],
+            male:[],
+            location:[TAG.OUTSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0492":{
+        character:[CHAR.ICHIMONJI_MIIKO, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.TAIMANIN_OUTFIT, TAG.UNDERBOOB, TAG.RIPPED_CLOTHING, TAG.VAGINAL_CUTOUT, TAG.BREAST_CUTOUTS,
+                TAG.NIPPLE_PINCHING, TAG.VAGINAL_SEX, TAG.VAGINAL_LEAKAGE, TAG.NAKADASHI, TAG.BUKKAKE, TAG.INCONTINENCE, TAG.AHEGAO
+            ],
+            male:[],
             location:[TAG.INSIDE, TAG.PRIVATE, TAG.ON_BED],
             misc:[]
         },
