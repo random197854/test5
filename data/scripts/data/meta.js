@@ -23788,6 +23788,7 @@ var SCENE = {
             misc:[]
         },
         ignoredCharacterTags:[],
+        nextScene:"0489_2"
     },
     "0489_2":{
         character:CHAR.KURAHASI_HOKUTO,
@@ -23815,6 +23816,7 @@ var SCENE = {
             misc:[TAG.OVERLAY_XRAY]
         },
         ignoredCharacterTags:[],
+        nextScene:"0490_2"
     },
     "0490_2":{
         character:CHAR.KAMIMURA_AZUMA,
@@ -23853,6 +23855,92 @@ var SCENE = {
             male:[],
             location:[TAG.INSIDE, TAG.PRIVATE, TAG.ON_BED],
             misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0493_1":{
+        character:CHAR.MIKAGE_KOUME,
+        tags:{
+            female:[
+                TAG.CHRISTMAS_CLOTHING, TAG.BREASTS_OUT, TAG.PANTIES_PUSHED_TO_SIDE,
+                TAG.FULL_NELSON,
+                TAG.VAGINAL_SEX, TAG.STOMACH_DEFORMATION, TAG.STOMACH_INFLATION, TAG.NAKADASHI, TAG.ANAL_SEX, TAG.DOUBLE_PENIS_PENETRATION, TAG.AHEGAO, TAG.GAPING
+            ],
+            male:[TAG.OGRE],
+            location:[TAG.BROTHEL, TAG.SEMI_PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+        nextScene:"0493_2"
+    },
+    "0493_2":{
+        character:CHAR.MIKAGE_KOUME,
+        tags:{
+            female:[
+                TAG.CHRISTMAS_CLOTHING, TAG.BREASTS_OUT, TAG.PANTYLESS,
+                TAG.INTERCRURAL_SEX, TAG.BLOWJOB, TAG.BUKKAKE, TAG.CUM_IN_MOUTH, TAG.NIPPLE_PINCHING, TAG.MINDBREAK
+            ],
+            male:[],
+            location:[TAG.BROTHEL, TAG.SEMI_PRIVATE],
+            misc:[TAG.NO_SEX]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0494_1":{
+        character:[CHAR.ONISAKI_KIRARA, CHAR.FUUMA_KOTAROU],
+        form:["young", null],
+        tags:{
+            female:[
+                TAG.CHRISTMAS_CLOTHING, TAG.BREASTS_OUT, TAG.THIGH_HIGH_STOCKINGS, TAG.LEOTARD, TAG.PANTIES_PUSHED_TO_SIDE,
+                TAG.STANDING_SEX,
+                TAG.NIPPLE_PINCHING, TAG.VAGINAL_SEX, TAG.NAKADASHI, TAG.AHEGAO, TAG.VAGINAL_LEAKAGE, TAG.SPREAD_PUSSY
+            ],
+            male:[],
+            location:[TAG.BEDROOM, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+        nextScene:"0494_2"
+    },
+    "0494_2":{
+        character:[CHAR.ONISAKI_KIRARA, CHAR.FUUMA_KOTAROU],
+        form:["young", null],
+        tags:{
+            female:[
+                TAG.CHRISTMAS_CLOTHING, TAG.BREASTS_OUT, TAG.THIGH_HIGH_STOCKINGS, TAG.LEOTARD, TAG.PANTIES_PUSHED_TO_SIDE,
+                TAG.STANDING_SEX,
+                TAG.VAGINAL_SEX, TAG.VAGINAL_LEAKAGE, TAG.AHEGAO, TAG.NAKADASHI, TAG.STOMACH_DEFORMATION, TAG.HEART_PUPILS
+            ],
+            male:[],
+            location:[TAG.PARK, TAG.SEMI_PUBLIC],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0495":{
+        character:CHAR.HATSUKAZE,
+        tags:{
+            female:[
+                TAG.CHRISTMAS_CLOTHING, TAG.BREASTS_OUT, TAG.PANTYLESS, TAG.THIGH_HIGH_STOCKINGS,
+                TAG.PILEDRIVER,
+                TAG.VAGINAL_SEX, TAG.STOMACH_DEFORMATION, TAG.BUKKAKE, TAG.AHEGAO, TAG.NAKADASHI
+            ],
+            male:[TAG.ORC],
+            location:[TAG.OUTSIDE, TAG.SEMI_PUBLIC],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0496":{
+        character:[CHAR.LILINOE, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.CHRISTMAS_CLOTHING, TAG.BREASTS_OUT, TAG.FINGERLESS_GLOVES, TAG.CHOKER,
+                TAG.HANDJOB, TAG.PAIZURI, TAG.SALIVA, TAG.BUKKAKE
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[TAG.NO_SEX]
         },
         ignoredCharacterTags:[],
     },
