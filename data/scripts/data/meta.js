@@ -23944,6 +23944,89 @@ var SCENE = {
         },
         ignoredCharacterTags:[],
     },
+    "0497_1":{
+        character:[CHAR.MOCHIZUKI_UNA, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.KIMONO, TAG.PANTIES, TAG.BREASTS_OUT,
+                TAG.PAIZURI, TAG.BUKKAKE, TAG.BLOWJOB_PAIZURI, TAG.NIPPLE_PINCHING, TAG.CUM_IN_MOUTH, TAG.INCONTINENCE
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[TAG.NO_SEX]
+        },
+        ignoredCharacterTags:[],
+        nextScene:"0497_2"
+    },
+    "0497_2":{
+        character:[CHAR.MOCHIZUKI_UNA, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.KIMONO, TAG.PANTIES_AROUND_LEG, TAG.BREASTS_OUT,
+                TAG.QUICKIE_FIX_POSITION,
+                TAG.VAGINAL_SEX, TAG.VAGINAL_LEAKAGE, TAG.NAKADASHI, TAG.INCONTINENCE, TAG.AHEGAO
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0498_1":{
+        character:CHAR.AISHUU_HEBIKO,
+        form:"adult",
+        tags:{
+            female:[
+                TAG.OFF_THE_SHOULDER_KIMONO, TAG.HIGH_HEELS, TAG.THIGH_HIGH_STOCKINGS, TAG.PARTIALLY_TRANSPARENT_CLOTHING, TAG.LEOTARD,
+                TAG.BREAST_GROPING, TAG.BREAST_SUCKING, TAG.CUNNILINGUS, TAG.VAGINAL_FINGERING, TAG.AHEGAO, TAG.SQUIRTING
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[TAG.NO_SEX]
+        },
+        ignoredCharacterTags:[],
+        nextScene:"0498_2"
+    },
+    "0498_2":{
+        character:CHAR.AISHUU_HEBIKO,
+        form:"adult",
+        tags:{
+            female:[
+                TAG.OFF_THE_SHOULDER_KIMONO, TAG.BREASTS_OUT, TAG.PANTIES_PUSHED_TO_SIDE, TAG.LEOTARD,
+                TAG.VAGINAL_SEX, TAG.ANAL_SEX, TAG.DOUBLE_PENIS_PENETRATION, TAG.KISSING, TAG.NAKADASHI, TAG.STOMACH_DEFORMATION, TAG.AHEGAO, TAG.CUM_IN_MOUTH, TAG.BLOWJOB, TAG.TRIPLE_PENIS_PENETRATION, TAG.STOMACH_INFLATION, TAG.NAKED, TAG.VAGINAL_LEAKAGE, TAG.BUKKAKE
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE, TAG.ON_BED],
+            misc:[TAG.OVERLAY_XRAY]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0499":{
+        character:CHAR.HASUMA_REIKO,
+        tags:{
+            female:[
+                TAG.KIMONO, TAG.FUTANARI, TAG.BREASTS_OUT, TAG.CHOKER,
+                TAG.ONAHOLE, TAG.NIPPLE_PINCHING, TAG.ANAL_SEX, TAG.VAGINAL_SEX, TAG.DOUBLE_PENIS_PENETRATION, TAG.BLOWJOB, TAG.TRIPLE_PENIS_PENETRATION, TAG.STOMACH_DEFORMATION, TAG.NAKADASHI, TAG.LACTATION, TAG.BUKKAKE, TAG.CUM_IN_MOUTH
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0500":{
+        character:CHAR.MERUME_ELHEIM,
+        tags:{
+            female:[
+                TAG.OFF_THE_SHOULDER_KIMONO, TAG.BREASTS_OUT, TAG.PANTIES, TAG.CHOKER,
+                TAG.BREAST_GROPING, TAG.ASS_GROPING, TAG.LACTATION, TAG.PAIZURI, TAG.BLOWJOB, TAG.NIPPLE_FUCK, TAG.TRIPLE_PENIS_PENETRATION, TAG.BUKKAKE, TAG.CUM_IN_MOUTH
+            ],
+            male:[TAG.SHOTA],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
 
     "EX0001":{
         character:CHAR.IGAWA_ASAGI,
