@@ -1035,6 +1035,24 @@ var CV = {
         jap: "尾名和奏",
         japAlias: ["尾名", "和奏"]
     },
+    MOMIJI_RIKO:{
+        eng: "Momiji Riko",
+        engAlias: ["Momiji", "Riko Momiji", "Riko"],
+        jap: "紅葉りこ",
+        japAlias: ["紅葉", "りこ"]
+    },
+    HAKATA_AKIKO:{
+        eng: "Hakata Akiko",
+        engAlias: ["Hakata", "Akiko Hakata", "Akiko"],
+        jap: "はかたあきこ",
+        japAlias: ["はかた", "あきこ"]
+    },
+    FUJIIRO_SAKU:{
+        eng: "Fujiiro Saku",
+        engAlias: ["Fujiiro", "Saku Fujiiro", "Saku"],
+        jap: "藤色朔",
+        japAlias: ["藤色", "朔"]
+    },
     IGNORE:{
         eng: "",
         engAlias: [],
@@ -4260,6 +4278,24 @@ var CHAR = {
             gender:"male",
             focus:false,
             // Ignored on male chars
+            originalCharacter:false,
+            artist:ARTIST.IGNORE,
+            cv:CV.IGNORE
+        }
+    },
+    TACHIBANA_ICHIROU:{
+        base:{
+            name:{
+                eng:"Tachibana Ichirou",
+                engAlias:["Tachibana", "Ichirou Tachibana", "Ichirou"],
+                jap:"橘壱郎",
+                japAlias:["橘", "壱郎"]
+            },
+            tags:[
+                
+            ],
+            gender:"male",
+            focus:false,
             originalCharacter:false,
             artist:ARTIST.IGNORE,
             cv:CV.IGNORE
@@ -8946,6 +8982,82 @@ var CHAR = {
             cv:CV.OMYOU_NODOKA
         }
     },
+    RYURI:{
+        base:{
+            name:{
+                eng:"Ryuri",
+                engAlias:[],
+                jap:"リューリ",
+                japAlias:[]
+            },
+            tags:[
+                TAG.VIOLET_HAIR, TAG.SHOULDER_LENGTH_HAIR,
+                TAG.RED_EYES,
+                TAG.BROWN_SKIN, TAG.SMALL_BREASTS, TAG.HORNS
+            ],
+            gender:"female",
+            originalCharacter:true,
+            artist:ARTIST.KUUCHUU_YOUSAI,
+            cv:CV.MOMIJI_RIKO
+        }
+    },
+    FUTABA_LILY_RAMSES:{
+        base:{
+            name:{
+                eng:"Futaba Lily Ramses",
+                engAlias:["Lily Ramses", "Lily"],
+                jap:"双葉・リリー・ラムセス",
+                japAlias:["双葉リリーラムセス", "リリーラムセス", "リリー"]
+            },
+            tags:[
+               TAG.GOLDEN_BLOND_HAIR, TAG.TWIN_TAILS, TAG.SHOULDER_LENGTH_HAIR,
+               TAG.BLUE_EYES,
+               TAG.LIGHT_BROWN_SKIN, TAG.SMALL_BREASTS
+            ],
+            gender:"female",
+            originalCharacter:false,
+            artist:ARTIST.AOI_NAGISA,
+            cv:CV.AOBA_RINGO
+        }
+    },
+    YAKUSHIJI_MIZUHO:{
+        base:{
+            name:{
+                eng:"Yakushiji Mizuho",
+                engAlias:["Yakushiji", "Mizuho Yakushiji", "Mizuho"],
+                jap:"薬師寺瑞穂",
+                japAlias:["薬師寺", "瑞穂"]
+            },
+            tags:[
+                TAG.WHITE_HAIR, TAG.BLUE_HAIR, TAG.MULTICOLORED_HAIR, TAG.SHOULDER_LENGTH_HAIR,
+                TAG.BLUE_EYES,
+                TAG.LIGHT_SKIN, TAG.BIG_BREASTS
+            ],
+            gender:"female",
+            originalCharacter:true,
+            artist:ARTIST.ZOL,
+            cv:CV.HAKATA_AKIKO
+        }
+    },
+    ITACHIYA_KOMACHI:{
+        base:{
+            name:{
+                eng:"Itachiya Komachi",
+                engAlias:["Itachiya", "Komachi Itachiya", "Komachi"],
+                jap:"板知屋小町",
+                japAlias:["板知屋", "小町"]
+            },
+            tags:[
+                TAG.BLACK_HAIR, TAG.LONG_HAIR, TAG.PONYTAIL,
+                TAG.GREEN_EYES,
+                TAG.LIGHT_SKIN, TAG.AVERAGE_BREASTS
+            ],
+            gender:"female",
+            originalCharacter:true,
+            artist:ARTIST.SANO_TOSHIHIDE,
+            cv:CV.FUJIIRO_SAKU
+        }
+    },
 
     // :{
     //     base:{
@@ -9041,25 +9153,6 @@ var CHAR = {
             originalCharacter:false,
             artist:ARTIST.ZOL,
             cv:CV.ENOKIZU_MAO
-        }
-    },
-    FUTABA_LILY_RAMSES:{
-        base:{
-            name:{
-                eng:"Futaba Lily Ramses",
-                engAlias:["Lily Ramses", "Lily"],
-                jap:"双葉・リリー・ラムセス",
-                japAlias:["双葉リリーラムセス", "リリーラムセス", "リリー"]
-            },
-            tags:[
-               TAG.GOLDEN_BLOND_HAIR, TAG.TWIN_TAILS, TAG.SHOULDER_LENGTH_HAIR,
-               TAG.BLUE_EYES,
-               TAG.LIGHT_BROWN_SKIN, TAG.SMALL_BREASTS
-            ],
-            gender:"female",
-            originalCharacter:false,
-            artist:ARTIST.AOI_NAGISA,
-            cv:CV.AOBA_RINGO
         }
     },
     MORINO_YUUKO:{
@@ -24027,6 +24120,84 @@ var SCENE = {
         },
         ignoredCharacterTags:[],
     },
+    "0501_1":{
+        character:[CHAR.RYURI, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.MICRO_BIKINI, TAG.THIGH_HIGH_STOCKINGS, TAG.BREASTS_OUT, TAG.PANTIES_PULLED_DOWN, TAG.THIGH_BAND,
+                TAG.HANDJOB, TAG.BUKKAKE, TAG.VAGINAL_LEAKAGE
+            ],
+            male:[TAG.NIPPLE_PLAY],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[TAG.NO_SEX]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0501_2":{
+        character:[CHAR.RYURI, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.MICRO_BIKINI, TAG.THIGH_HIGH_STOCKINGS, TAG.BREASTS_OUT, TAG.PANTIES_PUSHED_TO_SIDE,
+                TAG.BUKKAKE, TAG.SQUIRTING, TAG.NAKADASHI
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0502_1":{
+        character:[CHAR.FUTABA_LILY_RAMSES, CHAR.TACHIBANA_ICHIROU],
+        tags:{
+            female:[
+                TAG.TRANSPARENT_CLOTHING, TAG.LEOTARD, TAG.PANTIES_PUSHED_TO_SIDE,
+                TAG.NIPPLE_PINCHING, TAG.VAGINAL_LEAKAGE, TAG.VAGINAL_FINGERING, TAG.TENTACLE, TAG.TENTACLE_BONDAGE, TAG.SPREAD_PUSSY, TAG.VAGINAL_SEX, TAG.BLOWJOB, TAG.STOMACH_DEFORMATION, TAG.SLAVE_TATTOO, TAG.NAKADASHI, TAG.VAGINAL_LEAKAGE, TAG.ANAL_SEX, TAG.DOUBLE_PENETRATION, 
+            ],
+            male:[TAG.TENTACLE_CREATURE],
+            location:[TAG.CLASSROOM, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0502_2":{
+        character:[CHAR.FUTABA_LILY_RAMSES, CHAR.TACHIBANA_ICHIROU],
+        tags:{
+            female:[
+                TAG.TRANSPARENT_CLOTHING, TAG.LEOTARD, TAG.PANTIES_PUSHED_TO_SIDE, TAG.BREASTS_OUT,
+                TAG.VAGINAL_SEX, TAG.TENTACLE_BONDAGE, TAG.BLOWJOB, TAG.STOMACH_DEFORMATION, TAG.NIPPLE_PINCHING, TAG.TENTACLE, TAG.NAKADASHI, TAG.CUM_IN_MOUTH, TAG.BUKKAKE
+            ],
+            male:[],
+            location:[TAG.CLASSROOM, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0503":{
+        character:[CHAR.YAKUSHIJI_MIZUHO, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.BREASTS_OUT, TAG.PANTIES_PUSHED_TO_SIDE,
+                TAG.BUKKAKE, TAG.BREAST_GROPING, TAG.VAGINAL_SEX, TAG.VAGINAL_LEAKAGE, TAG.AHEGAO, TAG.NAKADASHI
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0504":{
+        character:[CHAR.ITACHIYA_KOMACHI, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.TAIMANIN_OUTFIT, TAG.PROTRUDING_NIPPLES, TAG.PARTIALLY_TRANSPARENT_CLOTHING, TAG.VAGINAL_CUTOUT,
+                TAG.HANDJOB, TAG.BUKKAKE, TAG.VAGINAL_SEX, TAG.NAKADASHI
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
 
     "EX0001":{
         character:CHAR.IGAWA_ASAGI,
@@ -29070,7 +29241,7 @@ var SCENE = {
     },
 
     "c384":{
-        character:CHAR.FUTABA_LILY_RAMSES,
+        character:[CHAR.FUTABA_LILY_RAMSES, CHAR.TACHIBANA_ICHIROU],
         tags:{
             female:[
                 TAG.DARK_SKIN
@@ -29083,7 +29254,7 @@ var SCENE = {
         nextScene:"c385"
     },
     "c385":{
-        character:CHAR.FUTABA_LILY_RAMSES,
+        character:[CHAR.FUTABA_LILY_RAMSES, CHAR.TACHIBANA_ICHIROU],
         tags:{
             female:[
                 TAG.DARK_SKIN
@@ -31000,7 +31171,7 @@ var SCENE = {
         ignoredCharacterTags:[],
     },
     "c526":{
-        character:CHAR.MORINO_YUUKO,
+        character:[CHAR.MORINO_YUUKO, CHAR.TACHIBANA_ICHIROU],
         tags:{
             female:[
                 
@@ -31012,7 +31183,7 @@ var SCENE = {
         ignoredCharacterTags:[],
     },
     "c527":{
-        character:CHAR.FUTABA_LILY_RAMSES,
+        character:[CHAR.FUTABA_LILY_RAMSES, CHAR.TACHIBANA_ICHIROU],
         tags:{
             female:[
                 
@@ -35191,7 +35362,7 @@ var SCENE = {
         ignoredCharacterTags:[],
     },
     "c859":{
-        character:CHAR.FUTABA_LILY_RAMSES,
+        character:[CHAR.FUTABA_LILY_RAMSES, CHAR.TACHIBANA_ICHIROU],
         tags:{
             female:[
                 TAG.AHEGAO
@@ -35204,7 +35375,7 @@ var SCENE = {
         nextScene:"c860"
     },
     "c860":{
-        character:CHAR.FUTABA_LILY_RAMSES,
+        character:[CHAR.FUTABA_LILY_RAMSES, CHAR.TACHIBANA_ICHIROU],
         tags:{
             female:[
                 TAG.AHEGAO
