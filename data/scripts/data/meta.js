@@ -21275,6 +21275,7 @@ var SCENE = {
             misc:[TAG.CUT_IN_XRAY]
         },
         ignoredCharacterTags:[],
+        nextScene:"0506_1"
     },
     "0368":{
         character:CHAR.ISUKA,
@@ -24132,6 +24133,7 @@ var SCENE = {
             misc:[TAG.NO_SEX]
         },
         ignoredCharacterTags:[],
+        nextScene:"0501_2"
     },
     "0501_2":{
         character:[CHAR.RYURI, CHAR.FUUMA_KOTAROU],
@@ -24158,6 +24160,7 @@ var SCENE = {
             misc:[]
         },
         ignoredCharacterTags:[],
+        nextScene:"0502_2"
     },
     "0502_2":{
         character:[CHAR.FUTABA_LILY_RAMSES, CHAR.TACHIBANA_ICHIROU],
@@ -24191,6 +24194,88 @@ var SCENE = {
             female:[
                 TAG.TAIMANIN_OUTFIT, TAG.PROTRUDING_NIPPLES, TAG.PARTIALLY_TRANSPARENT_CLOTHING, TAG.VAGINAL_CUTOUT,
                 TAG.HANDJOB, TAG.BUKKAKE, TAG.VAGINAL_SEX, TAG.NAKADASHI
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0505_1":{
+        character:[CHAR.CHIN_SHUNTAO, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.DRESS,
+                TAG.HANDJOB, TAG.KISSING
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.ON_BED, TAG.PRIVATE],
+            misc:[TAG.NO_SEX]
+        },
+        ignoredCharacterTags:[],
+        nextScene:"0505_2"
+    },
+    "0505_2":{
+        character:[CHAR.CHIN_SHUNTAO, CHAR.FUUMA_KOTAROU,],
+        tags:{
+            female:[
+                TAG.DRESS, TAG.PANTIES_PUSHED_TO_SIDE, TAG.BREASTS_OUT,
+                TAG.VAGINAL_SEX, TAG.BREAST_GROPING, TAG.NAKADASHI
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.ON_BED, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0506_1":{
+        character:[CHAR.IGAWA_ASAGI, CHAR.FUUMA_KOTAROU],
+        form:["clone", null],
+        tags:{
+            female:[
+                TAG.TRANSPARENT_CLOTHING, TAG.GLOVES,
+                TAG.PAIZURI, TAG.KISSING, TAG.LOTION, TAG.NIPPLE_PINCHING, TAG.BUKKAKE, TAG.CUM_SWALLOWING, TAG.CUM_IN_MOUTH
+            ],
+            male:[],
+            location:[TAG.BROTHEL, TAG.SEMI_PRIVATE],
+            misc:[TAG.NO_SEX]
+        },
+        ignoredCharacterTags:[],
+        nextScene:"0506_2"
+    },
+    "0506_2":{
+        character:[CHAR.IGAWA_ASAGI, CHAR.FUUMA_KOTAROU],
+        form:["clone", null],
+        tags:{
+            female:[
+                TAG.TRANSPARENT_CLOTHING, TAG.THIGH_HIGH_STOCKINGS,
+                TAG.ASS_GROPING, TAG.VAGINAL_SEX, TAG.NAKADASHI, TAG.VAGINAL_LEAKAGE, TAG.KISSING, TAG.HEART_PUPILS
+            ],
+            male:[],
+            location:[TAG.BROTHEL, TAG.SEMI_PRIVATE],
+            misc:[TAG.CUT_IN_XRAY]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0507":{
+        character:CHAR.MERRY,
+        tags:{
+            female:[
+                TAG.DRESS, TAG.BREASTS_OUT,
+                TAG.BLOWJOB, TAG.CUM_IN_MOUTH, TAG.BUKKAKE, TAG.VAGINAL_SEX, TAG.NAKADASHI
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0508":{
+        character:[CHAR.A_66_LUNA, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.SKIRT, TAG.BREASTS_OUT,
+                TAG.HANDJOB, TAG.BLOWJOB, TAG.CUM_IN_MOUTH
             ],
             male:[],
             location:[TAG.INSIDE, TAG.PRIVATE],
