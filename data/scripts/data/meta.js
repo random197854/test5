@@ -7458,6 +7458,32 @@ var CHAR = {
             originalCharacter:true,
             artist:ARTIST.SANO_TOSHIHIDE,
             cv:CV.SUGIHARA_MATSURI
+        },
+        form:{
+            adult:{
+                name:{
+                    eng:"Adult Kaoru",
+                    engAlias:[],
+                    jap:"大人カヲル",
+                    japAlias:[]
+                },
+            },
+            young:{
+                name:{
+                    eng:"Young Kaouru",
+                    engAlias:["Shinei Kaoru"],
+                    jap:"新鋭カヲル",
+                    japAlias:["若いカヲル"]
+                },
+                tags:[
+                    TAG.AVERAGE_BREASTS
+                ],
+                remove:{
+                    tags:[
+                        TAG.BIG_BREASTS
+                    ]
+                }
+            },
         }
     },
     SHIJIMA_MUGI:{
@@ -9056,6 +9082,44 @@ var CHAR = {
             originalCharacter:true,
             artist:ARTIST.SANO_TOSHIHIDE,
             cv:CV.FUJIIRO_SAKU
+        }
+    },
+    KIRIGASUMI_RITSUHA:{
+        base:{
+            name:{
+                eng:"Kirigasumi Ritsuha",
+                engAlias:["Kirigasumi", "Ritsuha Kirigasumi", "Ritsuha"],
+                jap:"霧霞律芭",
+                japAlias:["霧霞", "律芭"]
+            },
+            tags:[
+                TAG.VIOLET_HAIR, TAG.LONG_HAIR,
+                TAG.VIOLET_EYES,
+                TAG.LIGHT_SKIN, TAG.BIG_BREASTS
+            ],
+            gender:"female",
+            originalCharacter:true,
+            artist:ARTIST.ZOL,
+            cv:CV.KANAN
+        }
+    },
+    SHIKIMI:{
+        base:{
+            name:{
+                eng:"Shikimi",
+                engAlias:[],
+                jap:"シキミ",
+                japAlias:[]
+            },
+            tags:[
+                TAG.BLOND_HAIR, TAG.LONG_HAIR,
+                TAG.BLUE_EYES,
+                TAG.LIGHT_SKIN, TAG.BIG_BREASTS
+            ],
+            gender:"female",
+            originalCharacter:true,
+            artist:ARTIST.NOBUSHITO,
+            cv:CV.MUGIME_PURIN
         }
     },
 
@@ -18884,6 +18948,7 @@ var SCENE = {
     },
     "0256_1":{
         character:CHAR.TEKKAIN_KAORU,
+        form:"adult",
         tags:{
             female:[
                 TAG.TAIMANIN_OUTFIT, TAG.RIPPED_CLOTHING, TAG.VAGINAL_CUTOUT, TAG.NIPPLE_CUTOUTS,
@@ -18898,6 +18963,7 @@ var SCENE = {
     },
     "0256_2":{
         character:CHAR.TEKKAIN_KAORU,
+        form:"adult",
         tags:{
             female:[
                 TAG.BRA, TAG.PANTIES, TAG.GARTER_BELT, TAG.BREASTS_OUT, TAG.PANTIES_PUSHED_TO_SIDE,
@@ -22573,6 +22639,7 @@ var SCENE = {
     },
     "0429":{
         character:CHAR.TEKKAIN_KAORU,
+        form:"adult",
         tags:{
             female:[
                 TAG.DRESS, TAG.PANTYLESS, TAG.PROTRUDING_NIPPLES,
@@ -24283,6 +24350,88 @@ var SCENE = {
         },
         ignoredCharacterTags:[],
     },
+    "0509_1":{
+        character:CHAR.TEKKAIN_KAORU,
+        form:"young",
+        tags:{
+            female:[
+                TAG.TAIMANIN_OUTFIT, TAG.THIGH_HIGH_STOCKINGS, TAG.PANTIES_PUSHED_TO_SIDE, TAG.PROTRUDING_NIPPLES,
+                TAG.STANDING_SEX,
+                TAG.DEFLORATION, TAG.VAGINAL_SEX, TAG.VAGINAL_LEAKAGE, TAG.METAL_BONDAGE, TAG.RAPE, TAG.SQUIRTING, TAG.NAKADASHI, TAG.AHEGAO, TAG.INCONTINENCE
+
+            ],
+            male:[],
+            location:[TAG.PRISON_CELL, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0509_2":{
+        character:CHAR.TEKKAIN_KAORU,
+        form:"young",
+        tags:{
+            female:[
+                TAG.COMPLETELY_NAKED, TAG.COLLAR,
+                TAG.VAGINAL_LEAKAGE, TAG.VIBRATOR, TAG.ANAL_INSERTION, TAG.BLOWJOB, TAG.ANAL_SEX, TAG.CUM_IN_MOUTH, TAG.NAKADASHI, TAG.CUM_SWALLOWING, TAG.DICK_CLEANING_BLOWJOB, TAG.SEXUAL_SLAVERY, TAG.DOUBLE_PENETRATION
+            ],
+            male:[],
+            location:[TAG.PRISON_CELL, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0510_1":{
+        character:CHAR.ASTAROTH,
+        tags:{
+            female:[
+                TAG.DRESS, TAG.BREASTS_OUT, TAG.THIGH_HIGH_STOCKINGS, TAG.PANTYLESS,
+                TAG.BREAST_GROPING, TAG.FORCEFUL_BLOWJOB, TAG.ANAL_SEX, TAG.VAGINAL_SEX, TAG.ASS_GROPING, TAG.NAKADASHI, TAG.BUKKAKE, TAG.TRIPLE_PENIS_PENETRATION, TAG.CUM_IN_MOUTH, TAG.LONG_TONGUE
+            ],
+            male:[TAG.ORC],
+            location:[TAG.PRISON_CELL, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0510_2":{
+        character:CHAR.ASTAROTH,
+        tags:{
+            female:[
+                TAG.DRESS, TAG.THIGH_HIGH_STOCKINGS, TAG.BREASTS_OUT, TAG.RIPPED_CLOTHING, TAG.PANTYLESS,
+                TAG.FEMDOM, TAG.FOOTJOB, TAG.BUKKAKE
+            ],
+            male:[TAG.ORC],
+            location:[TAG.PRISON_CELL, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0511":{
+        character:CHAR.KIRIGASUMI_RITSUHA,
+        tags:{
+            female:[
+                TAG.GLASSES, TAG.THONG, TAG.BRA, TAG.PROTRUDING_NIPPLES, TAG.BREASTS_OUT, TAG.PANTIES_PUSHED_TO_SIDE,
+                TAG.VAGINAL_SEX, TAG.BLOWJOB, TAG.HANDJOB, TAG.DOUBLE_PENIS_PENETRATION, TAG.VAGINAL_LEAKAGE, TAG.NAKADASHI, TAG.CUM_IN_MOUTH, TAG.BUKKAKE, TAG.BREAST_GROWTH, TAG.LONG_TONGUE
+            ],
+            male:[],
+            location:[TAG.CLASSROOM, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0512":{
+        character:CHAR.SHIKIMI,
+        tags:{
+            female:[
+                TAG.RIPPED_CLOTHING, TAG.BREAST_CUTOUTS, TAG.PANTIES_PUSHED_TO_SIDE, TAG.THIGH_HIGH_STOCKINGS,
+                TAG.ELECTRIC_SHOCKS, TAG.CLAMPS, TAG.VAGINAL_LEAKAGE, TAG.VAGINAL_SEX, TAG.NAKADASHI, TAG.AHEGAO
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE, TAG.ON_BED],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
 
     "EX0001":{
         character:CHAR.IGAWA_ASAGI,
@@ -24351,6 +24500,39 @@ var SCENE = {
             misc:[]
         },
         ignoredCharacterTags:[],
+    },
+    "EX0005_1":{
+        character:[CHAR.MIZUKI_YUKIKAZE, CHAR.FUUMA_KOTAROU],
+        form:["young", null],
+        tags:{
+            female:[
+                TAG.COMPLETELY_NAKED, TAG.HAIR_RIBBON,
+                TAG.SITTING_SEX,
+                TAG.VAGINAL_SEX, TAG.NIPPLE_PINCHING, TAG.NAKADASHI, TAG.FINGER_SUCKING,
+                TAG.LIGHT_SKIN
+            ],
+            male:[],
+            location:[TAG.BEDROOM, TAG.ON_BED, TAG.PRIVATE],
+            misc:[TAG.CUT_IN_XRAY]
+        },
+        ignoredCharacterTags:[TAG.TANNED_SKIN, TAG.TANLINES],
+        nextScene:"EX0005_2"
+    },
+    "EX0005_2":{
+        character:CHAR.MIZUKI_YUKIKAZE,
+        form:"young",
+        tags:{
+            female:[
+                TAG.COMPLETELY_NAKED, TAG.HAIR_RIBBON,
+                TAG.DOGGY_STYLE,
+                TAG.ANAL_BEADS, TAG.BLOWJOB, TAG.VAGINAL_SEX, TAG.DOUBLE_PENIS_PENETRATION, TAG.TRIPLE_PENETRATION, TAG.SPANKING, TAG.NAKADASHI, TAG.VAGINAL_FINGERING, TAG.AHEGAO, TAG.ANAL_SEX, TAG.CUM_IN_MOUTH, TAG.BUKKAKE,
+                TAG.LIGHT_SKIN
+            ],
+            male:[],
+            location:[TAG.BEDROOM, TAG.SEMI_PRIVATE],
+            misc:[TAG.GROUP]
+        },
+        ignoredCharacterTags:[TAG.TANNED_SKIN, TAG.TANLINES],
     },
 
 
@@ -34859,6 +35041,7 @@ var SCENE = {
     },
     "c807":{
         character:CHAR.TEKKAIN_KAORU,
+        form:"adult",
         tags:{
             female:[
                 TAG.TAIMANIN_OUTFIT, TAG.HIGH_HEELS,
@@ -34873,6 +35056,7 @@ var SCENE = {
     },
     "c808":{
         character:CHAR.TEKKAIN_KAORU,
+        form:"adult",
         tags:{
             female:[
                 TAG.TAIMANIN_OUTFIT, TAG.CROTCHLESS_CLOTHING, TAG.RIPPED_CLOTHING,
