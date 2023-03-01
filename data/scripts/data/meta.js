@@ -24432,6 +24432,88 @@ var SCENE = {
         },
         ignoredCharacterTags:[],
     },
+    "0513_1":{
+        character:[CHAR.FUUMA_KOTAROU, CHAR.ISHIGAWA_AMU],
+        tags:{
+            female:[
+                TAG.DRESS, TAG.FINGERLESS_EVENING_GLOVES, TAG.HAIR_FLOWERS,
+                TAG.BLOWJOB, TAG.CUM_SWALLOWING, TAG.BUKKAKE
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0513_2":{
+        character:[CHAR.FUUMA_KOTAROU, CHAR.ISHIGAWA_AMU],
+        tags:{
+            female:[
+                TAG.DRESS, TAG.FINGERLESS_EVENING_GLOVES, TAG.RIPPED_CLOTHING, TAG.BREASTS_OUT,
+                TAG.DOGGY_STYLE,
+                TAG.BREAST_GROPING, TAG.VAGINAL_SEX, TAG.NIPPLE_PINCHING, TAG.SQUIRTING, TAG.NAKADASHI, TAG.AHEGAO
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE, TAG.ON_BED],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0514_1":{
+        character:[CHAR.FUUMA_KOTAROU, CHAR.MIZUKI_YUKIKAZE],
+        form:[null, "adult"],
+        tags:{
+            female:[
+                TAG.DRESS, TAG.BREASTS_OUT, TAG.EVENING_GLOVES, TAG.CHOKER,
+                TAG.HANDJOB, TAG.KISSING, TAG.NIPPLE_PLAY, TAG.BUKKAKE, TAG.AHEGAO
+            ],
+            male:[],
+            location:[TAG.TOILET, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0514_2":{
+        character:[CHAR.FUUMA_KOTAROU, CHAR.MIZUKI_YUKIKAZE],
+        form:[null, "adult"],
+        tags:{
+            female:[
+                TAG.DRESS, TAG.BREASTS_OUT, TAG.THONG, TAG.PANTIES_PUSHED_TO_SIDE, TAG.EVENING_GLOVES, TAG.CHOKER,
+                TAG.QUICKIE_FIX_POSITION,
+                TAG.VAGINAL_SEX, TAG.NAKADASHI, TAG.BUKKAKE
+            ],
+            male:[],
+            location:[TAG.TOILET, TAG.SEMI_PRIVATE],
+            misc:[TAG.CUT_IN_XRAY]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0515":{
+        character:[CHAR.FUUMA_KOTAROU, CHAR.SHIARI],
+        tags:{
+            female:[
+                TAG.DRESS, TAG.EVENING_GLOVES, TAG.CHOKER,
+                TAG.BLOWJOB, TAG.BUKKAKE, TAG.CUM_SWALLOWING
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PUBLIC],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0516":{
+        character:[CHAR.FUUMA_KOTAROU, CHAR.ANLEAD_BONNIE],
+        tags:{
+            female:[
+                TAG.DRESS, TAG.THIGH_BAND, TAG.EVENING_GLOVES, TAG.BREASTS_OUT, TAG.CHOKER,
+                TAG.FEMDOM, TAG.VAGINAL_SEX, TAG.BUKKAKE, TAG.PUBIC_HAIR, TAG.KISSING, TAG.NAKADASHI, TAG.AHEGAO, TAG.WOMB_TATTOO
+            ],
+            male:[TAG.PET_COLLAR],
+            location:[TAG.INSIDE, TAG.PRIVATE, TAG.ON_BED],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
 
     "EX0001":{
         character:CHAR.IGAWA_ASAGI,
