@@ -1053,6 +1053,12 @@ var CV = {
         jap: "藤色朔",
         japAlias: ["藤色", "朔"]
     },
+    SEKITA_IORI:{
+        eng: "Sekita Iori",
+        engAlias: ["Sekita", "Iori Sekita", "Iori"],
+        jap: "関田いおり",
+        japAlias: ["関田", "いおり"]
+    },
     IGNORE:{
         eng: "",
         engAlias: [],
@@ -9122,6 +9128,66 @@ var CHAR = {
             cv:CV.MUGIME_PURIN
         }
     },
+    MARIKA_KRISHNA:{
+        base:{
+            name:{
+                eng:"Marika Krishna",
+                engAlias:["Marika", "Krishna"],
+                jap:"マリカ・クリシュナ",
+                japAlias:["マリカクリシュナ", "マリカ", "クリシュナ"]
+            },
+            tags:[
+               TAG.PLATINUM_BLOND_HAIR, TAG.LONG_HAIR,
+               TAG.BLUE_EYES,
+               TAG.DARK_SKIN, TAG.BIG_BREASTS
+            ],
+            gender:"female",
+            originalCharacter:false,
+            artist:ARTIST.KAGAMI_HIROTAKA,
+            cv:CV.MISONOO_MEI
+        }
+    },
+    ELSIE_MOMOA:{
+        base:{
+            name:{
+                eng:"Elsie Momoa",
+                engAlias:["Elsie", "Momoa Elsie", "Momoa"],
+                jap:"エルシー・モモア",
+                japAlias:["エルシーモモア", "エルシー", "モモア"]
+            },
+            tags:[
+                TAG.PINK_HAIR, TAG.BLUE_HAIR, TAG.MULTICOLORED_HAIR, TAG.SHOULDER_LENGTH_HAIR,
+                TAG.BLUE_EYES,
+                TAG.SHARK_TEETH, TAG.LIGHT_SKIN, TAG.BIG_BREASTS
+            ],
+            gender:"female",
+            originalCharacter:true,
+            artist:ARTIST.SAIJO_SATORU,
+            cv:CV.SEKITA_IORI
+        }
+    },
+    GLORIA:{
+        base:{
+            name:{
+                eng:"Gloria",
+                engAlias:[],
+                jap:"グローリア",
+                japAlias:[]
+            },
+            tags:[
+                TAG.BLUE_HAIR, TAG.LONG_HAIR,
+                TAG.VIOLET_EYES,
+                TAG.LIGHT_SKIN, TAG.AVERAGE_BREASTS, TAG.HORNS
+            ],
+            gender:"female",
+            originalCharacter:true,
+            artist:ARTIST.HOMURA_YUNI,
+            cv:CV.FUJINOMIYA_KISEKI
+        }
+    },
+
+
+
 
     // :{
     //     base:{
@@ -9465,25 +9531,6 @@ var CHAR = {
             originalCharacter:false,
             artist:ARTIST.KAGAMI_HIROTAKA,
             cv:CV.MOMOZONO_KAORU
-        }
-    },
-    MARIKA_KRISHNA:{
-        base:{
-            name:{
-                eng:"Marika Krishna",
-                engAlias:["Marika", "Krishna"],
-                jap:"マリカ・クリシュナ",
-                japAlias:["マリカクリシュナ", "マリカ", "クリシュナ"]
-            },
-            tags:[
-               TAG.PLATINUM_BLOND_HAIR, TAG.LONG_HAIR,
-               TAG.BLUE_EYES,
-               TAG.DARK_SKIN, TAG.BIG_BREASTS
-            ],
-            gender:"female",
-            originalCharacter:false,
-            artist:ARTIST.KAGAMI_HIROTAKA,
-            cv:CV.MISONOO_MEI
         }
     },
     SOPHIA_ARDUISO_FAIRGLYN:{
@@ -24365,6 +24412,7 @@ var SCENE = {
             misc:[]
         },
         ignoredCharacterTags:[],
+        nextScene:"0509_2"
     },
     "0509_2":{
         character:CHAR.TEKKAIN_KAORU,
@@ -24392,6 +24440,7 @@ var SCENE = {
             misc:[]
         },
         ignoredCharacterTags:[],
+        nextScene:"0510_2"
     },
     "0510_2":{
         character:CHAR.ASTAROTH,
@@ -24444,6 +24493,7 @@ var SCENE = {
             misc:[]
         },
         ignoredCharacterTags:[],
+        nextScene:"0513_2"
     },
     "0513_2":{
         character:[CHAR.FUUMA_KOTAROU, CHAR.ISHIGAWA_AMU],
@@ -24472,6 +24522,7 @@ var SCENE = {
             misc:[]
         },
         ignoredCharacterTags:[],
+        nextScene:"0514_2"
     },
     "0514_2":{
         character:[CHAR.FUUMA_KOTAROU, CHAR.MIZUKI_YUKIKAZE],
@@ -24510,6 +24561,90 @@ var SCENE = {
             ],
             male:[TAG.PET_COLLAR],
             location:[TAG.INSIDE, TAG.PRIVATE, TAG.ON_BED],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0517_1":{
+        character:CHAR.LILITH,
+        tags:{
+            female:[
+                TAG.WITCH_HAT, TAG.BREASTS_OUT, TAG.PANTIES, TAG.THIGH_HIGH_STOCKINGS, TAG.PANTIES_PUSHED_TO_SIDE,
+                TAG.RAPE, TAG.VAGINAL_SEX, TAG.STOMACH_DEFORMATION, TAG.NAKADASHI, TAG.STOMACH_INFLATION, TAG.SQUIRTING
+            ],
+            male:[TAG.ORC],
+            location:[TAG.OUTSIDE, TAG.SEMI_PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+        nextScene:"0517_2"
+    },
+    "0517_2":{
+        character:CHAR.LILITH,
+        tags:{
+            female:[
+                TAG.WITCH_HAT, TAG.NAKED,
+                TAG.NAKED_DOGEZA,
+                TAG.BLOWJOB, TAG.NIPPLE_PINCHING, TAG.PAIZURI, TAG.BUKKAKE
+            ],
+            male:[],
+            location:[TAG.BROTHEL, TAG.SEMI_PRIVATE],
+            misc:[TAG.NO_SEX]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0518_1":{
+        character:CHAR.MARIKA_KRISHNA,
+        tags:{
+            female:[
+                TAG.BREASTS_OUT, TAG.VAGINAL_CUTOUT,
+                TAG.TENTACLE_BONDAGE, TAG.BREAST_INJECTION, TAG.CLIT_INJECTION, TAG.TENTACLE_RAPE, TAG.ANAL_SEX, TAG.VAGINAL_SEX, TAG.VAGINAL_LEAKAGE, TAG.DOUBLE_PENIS_PENETRATION, TAG.AHEGAO, TAG.STOMACH_DEFORMATION
+            ],
+            male:[TAG.TENTACLE_CREATURE],
+            location:[TAG.OUTSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+        artistOverwrite: ARTIST.NOBUSHITO,
+        nextScene:"0518_2"
+    },
+    "0518_2":{
+        character:CHAR.MARIKA_KRISHNA,
+        tags:{
+            female:[
+                TAG.COMPLETELY_NAKED,
+                TAG.STANDING_SEX,
+                TAG.RAPE, TAG.ANAL_SEX, TAG.VAGINAL_SEX, TAG.VAGINAL_LEAKAGE, TAG.STOMACH_DEFORMATION, TAG.STOMACH_INFLATION, TAG.NAKADASHI, TAG.AHEGAO, TAG.SQUIRTING
+            ],
+            male:[TAG.HORSE_MAN],
+            location:[TAG.CAVE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+        artistOverwrite: ARTIST.NOBUSHITO
+    },
+    "0519":{
+        character:[CHAR.ELSIE_MOMOA, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.TAIMANIN_OUTFIT,
+                TAG.FEMDOM, TAG.HANDJOB, TAG.VAGINAL_SEX, TAG.BREAST_GROPING, TAG.NAKADASHI
+            ],
+            male:[],
+            location:[TAG.OUTSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0520":{
+        character:[CHAR.GLORIA, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.BREASTS_OUT, TAG.PANTIES,
+                TAG.NIPPLE_PINCHING, TAG.CLIT_PLAY, TAG.SQUIRTING, TAG.VAGINAL_SEX, TAG.NAKADASHI, TAG.AHEGAO
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
             misc:[]
         },
         ignoredCharacterTags:[],
