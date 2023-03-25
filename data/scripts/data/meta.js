@@ -9185,6 +9185,25 @@ var CHAR = {
             cv:CV.FUJINOMIYA_KISEKI
         }
     },
+    FUYUNO_REIKO:{
+        base:{
+            name:{
+                eng:"Fuyuno Reiko",
+                engAlias:["Fuyuno", "Reiko Fuyuno", "Reiko"],
+                jap:"冬野玲子",
+                japAlias:["冬野", "玲子"]
+            },
+            tags:[
+                TAG.VIOLET_HAIR, TAG.LONG_HAIR,
+                TAG.GARNET_EYES,
+                TAG.HUGE_BREASTS, TAG.LIGHT_SKIN
+            ],
+            gender:"female",
+            originalCharacter:false,
+            artist:ARTIST.KAGAMI_HIROTAKA,
+            cv:CV.IGNORE
+        }
+    },
 
 
 
@@ -24645,6 +24664,62 @@ var SCENE = {
             ],
             male:[],
             location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0521_1":{
+        character:CHAR.YATSU_MURASAKI,
+        form:"young",
+        tags:{
+            female:[
+                TAG.DECORATIVE_BELT, TAG.PANTIES, TAG.BREASTS_OUT, TAG.PANTIES_PULLED_DOWN,
+                TAG.TENTACLE_BONDAGE, TAG.TENTACLE_RAPE, TAG.BREAST_INJECTION, TAG.BREAST_SUCKING, TAG.RYONA, TAG.CLIT_PLAY, TAG.STOMACH_DEFORMATION, TAG.STOMACH_INFLATION, TAG.SLAVE_TATTOO, TAG.NAKADASHI, TAG.AHEGAO, TAG.VAGINAL_LEAKAGE
+            ],
+            male:[TAG.TENTACLE_CREATURE],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0521_2":{
+        character:[CHAR.YATSU_MURASAKI, CHAR.FUYUNO_REIKO],
+        form:["young", null],
+        tags:{
+            female:[
+                TAG.HALF_NAKED, TAG.PANTIES, TAG.PANTIES_PUSHED_TO_SIDE, TAG.GARTER_BELT, TAG.BREASTS_OUT, TAG.PET_COLLAR, TAG.THIGH_HIGH_STOCKINGS,
+                TAG.REVERSE_COWGIRL_POSITION,
+                TAG.PROSTITUTION, TAG.VAGINAL_SEX, TAG.BLOWJOB, TAG.AHEGAO, TAG.NAKADASHI, TAG.SPANKING, TAG.DICK_CLEANING_BLOWJOB
+            ],
+            male:[],
+            location:[TAG.BROTHEL, TAG.SEMI_PUBLIC],
+            misc:[TAG.CUT_IN_XRAY]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0522_1":{
+        character:CHAR.NASARA,
+        tags:{
+            female:[
+                TAG.BREAST_CUTOUTS, TAG.VAGINAL_CUTOUT, TAG.THIGH_HIGH_STOCKINGS, TAG.RIPPED_CLOTHING,
+                TAG.TENTACLE_BONDAGE, TAG.BREAST_GROPING, TAG.VAGINAL_SEX, TAG.NIPPLE_SUCKING, TAG.ANAL_SEX, TAG.DOUBLE_PENIS_PENETRATION, TAG.STOMACH_DEFORMATION, TAG.MONSTER_BIRTH
+            ],
+            male:[TAG.TENTACLE_CREATURE],
+            location:[TAG.OUTSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0522_2":{
+        character:CHAR.NASARA,
+        tags:{
+            female:[
+                TAG.BREAST_CUTOUTS, TAG.VAGINAL_CUTOUT, TAG.THIGH_HIGH_STOCKINGS, TAG.RIPPED_CLOTHING,
+                TAG.FULL_NELSON,
+                TAG.RAPE, TAG.VAGINAL_SEX, TAG.BREAST_GROPING, TAG.NIPPLE_PINCHING, TAG.LACTATION, TAG.SQUIRTING, TAG.NAKADASHI, TAG.AHEGAO
+            ],
+            male:[TAG.MONSTER],
+            location:[TAG.OUTSIDE, TAG.PRIVATE],
             misc:[]
         },
         ignoredCharacterTags:[],
