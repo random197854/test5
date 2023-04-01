@@ -24681,6 +24681,7 @@ var SCENE = {
             misc:[]
         },
         ignoredCharacterTags:[],
+        nextScene:"0521_2"
     },
     "0521_2":{
         character:[CHAR.YATSU_MURASAKI, CHAR.FUYUNO_REIKO],
@@ -24709,6 +24710,7 @@ var SCENE = {
             misc:[]
         },
         ignoredCharacterTags:[],
+        nextScene:"0522_2"
     },
     "0522_2":{
         character:CHAR.NASARA,
@@ -24720,6 +24722,86 @@ var SCENE = {
             ],
             male:[TAG.MONSTER],
             location:[TAG.OUTSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0523_1":{
+        character:[CHAR.NO_16_SONIA, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.UNIFORM, TAG.PARTIALLY_TRANSPARENT_CLOTHING, TAG.SHORTS,
+                TAG.VAGINAL_SEX, TAG.NIPPLE_SUCKING, TAG.VAGINAL_LEAKAGE, TAG.NAKADASHI
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+        nextScene:"0523_2"
+    },
+    "0523_2":{
+        character:[CHAR.NO_16_SONIA, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.UNIFORM, TAG.PARTIALLY_TRANSPARENT_CLOTHING, TAG.SHORTS,
+                TAG.BLOWJOB_PAIZURI, TAG.VAGINAL_SEX, TAG.DOUBLE_PENIS_PENETRATION, TAG.NAKADASHI
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0524_1":{
+        character:[CHAR.SHINGANJI_KURENAI, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.UNIFORM, TAG.SHORTS, TAG.PANTIES_PULLED_DOWN,
+                TAG.VAGINAL_FINGERING, TAG.SPREAD_ASS, TAG.ANAL_INSERTION, TAG.VAGINAL_SEX, TAG.NAKADASHI, TAG.GAPING, TAG.AHEGAO
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.SEMI_PUBLIC],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+        nextScene:"0524_2"
+    },
+    "0524_2":{
+        character:[CHAR.SHINGANJI_KURENAI, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.UNIFORM, TAG.HALF_NAKED, TAG.BREASTS_OUT,
+                TAG.VAGINAL_LEAKAGE, TAG.VAGINAL_SEX, TAG.SQUIRTING, TAG.CUM_SWALLOWING, TAG.ANAL_SEX, TAG.NAKADASHI, TAG.AHEGAO
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0525":{
+        character:CHAR.AINO_NOZOMI,
+        tags:{
+            female:[],
+            male:[
+                TAG.UNIFORM, TAG.LEOTARD, TAG.PANTIES_PUSHED_TO_SIDE, TAG.CHOKER,
+                TAG.STANDING_SEX,
+                TAG.BONDAGE, TAG.ANAL_INSERTION, TAG.BUKKAKE, TAG.ANAL_SEX, TAG.HANDJOB, TAG.NAKADASHI, TAG.GAPING],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0526":{
+        character:CHAR.KISE_HOTARU,
+        tags:{
+            female:[
+                TAG.UNIFORM, TAG.PANTIES, TAG.PANTIES_PULLED_DOWN,
+                TAG.ROPE_BONDAGE, TAG.VAGINAL_FINGERING, TAG.VAGINAL_LEAKAGE, TAG.SQUIRTING, TAG.VAGINAL_SEX, TAG.NAKADASHI, TAG.BUKKAKE
+            ],
+            male:[],
+            location:[TAG.OUTSIDE, TAG.SEMI_PUBLIC],
             misc:[]
         },
         ignoredCharacterTags:[],
