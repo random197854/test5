@@ -560,3 +560,7 @@ translatedNames.set("ビッグバン・ドズ", "Bigban Doz");
 translatedNames.set("怪物", "Monster");
 translatedNames.set("おぼ猫", "Obo-neko");
 translatedNames.set("校長", "Principal");
+translatedNames.set("メイヤ", "Meiya");
+translatedNames.set("ローシィ", "Rosie");
+translatedNames.set("いぶき", "Ibuki");
+translatedNames.set("施設長", "Facility Head");

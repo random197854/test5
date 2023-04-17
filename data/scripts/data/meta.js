@@ -233,6 +233,12 @@ var ARTIST = {
         jap: "広江礼威",
         japAlias: ["広江", "礼威"]
     },
+    YUTSUKI_TSUZURI:{
+        eng: "Yutsuki Tsuzuri",
+        engAlias: ["Yutsuki", "Tsuzuri Yutsuki", "Tsuzuri"],
+        jap: "ゆつきつづり",
+        japAlias: ["ゆつき", "つづり"]
+    },
     IGNORE:{
         eng: "",
         engAlias: [],
@@ -1058,6 +1064,18 @@ var CV = {
         engAlias: ["Sekita", "Iori Sekita", "Iori"],
         jap: "関田いおり",
         japAlias: ["関田", "いおり"]
+    },
+    SAKURANI_AKARI:{
+        eng: "Sakurani Akari",
+        engAlias: ["Sakurani", "Akari Sakurani", "Akari"],
+        jap: "桜似あかり",
+        japAlias: ["桜似", "あかり"]
+    },
+    MORIYA_UTANE:{
+        eng: "Moriya Utane",
+        engAlias: ["Moriya", "Utane Moriya"],
+        jap: "森谷うたね",
+        japAlias: ["森谷", "うたね"]
     },
     IGNORE:{
         eng: "",
@@ -9202,6 +9220,63 @@ var CHAR = {
             originalCharacter:false,
             artist:ARTIST.KAGAMI_HIROTAKA,
             cv:CV.IGNORE
+        }
+    },
+    MEIYA_ULTAUNA:{
+        base:{
+            name:{
+                eng:"Meiya Ultauna",
+                engAlias:["Meiya Ulytauna", "Meiya", "Ultauna", "Ulytauna"],
+                jap:"メイヤ・ウルタウナ",
+                japAlias:["メイヤウルタウナ", "メイヤ", "ウルタウナ"]
+            },
+            tags:[
+                TAG.PLATINUM_BLOND_HAIR, TAG.LONG_HAIR,
+                TAG.BLUE_EYES,
+                TAG.HUGE_BREASTS, TAG.LIGHT_SKIN
+            ],
+            gender:"female",
+            originalCharacter:true,
+            artist:ARTIST.YUTSUKI_TSUZURI,
+            cv:CV.TACHIBANA_SARA
+        }
+    },
+    ROSIE_MOCHIMOI:{
+        base:{
+            name:{
+                eng:"Rosie Mochimoi",
+                engAlias:["Rosie", "Mochimoi"],
+                jap:"ローシィ・モチモイ",
+                japAlias:["ローシィモチモイ", "ローシィ", "モチモイ"]
+            },
+            tags:[
+                TAG.WHITE_HAIR, TAG.LONG_HAIR,
+                TAG.VIOLET_EYES,
+                TAG.LIGHT_SKIN, TAG.BIG_BREASTS
+            ],
+            gender:"female",
+            originalCharacter:true,
+            artist:ARTIST.SAKURANBO,
+            cv:CV.SAKURANI_AKARI
+        }
+    },
+    MURAKUMO_IBUKI:{
+        base:{
+            name:{
+                eng:"Murakumo Ibuki",
+                engAlias:["Murakumo", "Ibuki Murakumo", "Ibuki"],
+                jap:"叢雲いぶき",
+                japAlias:["叢雲", "いぶき"]
+            },
+            tags:[
+                TAG.BLACK_HAIR, TAG.WHITE_HAIR, TAG.MULTICOLORED_HAIR, TAG.LONG_HAIR,
+                TAG.BLUE_EYES,
+                TAG.AVERAGE_BREASTS, TAG.LIGHT_SKIN
+            ],
+            gender:"female",
+            originalCharacter:true,
+            artist:ARTIST.SAKURANBO,
+            cv:CV.MORIYA_UTANE
         }
     },
 
@@ -22212,6 +22287,7 @@ var SCENE = {
             misc:[]
         },
         ignoredCharacterTags:[],
+        nextScene:"0528_1"
     },
     "0406":{
         character:[CHAR.DONNA_BURROUGHS, CHAR.FUUMA_KOTAROU],
@@ -24806,6 +24882,88 @@ var SCENE = {
         },
         ignoredCharacterTags:[],
     },
+    "0527_1":{
+        character:[CHAR.MEIYA_ULTAUNA, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.TWO_PIECE_CLOTHING, TAG.BREASTS_OUT,
+                TAG.BLOWJOB_PAIZURI, TAG.CUM_IN_MOUTH
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0527_2":{
+        character:[CHAR.MEIYA_ULTAUNA, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.TWO_PIECE_CLOTHING, TAG.BREASTS_OUT, TAG.PANTIES_PUSHED_TO_SIDE,
+                TAG.BREAST_GROPING, TAG.VAGINAL_FINGERING, TAG.SQUIRTING, TAG.AHEGAO, TAG.VAGINAL_SEX, TAG.NAKADASHI
+            ],
+            male:[],
+            location:[TAG.OUTSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0528_1":{
+        character:CHAR.FUUMA_TOKIKO,
+        form:"young",
+        tags:{
+            female:[
+                TAG.TAIMANIN_OUTFIT, TAG.PROTRUDING_NIPPLES,
+                TAG.BLOWJOB, TAG.SEXUAL_SLAVERY, TAG.NIPPLE_PINCHING, TAG.MASTURBATION, TAG.VAGINAL_FINGERING, TAG.VAGINAL_LEAKAGE, TAG.CUM_IN_MOUTH, TAG.CUM_SWALLOWING, TAG.CUM_LICKUP, TAG.DOUBLE_PEACE_SIGN_AHEGAO
+            ],
+            male:[],
+            location:[TAG.BROTHEL, TAG.PRIVATE],
+            misc:[TAG.NO_SEX]
+        },
+        ignoredCharacterTags:[],
+        nextScene:"0528_2"
+    },
+    "0528_2":{
+        character:CHAR.FUUMA_TOKIKO,
+        form:"young",
+        tags:{
+            female:[
+                TAG.LINGERIE, TAG.OPEN_CUP_CLOTHING, TAG.THIGH_HIGH_STOCKINGS, TAG.PARTIALLY_TRANSPARENT_CLOTHING, TAG.NIPPLE_PIERCING,
+                TAG.SEXUAL_SLAVERY, TAG.VAGINAL_SEX, TAG.NIPPLE_PULLING, TAG.NIPPLE_PLAY, TAG.KISSING, TAG.AHEGAO, TAG.NAKADASHI
+            ],
+            male:[],
+            location:[TAG.BROTHEL, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0529":{
+        character:[CHAR.ROSIE_MOCHIMOI, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.BREASTS_OUT, TAG.PANTIES_PUSHED_TO_SIDE, TAG.CASUAL_CLOTHING,
+                TAG.VAGINAL_LEAKAGE, TAG.SQUIRTING, TAG.VAGINAL_SEX, TAG.NAKADASHI
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0530":{
+        character:CHAR.MURAKUMO_IBUKI,
+        tags:{
+            female:[
+                TAG.TAIMANIN_OUTFIT, TAG.THIGH_HIGH_STOCKINGS, TAG.NAKED,
+                TAG.VAGINAL_SEX, TAG.HANDJOB, TAG.BUKKAKE, TAG.NAKADASHI, TAG.BLOWJOB, TAG.DOUBLE_PENIS_PENETRATION, TAG.CUM_IN_MOUTH
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+
 
     "EX0001":{
         character:CHAR.IGAWA_ASAGI,
