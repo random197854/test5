@@ -24894,6 +24894,7 @@ var SCENE = {
             misc:[]
         },
         ignoredCharacterTags:[],
+        nextScene:"0527_2"
     },
     "0527_2":{
         character:[CHAR.MEIYA_ULTAUNA, CHAR.FUUMA_KOTAROU],
@@ -24959,6 +24960,86 @@ var SCENE = {
             ],
             male:[],
             location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0531_1":{
+        character:[CHAR.OOBAYASHI_AZUKI, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.MAID_DRESS, TAG.BREASTS_OUT,
+                TAG.BLOWJOB_PAIZURI, TAG.NIPPLE_PINCHING, TAG.CUM_IN_MOUTH
+            ],
+            male:[],
+            location:[],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+        nextScene:"0531_2"
+    },
+    "0531_2":{
+        character:[CHAR.OOBAYASHI_AZUKI, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.MAID_DRESS, TAG.BREASTS_OUT, TAG.PANTIES, TAG.PANTIES_PUSHED_TO_SIDE, TAG.THIGH_HIGH_STOCKINGS,
+                TAG.VAGINAL_SEX, TAG.BREAST_GROPING, TAG.NIPPLE_PINCHING, TAG.VAGINAL_LEAKAGE, TAG.NAKADASHI, TAG.SQUIRTING, TAG.CUM_LICKUP
+            ],
+            male:[],
+            location:[],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0532_1":{
+        character:CHAR.ELEONORE,
+        tags:{
+            female:[
+                TAG.MAID_DRESS, TAG.BREASTS_OUT, TAG.THONG, TAG.PROTRUDING_NIPPLES, TAG.THIGH_HIGH_STOCKINGS, TAG.CHOKER, TAG.BREASTS_OUT, TAG.FINGERLESS_EVENING_GLOVES,
+                TAG.SLAVE_TATTOO, TAG.VAGINAL_SEX, TAG.BREAST_GROPING, TAG.BLOWJOB, TAG.NAKADASHI, TAG.DOUBLE_PENIS_PENETRATION, TAG.BUKKAKE
+            ],
+            male:[TAG.SHOTA],
+            location:[TAG.BEDROOM, TAG.ON_BED, TAG.PRIVATE],
+            misc:[TAG.GROUP]
+        },
+        ignoredCharacterTags:[],
+        nextScene:"0532_2"
+    },
+    "0532_2":{
+        character:CHAR.ELEONORE,
+        tags:{
+            female:[
+                TAG.NAKED, TAG.THIGH_HIGH_STOCKINGS, TAG.FINGERLESS_EVENING_GLOVES, TAG.CHOKER,
+                TAG.SLAVE_TATTOO, TAG.VAGINAL_SEX, TAG.STOMACH_DEFORMATION, TAG.NAKADASHI, TAG.STOMACH_INFLATION
+            ],
+            male:[TAG.ORC],
+            location:[TAG.PRISON_CELL, TAG.SEMI_PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0533":{
+        character:CHAR.MIREIYU,
+        tags:{
+            female:[
+                TAG.MAID_DRESS, TAG.BREASTS_OUT,
+                TAG.BLOWJOB_PAIZURI, TAG.ONAHOLE, TAG.BUKKAKE
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0534":{
+        character:CHAR.LAETITIA_BELLMER,
+        tags:{
+            female:[
+                TAG.MAID_DRESS, TAG.BREASTS_OUT, TAG.LEOTARD, TAG.SKIRT, TAG.THIGH_HIGH_STOCKINGS, TAG.GARTER_BELT, TAG.PANTIES_PUSHED_TO_SIDE,
+                TAG.MIND_CONTROL, TAG.LOTION, TAG.BREAST_GROPING, TAG.INTERCRURAL_SEX, TAG.BUKKAKE, TAG.AHEGAO, TAG.INCONTINENCE
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.SEMI_PRIVATE],
             misc:[]
         },
         ignoredCharacterTags:[],
