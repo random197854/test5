@@ -239,6 +239,12 @@ var ARTIST = {
         jap: "ゆつきつづり",
         japAlias: ["ゆつき", "つづり"]
     },
+    SATOU_KUUKI:{
+        eng: "Satou Kuuki",
+        engAlias: ["Satou", "Kuuki Satou", "Kuuki"],
+        jap: "佐藤空気",
+        japAlias: ["佐藤", "空気"]
+    },
     IGNORE:{
         eng: "",
         engAlias: [],
@@ -9279,6 +9285,80 @@ var CHAR = {
             cv:CV.MORIYA_UTANE
         }
     },
+    MORIMIYA_MAKINO:{
+        base:{
+            name:{
+                eng:"Morimiya Makino",
+                engAlias:["Morimiya", "Makino Morimiya", "Makino"],
+                jap:"森宮まきの",
+                japAlias:["森宮", "まきの"]
+            },
+            tags:[
+                TAG.BROWN_HAIR, TAG.LONG_HAIR,
+                TAG.VIOLET_EYES,
+                TAG.HUGE_BREASTS, TAG.LIGHT_SKIN
+            ],
+            gender:"female",
+            originalCharacter:true,
+            artist:ARTIST.SATOU_KUUKI,
+            cv:CV.HAKATA_AKIKO
+        }
+    },
+    LATIKUUL:{
+        base:{
+            name:{
+                eng:"Latikuul",
+                engAlias:["Laticool", "Ratikuul", "Raticool", "Latikool", "Ratikool"],
+                jap:"ラティクール",
+                japAlias:[]
+            },
+            tags:[
+                TAG.GREEN_EYES,
+                TAG.AVERAGE_BREASTS, TAG.UNNATURAL_SKIN, TAG.LIGHT_SKIN
+            ],
+            gender:"female",
+            originalCharacter:true,
+            artist:ARTIST.SANO_TOSHIHIDE,
+            cv:CV.ITO_MUSUBI
+        }
+    },
+    ANTITE:{
+        base:{
+            name:{
+                eng:"Antite",
+                engAlias:[],
+                jap:"アンタイト",
+                japAlias:[]
+            },
+            tags:[
+                TAG.RED_EYES,
+                TAG.AVERAGE_BREASTS, TAG.UNNATURAL_SKIN, TAG.LIGHT_SKIN
+            ],
+            gender:"female",
+            originalCharacter:true,
+            artist:ARTIST.ZOL,
+            cv:CV.NANASE_PANDA
+        }
+    },
+    CLERIA_FORANE:{
+        base:{
+            name:{
+                eng:"Cleria Forane",
+                engAlias:["Cleria", "Forane"],
+                jap:"クレリア・フォラーネ",
+                japAlias:["クレリアフォラーネ", "クレリア", "フォラーネ"]
+            },
+            tags:[
+                TAG.VIOLET_EYES,
+                TAG.BIG_BREASTS, TAG.UNNATURAL_SKIN, TAG.LIGHT_SKIN
+            ],
+            gender:"female",
+            originalCharacter:true,
+            artist:ARTIST.NOBUSHITO,
+            cv:CV.FUJIIRO_SAKU
+        }
+    },
+
 
 
 
@@ -25040,6 +25120,84 @@ var SCENE = {
             ],
             male:[],
             location:[TAG.INSIDE, TAG.SEMI_PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0535_1":{
+        character:CHAR.MORIMIYA_MAKINO,
+        tags:{
+            female:[
+                TAG.TAIMANIN_OUTFIT, TAG.RIPPED_CLOTHING, TAG.NIPPLE_CUTOUTS, TAG.VAGINAL_CUTOUT,
+                TAG.RAPE, TAG.VAGINAL_SEX, TAG.BUKKAKE, TAG.NIPPLE_PINCHING, TAG.VAGINAL_LEAKAGE, TAG.NAKADASHI
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0535_2":{
+        character:CHAR.MORIMIYA_MAKINO,
+        tags:{
+            female:[
+                TAG.TAIMANIN_OUTFIT, TAG.RIPPED_CLOTHING, TAG.NIPPLE_CUTOUTS,
+                TAG.HAIR_PULLING, TAG.VAGINAL_SEX, TAG.ANAL_SEX, TAG.DOUBLE_PENIS_PENETRATION, TAG.BLOWJOB, TAG.TRIPLE_PENIS_PENETRATION, TAG.NAKADASHI, TAG.VAGINAL_LEAKAGE, TAG.BUKKAKE
+            ],
+            male:[],
+            location:[TAG.PRISON_CELL, TAG.PRIVATE],
+            misc:[TAG.GROUP]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0536_1":{
+        character:[CHAR.LATIKUUL, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.TAIMANIN_OUTFIT, TAG.PROTRUDING_NIPPLES,
+                TAG.HANDJOB, TAG.BUKKAKE, TAG.BLOWJOB, TAG.CUM_IN_MOUTH
+            ],
+            male:[TAG.LOTION],
+            location:[TAG.LOVE_HOTEL, TAG.PRIVATE, TAG.ON_BED],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0536_2":{
+        character:[CHAR.LATIKUUL, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.TAIMANIN_OUTFIT, TAG.PANTIES_PUSHED_TO_SIDE,
+                TAG.LOTION, TAG.VAGINAL_SEX, TAG.KISSING, TAG.NAKADASHI, TAG.AHEGAO
+            ],
+            male:[TAG.NIPPLE_PINCHING],
+            location:[TAG.LOVE_HOTEL, TAG.PRIVATE, TAG.ON_BED],
+            misc:[TAG.CUT_IN_XRAY]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0537":{
+        character:[CHAR.ANTITE, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.NAKED,
+                TAG.HANDJOB, TAG.BUKKAKE, TAG.VAGINAL_SEX, TAG.NAKADASHI, TAG.VAGINAL_LEAKAGE, TAG.TENTACLE_APPENDAGE
+            ],
+            male:[TAG.TENTACLE, TAG.NIPPLE_PINCHING],
+            location:[],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0538":{
+        character:[CHAR.CLERIA_FORANE, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.PANTIES_AROUND_LEG, TAG.BREASTS_OUT, TAG.HALF_NAKED,
+                TAG.VAGINAL_SEX, TAG.BREAST_GROWTH, TAG.NAKADASHI, TAG.HANDJOB, TAG.VAGINAL_LEAKAGE, TAG.AHEGAO
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE, TAG.ON_BED],
             misc:[]
         },
         ignoredCharacterTags:[],
