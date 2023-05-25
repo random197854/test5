@@ -25136,6 +25136,7 @@ var SCENE = {
             misc:[]
         },
         ignoredCharacterTags:[],
+        nextScene:"0535_2"
     },
     "0535_2":{
         character:CHAR.MORIMIYA_MAKINO,
@@ -25162,6 +25163,7 @@ var SCENE = {
             misc:[]
         },
         ignoredCharacterTags:[],
+        nextScene:"0536_2"
     },
     "0536_2":{
         character:[CHAR.LATIKUUL, CHAR.FUUMA_KOTAROU],
@@ -25198,6 +25200,61 @@ var SCENE = {
             ],
             male:[],
             location:[TAG.INSIDE, TAG.PRIVATE, TAG.ON_BED],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0539_1":{
+        character:CHAR.IGAWA_SAKURA,
+        form:"adult",
+        tags:{
+            female:[
+                TAG.RIPPED_CLOTHING, TAG.BREAST_CUTOUTS, TAG.VAGINAL_CUTOUT,
+                TAG.TENTACLE_BONDAGE, TAG.TENTACLE_RAPE, TAG.NIPPLE_PINCHING, TAG.VAGINAL_SEX, TAG.VAGINAL_LEAKAGE, TAG.NAKADASHI, TAG.STOMACH_INFLATION, TAG.SLAVE_TATTOO, TAG.SCAT, TAG.AHEGAO
+            ],
+            male:[],
+            location:[TAG.OUTSIDE, TAG.FLESH_ROOM, TAG.PRIVATE],
+            misc:[TAG.CUT_IN_XRAY]
+        },
+        ignoredCharacterTags:[],
+        nextScene:"0539_2"
+    },
+    "0539_2":{
+        character:CHAR.IGAWA_SAKURA,
+        form:"adult",
+        tags:{
+            female:[
+                TAG.NAKED,
+                TAG.MASTURBATION, TAG.ANAL_INSERTION, TAG.VIBRATOR, TAG.LOTION, TAG.SLAVE_TATTOO, TAG.LIVE_STREAMING, TAG.AHEGAO, TAG.VAGINAL_SEX, TAG.FORCEFUL_BLOWJOB, TAG.CUM_IN_MOUTH, TAG.NAKADASHI, TAG.NIPPLE_PIERCING, TAG.HEART_PUPILS
+            ],
+            male:[TAG.ORC],
+            location:[TAG.BROTHEL, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0540_1":{
+        character:CHAR.KIICHI_ASUZA,
+        tags:{
+            female:[
+                TAG.TAIMANIN_OUTFIT, TAG.RIPPED_CLOTHING, TAG.BREAST_CUTOUTS, TAG.VAGINAL_CUTOUT,
+                TAG.TENTACLE_BONDAGE, TAG.TENTACLE_RAPE, TAG.VAGINAL_SEX, TAG.ANAL_SEX, TAG.BLOWJOB, TAG.TRIPLE_PENIS_PENETRATION, TAG.NIPPLE_SUCKING, TAG.NIPPLE_PLAY, TAG.LACTATION, TAG.NAKADASHI, TAG.CUM_IN_MOUTH
+            ],
+            male:[],
+            location:[TAG.FLESH_ROOM, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+        nextScene:"0540_2"
+    },
+    "0540_2":{
+        character:CHAR.KIICHI_ASUZA,
+        tags:{
+            female:[
+                TAG.TAIMANIN_OUTFIT, TAG.BREAST_CUTOUTS, TAG.NIPPLE_STICKER, TAG.VAGINAL_CUTOUT, TAG.LACTATION, TAG.BREAST_GROPING, TAG.VAGINAL_SEX, TAG.ANAL_INSERTION, TAG.DOUBLE_PENETRATION, TAG.NAKADASHI, TAG.BUKKAKE
+            ],
+            male:[],
+            location:[TAG.BROTHEL, TAG.SEMI_PUBLIC],
             misc:[]
         },
         ignoredCharacterTags:[],
