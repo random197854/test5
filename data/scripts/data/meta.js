@@ -25259,6 +25259,89 @@ var SCENE = {
         },
         ignoredCharacterTags:[],
     },
+    "0541_1":{
+        character:[CHAR.SHISHIMURA_KORO, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.WEDDING_DRESS, TAG.BREASTS_OUT, TAG.PANTYLESS,
+                TAG.BUKKAKE, TAG.PREGNANT, TAG.VAGINAL_SEX, TAG.USED_CONDOMS_EXPOSITION, TAG.VAGINAL_LEAKAGE
+            ],
+            male:[],
+            location:[],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+        nextScene:"0541_2"
+    },
+    "0541_2":{
+        character:[CHAR.SHISHIMURA_KORO, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.WEDDING_DRESS, TAG.BREASTS_OUT, TAG.PANTYLESS,
+                TAG.VAGINAL_LEAKAGE, TAG.VAGINAL_SEX, TAG.LACTATION, TAG.NAKADASHI, TAG.AHEGAO
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE, TAG.ON_BED],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0542_1":{
+        character:[CHAR.ONISAKI_KIRARA, CHAR.FUUMA_KOTAROU],
+        form:["young", null],
+        tags:{
+            female:[
+                TAG.WEDDING_DRESS, TAG.BRIDAL_GAUNTLET, TAG.BREASTS_OUT,
+                TAG.BLOWJOB_PAIZURI, TAG.CUM_IN_MOUTH
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+        nextScene:"0542_2"
+    },
+    "0542_2":{
+        character:[CHAR.ONISAKI_KIRARA, CHAR.FUUMA_KOTAROU],
+        form:["young", null],
+        tags:{
+            female:[
+                TAG.WEDDING_DRESS, TAG.BRIDAL_GAUNTLET, TAG.BREASTS_OUT, TAG.PANTIES_PUSHED_TO_SIDE,
+                TAG.VAGINAL_SEX, TAG.HAND_HOLDING, TAG.NAKADASHI
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0543":{
+        character:CHAR.VIOLA,
+        tags:{
+            female:[
+                TAG.WEDDING_DRESS, TAG.EVENING_GLOVES, TAG.BREASTS_OUT,
+                TAG.VAGINAL_LEAKAGE, TAG.VAGINAL_SEX, TAG.NAKADASHI, TAG.LACTATION
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE, TAG.ON_BED],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0544":{
+        character:[CHAR.SAKU_KANAME, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.EVENING_GLOVES, TAG.BREASTS_OUT, TAG.THIGH_HIGH_STOCKINGS, TAG.HALF_NAKED, TAG.PANTIES, TAG.PANTIES_PUSHED_TO_SIDE,
+                TAG.VAGINAL_SEX, TAG.NIPPLE_PINCHING, TAG.BREAST_GROPING, TAG.NAKADASHI
+            ],
+            male:[TAG.NIPPLE_PINCHING],
+            location:[TAG.INSIDE, TAG.PRIVATE, TAG.ON_BED],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+        cvOverwrite:CV.IGASAKI_AYAKA
+    },
 
 
     "EX0001":{
