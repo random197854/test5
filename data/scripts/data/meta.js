@@ -1083,6 +1083,12 @@ var CV = {
         jap: "森谷うたね",
         japAlias: ["森谷", "うたね"]
     },
+    AN_MITSUKI:{
+        eng: "An Mitsuki",
+        engAlias: ["An", "Mitsuki An", "Mitsuki"],
+        jap: "杏蜜姫",
+        japAlias: ["杏", "蜜姫"]
+    },
     IGNORE:{
         eng: "",
         engAlias: [],
@@ -9358,6 +9364,83 @@ var CHAR = {
             cv:CV.FUJIIRO_SAKU
         }
     },
+    TSUSHIMA_YUKIKO:{
+        base:{
+            name:{
+                eng:"Tsushima Yukiko",
+                engAlias:["Tsushima", "Yukiko Tsushima", "Yukiko"],
+                jap:"津島優紀子",
+                japAlias:["津島", "優紀子"]
+            },
+            tags:[
+                TAG.ORANGE_HAIR, TAG.LONG_HAIR,
+                TAG.GREEN_EYES,
+                TAG.BIG_BREASTS, TAG.LIGHT_SKIN
+            ],
+            gender:"female",
+            originalCharacter:true,
+            artist:ARTIST.ZOL,
+            cv:CV.KASHIWAGI_AIKA
+        }
+    },
+    SHIKI_REIKA:{
+        base:{
+            name:{
+                eng:"Shiki Reika",
+                engAlias:["Reika Shiki", "Reika", "Shiki"],
+                jap:"志木麗佳",
+                japAlias:["志木", "麗佳"]
+            },
+            tags:[
+               TAG.VIOLET_HAIR, TAG.LONG_HAIR, TAG.PONYTAIL,
+               TAG.AMBER_EYES,
+               TAG.LIGHT_SKIN, TAG.BIG_BREASTS
+            ],
+            gender:"female",
+            originalCharacter:false,
+            artist:ARTIST.KAGAMI_HIROTAKA,
+            cv:CV.HIROKAWA_KOTONE
+        }
+    },
+    MIYOSHI_URAHA:{
+        base:{
+            name:{
+                eng:"Miyoshi Uraha",
+                engAlias:["Miyoshi", "Uraha Miyoshi", "Uraha"],
+                jap:"三吉うらは",
+                japAlias:["三吉", "うらは"]
+            },
+            tags:[
+                TAG.BLACK_HAIR, TAG.LONG_HAIR,
+                TAG.GARNET_EYES,
+                TAG.HUGE_BREASTS, TAG.LIGHT_SKIN,
+                TAG.HORNS
+            ],
+            gender:"female",
+            originalCharacter:true,
+            artist:ARTIST.ASAHI,
+            cv:CV.AN_MITSUKI
+        }
+    },
+    TAN_YOUKA:{
+        base:{
+            name:{
+                eng:"Tan Youka",
+                engAlias:["Tan", "Youka Tan", "Youka"],
+                jap:"丹陽華",
+                japAlias:["丹", "陽華"]
+            },
+            tags:[
+                TAG.PINK_HAIR, TAG.LONG_HAIR,
+                TAG.CYAN_EYES,
+                TAG.BIG_BREASTS, TAG.LIGHT_SKIN
+            ],
+            gender:"female",
+            originalCharacter:true,
+            artist:ARTIST.NOBUSHITO,
+            cv:CV.MUGIME_PURIN
+        }
+    },
 
 
 
@@ -9495,25 +9578,6 @@ var CHAR = {
             originalCharacter:false,
             artist:ARTIST.ZOL,
             cv:CV.SENA_YUZUKI
-        }
-    },
-    SHIKI_REIKA:{
-        base:{
-            name:{
-                eng:"Shiki Reika",
-                engAlias:["Reika Shiki", "Reika", "Shiki"],
-                jap:"志木麗佳",
-                japAlias:["志木", "麗佳"]
-            },
-            tags:[
-               TAG.VIOLET_HAIR, TAG.LONG_HAIR, TAG.PONYTAIL,
-               TAG.AMBER_EYES,
-               TAG.LIGHT_SKIN, TAG.BIG_BREASTS
-            ],
-            gender:"female",
-            originalCharacter:false,
-            artist:ARTIST.KAGAMI_HIROTAKA,
-            cv:CV.HIROKAWA_KOTONE
         }
     },
     MAHOU_SHOUJO_ISUKA:{
@@ -25342,6 +25406,88 @@ var SCENE = {
         ignoredCharacterTags:[],
         cvOverwrite:CV.IGASAKI_AYAKA
     },
+    "0545_1":{
+        character:CHAR.TSUSHIMA_YUKIKO,
+        tags:{
+            female:[
+                TAG.DRESS, TAG.PROTRUDING_NIPPLES, TAG.BREASTS_OUT,
+                TAG.BUKKAKE, TAG.HANDJOB, TAG.PAIZURI, TAG.BLOWJOB_PAIZURI, TAG.CUM_IN_MOUTH
+
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+        nextScene:"0545_2"
+    },
+    "0545_2":{
+        character:CHAR.TSUSHIMA_YUKIKO,
+        tags:{
+            female:[
+                TAG.DRESS, TAG.PANTIES_PUSHED_TO_SIDE, TAG.BREASTS_OUT,
+                TAG.BUKKAKE, TAG.VAGINAL_SEX, TAG.NAKADASHI
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0546_1":{
+        character:CHAR.SHIKI_REIKA,
+        tags:{
+            female:[
+                TAG.BUTLER_UNIFORM,
+                TAG.HANDJOB, TAG.BLOWJOB, TAG.CUM_IN_MOUTH, TAG.DEEPTHROAT
+            ],
+            male:[TAG.ANILINGUS],
+            location:[TAG.SCHOOL, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+        nextScene:"0546_2"
+    },
+    "0546_2":{
+        character:CHAR.SHIKI_REIKA,
+        tags:{
+            female:[
+                TAG.BRA, TAG.PANTIES, TAG.HALF_NAKED, TAG.THIGH_HIGH_STOCKINGS, TAG.PANTIES_PUSHED_TO_SIDE, TAG.BREASTS_OUT, 
+                TAG.VAGINAL_SEX, TAG.BREAST_GROPING, TAG.AHEGAO, TAG.NAKADASHI, TAG.NIPPLE_PULLING, TAG.AHEGAO, TAG.VAGINAL_LEAKAGE
+            ],
+            male:[],
+            location:[TAG.SCHOOL, TAG.PRIVATE],
+            misc:[TAG.CUT_IN_XRAY]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0547":{
+        character:CHAR.MIYOSHI_URAHA,
+        tags:{
+            female:[
+                TAG.BREASTS_OUT, TAG.CHOKER,
+                TAG.BREAST_GROPING, TAG.BLOWJOB, TAG.NIPPLE_PULLING, TAG.NIPPLE_FUCK, TAG.CUM_LICKUP
+            ],
+            male:[],
+            location:[TAG.OUTSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0548":{
+        character:[CHAR.TAN_YOUKA, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.CHINESE_DRESS, TAG.BREASTS_OUT, TAG.PANTIES_PUSHED_TO_SIDE, TAG.THIGH_HIGH_STOCKINGS,
+                TAG.VAGINAL_SEX, TAG.BUKKAKE, TAG.ANAL_SEX, TAG.NAKADASHI
+            ],
+            male:[],
+            location:[TAG.SCHOOL,TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+
 
 
     "EX0001":{
