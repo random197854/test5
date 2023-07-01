@@ -25487,6 +25487,83 @@ var SCENE = {
         },
         ignoredCharacterTags:[],
     },
+    "0549_1":{
+        character:CHAR.SALLY_ROBERTS,
+        tags:{
+            female:[
+                TAG.SWIMSUIT, TAG.FRILLY_CLOTHING,
+                TAG.BLOWJOB, TAG.HAIR_PULLING, TAG.CUM_IN_MOUTH, TAG.CUM_SWALLOWING
+            ],
+            male:[],
+            location:[TAG.BEACH, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0549_2":{
+        character:[CHAR.SALLY_ROBERTS, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.SLING_BIKINI, TAG.BREASTS_OUT,
+                TAG.VAGINAL_SEX, TAG.NAKADASHI, TAG.NIPPLE_PINCHING, TAG.BUKKAKE
+            ],
+            male:[],
+            location:[TAG.BEACH, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0550_1":{
+        character:CHAR.AKIYAMA_RINKO,
+        tags:{
+            female:[
+                TAG.BIKINI, TAG.BREASTS_OUT, TAG.CHOKER, TAG.FINGERLESS_EVENING_GLOVES,
+                TAG.PAIZURI, TAG.BLOWJOB, TAG.HANDJOB, TAG.BUKKAKE, TAG.CUM_IN_MOUTH, TAG.CUM_SWALLOWING, TAG.PORN_PRODUCTION
+            ],
+            male:[],
+            location:[TAG.BEACH, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0550_2":{
+        character:CHAR.AKIYAMA_RINKO,
+        tags:{
+            female:[
+                TAG.BIKINI, TAG.BREASTS_OUT, TAG.CHOKER, TAG.FINGERLESS_EVENING_GLOVES, TAG.PANTIES_PUSHED_TO_SIDE, TAG.WOMB_TATTOO,
+                TAG.BUKKAKE, TAG.VAGINAL_SEX, TAG.PORN_PRODUCTION, TAG.STOMACH_DEFORMATION, TAG.NAKADASHI, TAG.VAGINAL_LEAKAGE, TAG.DOUBLE_PEACE_SIGN
+            ],
+            male:[],
+            location:[TAG.BEACH, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0551":{
+        character:CHAR.KANNAGI_KAEDE,
+        tags:{
+            female:[
+                TAG.BREASTS_OUT, TAG.VAGINAL_SEX, TAG.BUKKAKE, TAG. BREAST_GROPING, TAG.AHEGAO, TAG.NIPPLE_PINCHING, TAG.VAGINAL_LEAKAGE, TAG.NAKADASHI
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0552":{
+        character:CHAR.MIRIAM,
+        tags:{
+            female:[
+                TAG.SWIMSUIT, TAG.FRILLY_CLOTHING, TAG.BREASTS_OUT, TAG.BLINDFOLD, TAG.PROTRUDING_NIPPLES,
+                TAG.NIPPLE_PINCHING, TAG.VAGINAL_FINGERING, TAG.VAGINAL_LEAKAGE, TAG.LACTATION, TAG.BLOWJOB, TAG.NIPPLE_FUCK, TAG.VAGINAL_SEX, TAG.NAKADASHI, TAG.CUM_IN_MOUTH
+            ],
+            male:[],
+            location:[TAG.BEACH, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
 
 
 
