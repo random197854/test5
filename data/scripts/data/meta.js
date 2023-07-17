@@ -1089,6 +1089,12 @@ var CV = {
         jap: "杏蜜姫",
         japAlias: ["杏", "蜜姫"]
     },
+    HAZUKI_HIKARI:{
+        eng: "Hazuki Hikari",
+        engAlias: ["Hazuki", "Hikari Hazuki", "Hikari"],
+        jap: "葉月ひかり",
+        japAlias: ["葉月", "ひかり"]
+    },
     IGNORE:{
         eng: "",
         engAlias: [],
@@ -7469,7 +7475,8 @@ var CHAR = {
             tags:[
                 TAG.KEMONOMIMI, TAG.GOLDEN_BLOND_HAIR, TAG.SHOULDER_LENGTH_HAIR,
                 TAG.AMBER_EYES,
-                TAG.SMALL_BREASTS, TAG.LIGHT_SKIN, TAG.FLUFFY_TAIL, TAG.CLAW
+                TAG.SMALL_BREASTS, TAG.LIGHT_SKIN, TAG.FLUFFY_TAIL, TAG.CLAW,
+                TAG.CATGIRL, TAG.NEKOMIMI
             ],
             gender:"female",
             originalCharacter:true,
@@ -9439,6 +9446,65 @@ var CHAR = {
             originalCharacter:true,
             artist:ARTIST.NOBUSHITO,
             cv:CV.MUGIME_PURIN
+        }
+    },
+    FROST:{
+        base:{
+            name:{
+                eng:"Frost",
+                engAlias:[],
+                jap:"フロスト",
+                japAlias:[]
+            },
+            tags:[
+                TAG.WHITE_HAIR, TAG.LONG_HAIR,
+                TAG.BLUE_EYES,
+                TAG.BIG_BREASTS, TAG.LIGHT_SKIN,
+                TAG.CATGIRL, TAG.NEKOMIMI, TAG.FLUFFY_TAIL
+            ],
+            gender:"female",
+            originalCharacter:true,
+            artist:ARTIST.SABUROU,
+            cv:CV.AN_MITSUKI
+        }
+    },
+    VIVI_BLOOD:{
+        base:{
+            name:{
+                eng:"Vivi Blood",
+                engAlias:[],
+                jap:"ビビ・ブラッド",
+                japAlias:["ビビブラッド"]
+            },
+            tags:[
+                TAG.BLOND_HAIR, TAG.LONG_HAIR,
+                TAG.BLUE_EYES,
+                TAG.HUGE_BREASTS, TAG.LIGHT_SKIN, TAG.UNNATURAL_SKIN,
+                TAG.CYBORG
+            ],
+            gender:"female",
+            originalCharacter:true,
+            artist:ARTIST.SHINDOL,
+            cv:CV.TSURUMAKI_CHITOSE
+        }
+    },
+    PERIT:{
+        base:{
+            name:{
+                eng:"Perit",
+                engAlias:[],
+                jap:"ペリット",
+                japAlias:[]
+            },
+            tags:[
+                TAG.BLACK_HAIR, TAG.LONG_HAIR, TAG.PINK_HAIR, TAG.GRADIENT_HAIR,
+                TAG.BLUE_EYES, TAG.VIOLET_EYES, TAG.HETEROCHROMIA,
+                TAG.BIG_BREASTS, TAG.LIGHT_SKIN
+            ],
+            gender:"female",
+            originalCharacter:true,
+            artist:ARTIST.NOBUSHITO,
+            cv:CV.HAZUKI_HIKARI
         }
     },
 
@@ -25560,6 +25626,85 @@ var SCENE = {
             ],
             male:[],
             location:[TAG.BEACH, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0553_1":{
+        character:[CHAR.FROST, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.PROTRUDING_NIPPLES, TAG.PANTIES_PUSHED_TO_SIDE,
+                TAG.HANDJOB, TAG.VAGINAL_SEX, TAG.VAGINAL_LEAKAGE, TAG.HAND_HOLDING, TAG.NAKADASHI, TAG.AHEGAO
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0553_2":{
+        character:[CHAR.FROST, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.COMPLETELY_NAKED, TAG.PET_COLLAR, TAG.HANDCUFFS,
+                TAG.HANDCUFFED_SEX, TAG.VAGINAL_SEX, TAG.VAGINAL_LEAKAGE, TAG.STOMACH_DEFORMATION, TAG.NAKADASHI, TAG.BUKKAKE, TAG.INCONTINENCE, TAG.AHEGAO
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0554_1":{
+        character:CHAR.VIVI_BLOOD,
+        tags:{
+            female:[
+                TAG.COMPLETELY_NAKED,
+                TAG.RAPE, TAG.ANAL_SEX, TAG.VAGINAL_SEX, TAG.ASPHYXIATION, TAG.DOUBLE_PENIS_PENETRATION, TAG.NIPPLE_PINCHING, TAG.STOMACH_DEFORMATION, TAG.STOMACH_INFLATION, TAG.BODY_WRITING, TAG.BUKKAKE, TAG.NAKADASHI
+            ],
+            male:[TAG.CYBORG],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0554_2":{
+        character:CHAR.VIVI_BLOOD,
+        tags:{
+            female:[
+                TAG.COMPLETELY_NAKED,
+                TAG.BLOWJOB, TAG.MINDBREAK, TAG.NIPPLE_PINCHING, TAG.LACTATION, TAG.BODY_WRITING, TAG.PREGNANT, TAG.MONSTER_BIRTH, TAG.VAGINAL_LEAKAGE, TAG.NIPPLE_SUCKING, TAG.VAGINAL_SEX, TAG.AHEGAO
+            ],
+            male:[TAG.CYBORG],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0555":{
+        character:[CHAR.PERIT, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.PROTRUDING_NIPPLES, TAG.THIGH_HIGH_SOCKS, TAG.CROP_TOP, TAG.SHORTS, TAG.PANTIES_AROUND_LEG, TAG.FACE_MASK, TAG.NAVEL_PIERCING, TAG.FACIAL_PIERCING,
+                TAG.HANDJOB, TAG.VAGINAL_SEX, TAG.VAGINAL_LEAKAGE, TAG.NAKADASHI, TAG.BUKKAKE
+
+            ],
+            male:[],
+            location:[TAG.BROTHEL, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0556":{
+        character:CHAR.VESTA,
+        tags:{
+            female:[
+                TAG.NAKED, TAG.BREASTS_OUT, TAG.PET_COLLAR,
+                TAG.RAPE, TAG.VAGINAL_SEX, TAG.BLOWJOB, TAG.DOUBLE_PENIS_PENETRATION, TAG.VAGINAL_LEAKAGE, TAG.NAKADASHI, TAG.BUKKAKE, TAG.CUM_IN_MOUTH
+            ],
+            male:[TAG.ORC],
+            location:[TAG.PRISON_CELL, TAG.PRIVATE],
             misc:[]
         },
         ignoredCharacterTags:[],
