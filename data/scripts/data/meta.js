@@ -25565,6 +25565,7 @@ var SCENE = {
             misc:[]
         },
         ignoredCharacterTags:[],
+        nextScene:"0549_2"
     },
     "0549_2":{
         character:[CHAR.SALLY_ROBERTS, CHAR.FUUMA_KOTAROU],
@@ -25591,6 +25592,7 @@ var SCENE = {
             misc:[]
         },
         ignoredCharacterTags:[],
+        nextScene:"0550_2"
     },
     "0550_2":{
         character:CHAR.AKIYAMA_RINKO,
@@ -25642,6 +25644,7 @@ var SCENE = {
             misc:[]
         },
         ignoredCharacterTags:[],
+        nextScene:"0553_2"
     },
     "0553_2":{
         character:[CHAR.FROST, CHAR.FUUMA_KOTAROU],
@@ -25668,6 +25671,7 @@ var SCENE = {
             misc:[]
         },
         ignoredCharacterTags:[],
+        nextScene:"0554_2"
     },
     "0554_2":{
         character:CHAR.VIVI_BLOOD,
@@ -25705,6 +25709,89 @@ var SCENE = {
             ],
             male:[TAG.ORC],
             location:[TAG.PRISON_CELL, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0557_1":{
+        character:CHAR.HINODE_HIMARI,
+        tags:{
+            female:[
+                TAG.BUNNYGIRL_OUTFIT, TAG.BREASTS_OUT, TAG.PANTIES_PUSHED_TO_SIDE, TAG.THIGH_HIGH_STOCKINGS,
+                TAG.VAGINAL_SEX, TAG.NAKADASHI, TAG.BLOWJOB, TAG.CUM_IN_MOUTH, TAG.BUKKAKE
+            ],
+            male:[],
+            location:[TAG.CASINO, TAG.SEMI_PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+        nextScene:"0557_2"
+    },
+    "0557_2":{
+        character:CHAR.HINODE_HIMARI,
+        tags:{
+            female:[
+                TAG.NAKED, TAG.THIGH_HIGH_STOCKINGS,
+                TAG.BREAST_GROPING, TAG.NIPPLE_PULLING, TAG.VAGINAL_SEX, TAG.NAKADASHI, TAG.BUKKAKE, TAG.VAGINAL_LEAKAGE
+            ],
+            male:[],
+            location:[],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0558_1":{
+        character:CHAR.LILIM,
+        form:"awakened",
+        tags:{
+            female:[
+                TAG.BUNNYGIRL_OUTFIT, TAG.BREASTS_OUT, TAG.PANTYHOSE,
+                TAG.BLOWJOB, TAG.ASSJOB, TAG.VAGINAL_SEX, TAG.VAGINAL_LEAKAGE, TAG.NAKADASHI, TAG.DICK_CLEANING_BLOWJOB
+            ],
+            male:[],
+            location:[TAG.BROTHEL, TAG.BEDROOM, TAG.PRIVATE],
+            misc:[TAG.CUT_IN_XRAY]
+        },
+        ignoredCharacterTags:[],
+        nextScene:"0558_2"
+    },
+    "0558_2":{
+        character:CHAR.LILIM,
+        form:"awakened",
+        tags:{
+            female:[
+                TAG.BUNNYGIRL_OUTFIT, TAG.BREASTS_OUT, TAG.PANTYHOSE,
+                TAG.REVERSE_COWGIRL_POSITION,
+                TAG.VAGINAL_LEAKAGE, TAG.VAGINAL_SEX, TAG.AHEGAO, TAG.NAKADASHI, TAG.DICK_CLEANING_BLOWJOB, TAG.BLOWJOB_PAIZURI, TAG.BUKKAKE
+            ],
+            male:[],
+            location:[TAG.BROTHEL, TAG.BEDROOM, TAG.PRIVATE],
+            misc:[TAG.CUT_IN_XRAY]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0559":{
+        character:[CHAR.NAGANUMA_MITSURU, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.BUNNYGIRL_OUTFIT, TAG.STOCKINGS, TAG.THIGH_BAND, TAG.COLLAR, TAG.GLOVES, TAG.PANTIES_PUSHED_TO_SIDE, TAG.BREASTS_OUT,
+                TAG.INTERCRURAL_SEX, TAG.VAGINAL_SEX, TAG.NAKADASHI, TAG.VAGINAL_LEAKAGE
+            ],
+            male:[],
+            location:[TAG.BATHROOM, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0560":{
+        character:CHAR.BRIDGET,
+        tags:{
+            female:[
+                TAG.BUNNYGIRL_OUTFIT, TAG.BREASTS_OUT, TAG.THIGH_HIGH_STOCKINGS, TAG.PANTIES_PUSHED_TO_SIDE, TAG.EVENING_GLOVES, TAG.COLLAR,
+                TAG.RAPE, TAG.BREAST_GROPING, TAG.VAGINAL_SEX, TAG.VAGINAL_LEAKAGE, TAG.NIPPLE_PINCHING, TAG.NAKADASHI
+            ],
+            male:[],
+            location:[],
             misc:[]
         },
         ignoredCharacterTags:[],
