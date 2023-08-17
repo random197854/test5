@@ -1095,6 +1095,24 @@ var CV = {
         jap: "葉月ひかり",
         japAlias: ["葉月", "ひかり"]
     },
+    HIYORI_REN:{
+        eng: "Hiyori Ren",
+        engAlias: ["Hiyori", "Ren Hiyori", "Ren"],
+        jap: "妃依恋",
+        japAlias: ["妃依", "恋"]
+    },
+    INOUE_YUA:{
+        eng: "Inoue Yua",
+        engAlias: ["Inoue", "Yua Inoue", "Yua"],
+        jap: "井上ゆあ",
+        japAlias: ["井上", "ゆあ"]
+    },
+    MOMOZONO_ANRI:{
+        eng: "Momozono Anri",
+        engAlias: ["Momozono", "Anri Momozono", "Anri"],
+        jap: "桃園杏里",
+        japAlias: ["桃園", "杏里"]
+    },
     IGNORE:{
         eng: "",
         engAlias: [],
@@ -9507,6 +9525,82 @@ var CHAR = {
             cv:CV.HAZUKI_HIKARI
         }
     },
+    COOLIDGE:{
+        base:{
+            name:{
+                eng:"Coolidge",
+                engAlias:["Kuuridge", "Kuulidge"],
+                jap:"クーリッジ",
+                japAlias:[]
+            },
+            tags:[
+                TAG.WHITE_HAIR, TAG.LONG_HAIR,
+                TAG.VIOLET_EYES,
+                TAG.DARK_SKIN, TAG.HUGE_BREASTS
+            ],
+            gender:"female",
+            originalCharacter:true,
+            artist:ARTIST.SAIJO_SATORU,
+            cv:CV.HIYORI_REN
+        }
+    },
+    MORINO_YUUKO:{
+        base:{
+            name:{
+                eng:"Morino Yuuko",
+                engAlias:["Yuuko Morino", "Yukuo", "Morino"],
+                jap:"森乃由子",
+                japAlias:["森乃", "由子"]
+            },
+            tags:[
+               TAG.LONG_HAIR, TAG.BLACK_HAIR,
+               TAG.GREEN_EYES,
+               TAG.LIGHT_SKIN, TAG.HUGE_BREASTS
+            ],
+            gender:"female",
+            originalCharacter:false,
+            artist:ARTIST.AOI_NAGISA,
+            cv:CV.KUSAYANAGI_JUNKO
+        }
+    },
+    AMANAKI_UI:{
+        base:{
+            name:{
+                eng:"Amanaki Ui",
+                engAlias:["Amanaki", "Ui Amanaki", "Ui"],
+                jap:"天泣憂",
+                japAlias:["天泣", "憂"]
+            },
+            tags:[
+                TAG.BLUE_HAIR, TAG.LONG_HAIR,
+                TAG.VIOLET_EYES,
+                TAG.LIGHT_SKIN, TAG.BIG_BREASTS
+            ],
+            gender:"female",
+            originalCharacter:true,
+            artist:ARTIST.ZOL,
+            cv:CV.INOUE_YUA
+        }
+    },
+    SENOKA:{
+        base:{
+            name:{
+                eng:"Senoka",
+                engAlias:[],
+                jap:"セノカ",
+                japAlias:[]
+            },
+            tags:[
+                TAG.BROWN_HAIR, TAG.LONG_HAIR,
+                TAG.VIOLET_EYES,
+                TAG.BIG_BREASTS, TAG.LIGHT_SKIN
+            ],
+            gender:"female",
+            originalCharacter:true,
+            artist:ARTIST.HOMURA_YUNI,
+            cv:CV.MOMOZONO_ANRI
+        }
+    },
 
 
 
@@ -9606,25 +9700,6 @@ var CHAR = {
             originalCharacter:false,
             artist:ARTIST.ZOL,
             cv:CV.ENOKIZU_MAO
-        }
-    },
-    MORINO_YUUKO:{
-        base:{
-            name:{
-                eng:"Morino Yuuko",
-                engAlias:["Yuuko Morino", "Yukuo", "Morino"],
-                jap:"森乃由子",
-                japAlias:["森乃", "由子"]
-            },
-            tags:[
-               TAG.LONG_HAIR, TAG.BLACK_HAIR,
-               TAG.GREEN_EYES,
-               TAG.LIGHT_SKIN, TAG.HUGE_BREASTS
-            ],
-            gender:"female",
-            originalCharacter:false,
-            artist:ARTIST.AOI_NAGISA,
-            cv:CV.KUSAYANAGI_JUNKO
         }
     },
     YAGYUU_TOWAKO:{
@@ -25792,6 +25867,85 @@ var SCENE = {
             ],
             male:[],
             location:[],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0561_1":{
+        character:CHAR.COOLIDGE,
+        tags:{
+            female:[
+                TAG.BREASTS_OUT, TAG.THIGH_BAND,
+                TAG.DOGGY_STYLE,
+                TAG.RAPE, TAG.VAGINAL_SEX, TAG.NAKADASHI, TAG.BEASTIALITY, TAG.STOMACH_DEFORMATION, TAG.AHEGAO, TAG.STOMACH_INFLATION
+            ],
+            male:[TAG.HORSE, TAG.MONSTER],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0561_2":{
+        character:CHAR.COOLIDGE,
+        tags:{
+            female:[
+                TAG.BREASTS_OUT, TAG.THIGH_BAND,
+                TAG.SPREAD_PUSSY, TAG.ASPHYXIATION, TAG.MIND_CONTROL, TAG.VAGINAL_LEAKAGE, TAG.MINDBREAK, TAG.INCONTINENCE, TAG.SCAT
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0562_1":{
+        character:[CHAR.MORINO_YUUKO, CHAR.TACHIBANA_ICHIROU],
+        tags:{
+            female:[
+                TAG.PARTIALLY_TRANSPARENT_CLOTHING, TAG.LEOTARD, TAG.WITCH_HAT, TAG.THIGH_HIGH_STOCKINGS, TAG.PANTIES_PUSHED_TO_SIDE, TAG.GLASSES, TAG.RIPPED_CLOTHING,
+                TAG.TENTACLE_BONDAGE, TAG.VAGINAL_SEX, TAG.STOMACH_DEFORMATION, TAG.NAKADASHI, TAG.ANAL_SEX
+            ],
+            male:[],
+            location:[TAG.FLESH_ROOM, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0562_2":{
+        character:[CHAR.MORINO_YUUKO, CHAR.TACHIBANA_ICHIROU],
+        tags:{
+            female:[
+                TAG.PARTIALLY_TRANSPARENT_CLOTHING, TAG.LEOTARD, TAG.WITCH_HAT, TAG.THIGH_HIGH_STOCKINGS, TAG.GLASSES, TAG.RIPPED_CLOTHING, TAG.BREASTS_OUT, 
+                TAG.BLOWJOB_PAIZURI, TAG.BUKKAKE, TAG.VAGINAL_SEX, TAG.STOMACH_DEFORMATION, TAG.WOMB_TATTOO, TAG.NIPPLE_PINCHING, TAG.BLOWJOB, TAG.BREAST_GROPING, TAG.STOMACH_INFLATION, TAG.AHEGAO, TAG.VAGINAL_LEAKAGE
+            ],
+            male:[TAG.TENTACLE],
+            location:[TAG.FLESH_ROOM, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0563":{
+        character:[CHAR.AMANAKI_UI, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.BREASTS_OUT, TAG.PANTIES_PUSHED_TO_SIDE,
+                TAG.VAGINAL_SEX, TAG.NAKADASHI, TAG.VAGINAL_LEAKAGE
+            ],
+            male:[],
+            location:[TAG.CAVE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0564":{
+        character:CHAR.SENOKA,
+        tags:{
+            female:[
+                TAG.THIGH_HIGH_STOCKINGS, TAG.PANTIES, TAG.LINGERIE, TAG.PANTIES_PUSHED_TO_SIDE,
+                TAG.BREAST_GROPING, TAG.VAGINAL_FINGERING, TAG.SQUIRTING, TAG.VAGINAL_SEX, TAG.NAKADASHI, TAG.AHEGAO
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
             misc:[]
         },
         ignoredCharacterTags:[],
