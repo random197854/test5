@@ -19987,6 +19987,7 @@ var SCENE = {
             misc:[]
         },
         ignoredCharacterTags:[],
+        nextScene:"0566_1"
     },
     "0284_1":{
         character:[CHAR.IGAWA_SAKURA, CHAR.FUUMA_KOTAROU],
@@ -25884,6 +25885,7 @@ var SCENE = {
             misc:[]
         },
         ignoredCharacterTags:[],
+        nextScene:"0561_2"
     },
     "0561_2":{
         character:CHAR.COOLIDGE,
@@ -25910,6 +25912,7 @@ var SCENE = {
             misc:[]
         },
         ignoredCharacterTags:[],
+        nextScene:"0562_2"
     },
     "0562_2":{
         character:[CHAR.MORINO_YUUKO, CHAR.TACHIBANA_ICHIROU],
@@ -25946,6 +25949,89 @@ var SCENE = {
             ],
             male:[],
             location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0565_1":{
+        character:[CHAR.IZUMO_TSURU, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.YUKATA, TAG.BREASTS_OUT, TAG.PANTYLESS,
+                TAG.SIXTY_NINE,
+                TAG.HANDJOB, TAG.BLOWJOB, TAG.CUNNILINGUS, TAG.BUKKAKE, TAG.VAGINAL_LEAKAGE, TAG.CUM_IN_MOUTH
+            ],
+            male:[],
+            location:[TAG.BEDROOM, TAG.ON_BED, TAG.PRIVATE],
+            misc:[TAG.NO_SEX]
+        },
+        ignoredCharacterTags:[],
+        nextScene:"0565_2"
+    },
+    "0565_2":{
+        character:[CHAR.IZUMO_TSURU, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.YUKATA, TAG.BREASTS_OUT, TAG.PANTYLESS, TAG.CHOKER,
+                TAG.STANDING_SEX,
+                TAG.BREAST_GROPING, TAG.VAGINAL_SEX, TAG.KISSING, TAG.NAKADASHI
+            ],
+            male:[],
+            location:[TAG.BEDROOM, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0566_1":{
+        character:CHAR.HOMARE_NAO,
+        tags:{
+            female:[],
+            male:[
+                TAG.YUKATA, TAG.CHOKER,
+                TAG.STANDING_SEX,
+                TAG.ASS_GROPING, TAG.HANDJOB, TAG.ANAL_SEX, TAG.HEART_PUPILS, TAG.NAKADASHI
+            ],
+            location:[TAG.OUTSIDE, TAG.SEMI_PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+        nextScene:"0566_2"
+    },
+    "0566_2":{
+        character:CHAR.HOMARE_NAO,
+        tags:{
+            female:[],
+            male:[
+                TAG.YUKATA, TAG.CHOKER, TAG.THIGH_BAND,
+                TAG.ANAL_SEX, TAG.HEART_PUPILS, TAG.NAKADASHI
+            ],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0567":{
+        character:CHAR.SHISHIMURA_KORO,
+        tags:{
+            female:[
+                TAG.YUKATA, TAG.BREASTS_OUT, TAG.PANTIES, TAG.PANTIES_PULLED_DOWN,
+                TAG.RAPE, TAG.INCONTINENCE, TAG.VAGINAL_SEX, TAG.HAIR_PULLING, TAG.BREAST_GROPING, TAG.NAKADASHI
+            ],
+            male:[],
+            location:[],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0568":{
+        character:CHAR.SHIMIZU_KANNA,
+        tags:{
+            female:[
+                TAG.YUKATA, TAG.PANTIES_PULLED_DOWN, TAG.BREASTS_OUT, TAG.BRA,
+                TAG.URINATION_FETISH, TAG.BLOWJOB, TAG.PAIZURI, TAG.NIPPLE_PINCHING, TAG.INCONTINENCE, TAG.BUKKAKE, TAG.CUM_LICKUP
+            ],
+            male:[],
+            location:[TAG.OUTSIDE, TAG.SEMI_PRIVATE],
             misc:[]
         },
         ignoredCharacterTags:[],
