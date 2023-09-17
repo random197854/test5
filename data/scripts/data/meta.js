@@ -26036,6 +26036,84 @@ var SCENE = {
         },
         ignoredCharacterTags:[],
     },
+    "0569_1":{
+        character:CHAR.KATEJINA,
+        tags:{
+            female:[
+                TAG.BREASTS_OUT, TAG.THIGH_HIGH_STOCKINGS, TAG.CHOKER,
+                TAG.VAGINAL_SEX, TAG.NIPPLE_PINCHING, TAG.BLOWJOB, TAG.NAKADASHI, TAG.VAGINAL_LEAKAGE, TAG.BUKKAKE
+            ],
+            male:[TAG.ORC],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0569_2":{
+        character:[CHAR.KATEJINA, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.BREASTS_OUT, TAG.THIGH_HIGH_STOCKINGS, TAG.CHOKER,
+                TAG.VAGINAL_SEX, TAG.NIPPLE_PINCHING, TAG.KISSING, TAG.NAKADASHI
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.ON_BED, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0570_1":{
+        character:CHAR.AMATSU_ANRI,
+        tags:{
+            female:[
+                TAG.PROTRUDING_NIPPLES, TAG.THIGH_HIGH_STOCKINGS, TAG.FACE_MASK, TAG.CASUAL_CLOTHING,
+                TAG.BLOWJOB, TAG.CUM_IN_MOUTH, TAG.BUKKAKE
+            ],
+            male:[],
+            location:[TAG.ALLEYWAY, TAG.SEMI_PUBLIC],
+            misc:[TAG.NO_SEX]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0570_2":{
+        character:CHAR.AMATSU_ANRI,
+        tags:{
+            female:[
+                TAG.CASUAL_CLOTHING, TAG.RIPPED_CLOTHING, TAG.BREASTS_OUT, TAG.COLLAR,
+                TAG.URINATION_FETISH, TAG.VAGINAL_FINGERING, TAG.MASTURBATION, TAG.VAGINAL_SEX, TAG.NIPPLE_PINCHING, TAG.BREAST_GROPING, TAG.NAKADASHI, TAG.AHEGAO, TAG.PISSED_ON, TAG.VAGINAL_LEAKAGE
+            ],
+            male:[],
+            location:[TAG.ALLEYWAY, TAG.SEMI_PUBLIC],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0571":{
+        character:[CHAR.WYMULU, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.TAIMANIN_OUTFIT, TAG.BREASTS_OUT,
+                TAG.BLOWJOB_PAIZURI, TAG.CUM_IN_MOUTH, TAG.CUM_LICKUP
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[TAG.NO_SEX]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0572":{
+        character:[CHAR.REPITA_RICHSTAR, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.TAIMANIN_OUTFIT, TAG.PANTIES, TAG.RIPPED_CLOTHING, TAG.BREAST_CUTOUTS,
+                TAG.ROTOR, TAG.MAGIC_WAND, TAG.VAGINAL_LEAKAGE, TAG.VAGINAL_SEX, TAG.NAKADASHI, TAG.INCONTINENCE
+            ],
+            male:[],
+            location:[TAG.OUTSIDE, TAG.SEMI_PUBLIC],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
 
 
 
