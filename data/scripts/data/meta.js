@@ -26048,6 +26048,7 @@ var SCENE = {
             misc:[]
         },
         ignoredCharacterTags:[],
+        nextScene:"0569_2"
     },
     "0569_2":{
         character:[CHAR.KATEJINA, CHAR.FUUMA_KOTAROU],
@@ -26074,6 +26075,7 @@ var SCENE = {
             misc:[TAG.NO_SEX]
         },
         ignoredCharacterTags:[],
+        nextScene:"0570_2"
     },
     "0570_2":{
         character:CHAR.AMATSU_ANRI,
@@ -26110,6 +26112,87 @@ var SCENE = {
             ],
             male:[],
             location:[TAG.OUTSIDE, TAG.SEMI_PUBLIC],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0573_1":{
+        character:CHAR.RINA,
+        tags:{
+            female:[
+                TAG.LINGERIE, TAG.BRA, TAG.PANTIES, TAG.BREAST_CUTOUTS, TAG.VAGINAL_CUTOUT, TAG.COLLAR,
+                TAG.VAGINAL_SEX, TAG.NIPPLE_PULLING, TAG.NAKADASHI, TAG.AHEGAO, TAG.BUKKAKE, TAG.PISSED_ON
+            ],
+            male:[],
+            location:[TAG.PRISON_CELL, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+        nextScene:"0573_2"
+    },
+    "0573_2":{
+        character:CHAR.INGRID,
+        tags:{
+            female:[
+                TAG.LINGERIE,TAG.PARTIALLY_TRANSPARENT_CLOTHING, TAG.EVENING_GLOVES, TAG.THIGH_HIGH_STOCKINGS,
+                TAG.PROSTITUTION, TAG.BREAST_GROPING, TAG.VAGINAL_SEX, TAG.AHEGAO, TAG.NAKADASHI, TAG.WOMB_TATTOO, TAG.KISSING
+            ],
+            male:[],
+            location:[TAG.BROTHEL, TAG.ON_BED, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0574_1":{
+        character:[CHAR.MIZUKI_YUKIKAZE, CHAR.AKIYAMA_RINKO, CHAR.YAZAKI_MUNEICHI],
+        tags:{
+            female:[
+                TAG.TAIMANIN_OUTFIT, TAG.RIPPED_CLOTHING, TAG.PANTIES_PUSHED_TO_SIDE, TAG.PROTRUDING_NIPPLES,
+                TAG.PROSTITUTION, TAG.VAGINAL_SEX, TAG.AHEGAO, TAG.NAKADASHI, TAG.MINDBREAK
+            ],
+            male:[],
+            location:[TAG.BROTHEL, TAG.ON_BED, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+        nextScene:"0574_2"
+    },
+    "0574_2":{
+        character:[CHAR.MIZUKI_YUKIKAZE, CHAR.AKIYAMA_RINKO, CHAR.YAZAKI_MUNEICHI],
+        tags:{
+            female:[
+                TAG.TAIMANIN_OUTFIT, TAG.RIPPED_CLOTHING, TAG.PANTIES_PUSHED_TO_SIDE, TAG.BREASTS_OUT,
+                TAG.PROSTITUTION, TAG.MINDBREAK, TAG.WOMB_TATTOO, TAG.VAGINAL_SEX, TAG.VAGINAL_LEAKAGE, TAG.BLOWJOB, TAG.STOMACH_DEFORMATION, TAG.BUKKAKE, TAG.NAKADASHI, TAG.AHEGAO, TAG.PEACE_SIGN_AHEGAO
+            ],
+            male:[],
+            location:[TAG.BROTHEL, TAG.ON_BED, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0575_1":{
+        character:CHAR.FELICIA,
+        tags:{
+            female:[
+                TAG.CROP_TOP, TAG.SHORT_SHORTS, TAG.CHOKER, TAG.BOOTS, TAG.NAKED,
+                TAG.SEX_ENGINE, TAG.SPREAD_PUSSY, TAG.NIPPLE_SUCKING, TAG.ELECTRIC_SHOCKS, TAG.VAGINAL_INSERTION, TAG.ANAL_INSERTION, TAG.VIBRATOR, TAG.DOUBLE_PENETRATION, TAG.AHEGAO, TAG.INCONTINENCE, TAG.LACTATION
+            ],
+            male:[],
+            location:[TAG.LABORATORY, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+        nextScene:"0575_2"
+    },
+    "0575_2":{
+        character:CHAR.FELICIA,
+        tags:{
+            female:[
+                TAG.NAKED, TAG.METAL_BONDAGE, TAG.CHOKER, TAG.WOMB_TATTOO,
+                TAG.BUKKAKE, TAG.BLOWJOB, TAG.VAGINAL_SEX, TAG.NAKADASHI, TAG.VAGINAL_LEAKAGE, TAG.STOMACH_INFLATION
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
             misc:[]
         },
         ignoredCharacterTags:[],
