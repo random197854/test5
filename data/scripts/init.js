@@ -533,8 +533,8 @@ function decompressMask(mask){
             newMask.push(curMask[i+1]);
         }
     }
-    maskData[mask] = new ImageData(new Uint8ClampedArray(newMask), 960, 720);
-    //maskData[mask] = new ImageData(new Uint8ClampedArray(newMask), 1280, 720);
+    //maskData[mask] = new ImageData(new Uint8ClampedArray(newMask), 960, 720);
+    maskData[mask] = new ImageData(new Uint8ClampedArray(newMask), 1280, 720);
 }
 
 function initAutocomplete(){
