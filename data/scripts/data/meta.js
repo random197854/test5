@@ -9601,7 +9601,25 @@ var CHAR = {
             cv:CV.MOMOZONO_ANRI
         }
     },
-
+    KAGOMORI_ZAKURO:{
+        base:{
+            name:{
+                eng:"Kagomori Zakuro",
+                engAlias:["Kagomori", "Zakuro Kagomori", "Zakuro"],
+                jap:"花護守ざくろ",
+                japAlias:["花護守", "ざくろ"]
+            },
+            tags:[
+                TAG.PINK_HAIR, TAG.LONG_HAIR,
+                TAG.GARNET_EYES,
+                TAG.LIGHT_SKIN, TAG.BIG_BREASTS
+            ],
+            gender:"female",
+            originalCharacter:true,
+            artist:ARTIST.SANO_TOSHIHIDE,
+            cv:CV.HAKATA_AKIKO
+        }
+    },
 
 
 
@@ -26193,6 +26211,85 @@ var SCENE = {
             ],
             male:[],
             location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0576_1":{
+        character:[CHAR.LILINOE, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.THONG, TAG.PANTIES_PULLED_DOWN, TAG.PROTRUDING_NIPPLES, TAG.DRESS,
+                TAG.PREGNANT, TAG.CUNNILINGUS, TAG.SQUIRTING, TAG.INTERCRURAL_SEX, TAG.BUKKAKE
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[TAG.NO_SEX]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0576_2":{
+        character:[CHAR.LILINOE, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.DRESS, TAG.PANTLESS, TAG.PROTRUDING_NIPPLES, TAG.BREASTS_OUT,
+                TAG.PREGNANT, TAG.VAGINAL_SEX, TAG.LACTATION, TAG.BREAST_GROPING, TAG.NIPPLE_SUCKING, TAG.NAKADASHI, TAG.AHEGAO
+
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0577_1":{
+        character:[CHAR.IGAWA_ASAGI, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.BRA, TAG.CLEAVAGE_CUTOUT, TAG.THONG, TAG.NECKTIE, TAG.BLOUSE, TAG.BREASTS_OUT,
+                TAG.PREGNANT, TAG.BREAST_GROPING, TAG.LACTATION, TAG.KISSING, TAG.BLOWJOB, TAG.BUKKAKE, TAG.NIPPLE_PINCHING, TAG.CUM_IN_MOUTH, TAG.CUM_SWALLOWING
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0577_2":{
+        character:[CHAR.IGAWA_ASAGI, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.BRA, TAG.CLEAVAGE_CUTOUT, TAG.THONG, TAG.NECKTIE, TAG.BLOUSE, TAG.BREASTS_OUT, TAG.THIGH_HIGH_STOCKINGS,
+                TAG.PREGNANT, TAG.LACTATION, TAG.PANTIES_PUSHED_TO_SIDE, TAG.AHEGAO, TAG.NAKADASHI, TAG.WOMB_TATTOO, TAG.ANAL_SEX, TAG.BUKKAKE
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0578":{
+        character:[CHAR.KAGOMORI_ZAKURO, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.DRESS, TAG.BREASTS_OUT,
+                TAG.PREGNANT, TAG.BREAST_GROPING, TAG.VAGINAL_FINGERING, TAG.BUKKAKE, TAG.VAGINAL_SEX, TAG.LACTATION, TAG.NAKADASHI, TAG.VAGINAL_LEAKAGE
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE],
+            misc:[]
+        },
+        ignoredCharacterTags:[],
+    },
+    "0579":{
+        character:[CHAR.WISP, CHAR.FUUMA_KOTAROU],
+        tags:{
+            female:[
+                TAG.NAKED,
+                TAG.BREAST_GROPING, TAG.VAGINAL_SEX, TAG.NAKADASHI, TAG.PREGNANT, TAG.NAKADASHI, TAG.NIPPLE_SUCKING, TAG.LACTATION, TAG.AHEGAO
+            ],
+            male:[],
+            location:[TAG.INSIDE, TAG.PRIVATE, TAG.ON_BED],
             misc:[]
         },
         ignoredCharacterTags:[],
