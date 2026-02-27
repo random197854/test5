@@ -1,0 +1,887 @@
+
+20th_Asagi_EV_02.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_Arm_R
+  rotate: true
+  xy: 1859, 11
+  size: 65, 155
+  orig: 65, 155
+  offset: 0, 0
+  index: -1
+A_Body_Sweat_03
+  rotate: false
+  xy: 1929, 1026
+  size: 117, 133
+  orig: 117, 133
+  offset: 0, 0
+  index: -1
+A_Body_Sweat_05
+  rotate: false
+  xy: 1799, 10
+  size: 58, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1
+A_Chest_Sweat
+  rotate: true
+  xy: 1322, 487
+  size: 61, 35
+  orig: 61, 35
+  offset: 0, 0
+  index: -1
+A_Eye
+  rotate: false
+  xy: 1929, 967
+  size: 116, 57
+  orig: 116, 57
+  offset: 0, 0
+  index: -1
+A_Eyebrow
+  rotate: false
+  xy: 1955, 2021
+  size: 90, 25
+  orig: 90, 25
+  offset: 0, 0
+  index: -1
+A_Flushing
+  rotate: false
+  xy: 1950, 1608
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+A_Hair_01
+  rotate: false
+  xy: 528, 807
+  size: 104, 128
+  orig: 104, 128
+  offset: 0, 0
+  index: -1
+A_Hair_03
+  rotate: true
+  xy: 1185, 476
+  size: 72, 135
+  orig: 72, 135
+  offset: 0, 0
+  index: -1
+A_Hand_R
+  rotate: false
+  xy: 635, 1089
+  size: 142, 81
+  orig: 142, 81
+  offset: 0, 0
+  index: -1
+A_Lovejuice_01_A_000
+  rotate: true
+  xy: 779, 1135
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+A_Mouth
+  rotate: false
+  xy: 207, 781
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+A_Sweat
+  rotate: false
+  xy: 1950, 1318
+  size: 83, 58
+  orig: 83, 58
+  offset: 0, 0
+  index: -1
+Arm_R_CC
+  rotate: true
+  xy: 1955, 1778
+  size: 83, 89
+  orig: 83, 89
+  offset: 0, 0
+  index: -1
+B_Effect_02
+  rotate: true
+  xy: 1929, 836
+  size: 129, 115
+  orig: 129, 115
+  offset: 0, 0
+  index: -1
+B_Effect_03
+  rotate: true
+  xy: 442, 222
+  size: 250, 358
+  orig: 250, 358
+  offset: 0, 0
+  index: -1
+B_Eye
+  rotate: false
+  xy: 1929, 777
+  size: 113, 29
+  orig: 113, 29
+  offset: 0, 0
+  index: -1
+B_Eyebrow
+  rotate: false
+  xy: 1955, 1748
+  size: 89, 28
+  orig: 89, 28
+  offset: 0, 0
+  index: -1
+B_Hair_01
+  rotate: true
+  xy: 1955, 1642
+  size: 47, 84
+  orig: 47, 84
+  offset: 0, 0
+  index: -1
+B_Hair_02
+  rotate: false
+  xy: 1525, 5
+  size: 61, 71
+  orig: 61, 71
+  offset: 0, 0
+  index: -1
+B_Mouth
+  rotate: false
+  xy: 116, 778
+  size: 45, 28
+  orig: 45, 28
+  offset: 0, 0
+  index: -1
+B_Tongue
+  rotate: true
+  xy: 163, 781
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+C_Eyebrow
+  rotate: false
+  xy: 1955, 1994
+  size: 90, 25
+  orig: 90, 25
+  offset: 0, 0
+  index: -1
+C_Mouth
+  rotate: false
+  xy: 1374, 1627
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+Chest_L_CC
+  rotate: false
+  xy: 442, 642
+  size: 190, 133
+  orig: 190, 133
+  offset: 0, 0
+  index: -1
+Dick_BB
+  rotate: true
+  xy: 528, 937
+  size: 130, 288
+  orig: 130, 288
+  offset: 0, 0
+  index: -1
+E_Eye
+  rotate: false
+  xy: 2, 777
+  size: 112, 27
+  orig: 112, 27
+  offset: 0, 0
+  index: -1
+E_Eyebrow
+  rotate: false
+  xy: 1955, 1718
+  size: 89, 28
+  orig: 89, 28
+  offset: 0, 0
+  index: -1
+E_Mouth
+  rotate: true
+  xy: 583, 575
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+E_Salvia
+  rotate: true
+  xy: 583, 607
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+E_Semen
+  rotate: false
+  xy: 270, 4
+  size: 364, 216
+  orig: 364, 216
+  offset: 0, 0
+  index: -1
+G_Effect
+  rotate: true
+  xy: 2, 1214
+  size: 191, 142
+  orig: 191, 142
+  offset: 0, 0
+  index: -1
+H_Eye
+  rotate: false
+  xy: 1929, 808
+  size: 114, 26
+  orig: 114, 26
+  offset: 0, 0
+  index: -1
+H_Eyebrow
+  rotate: false
+  xy: 1955, 1691
+  size: 89, 25
+  orig: 89, 25
+  offset: 0, 0
+  index: -1
+H_Mouth
+  rotate: false
+  xy: 583, 543
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+H_Salvia
+  rotate: true
+  xy: 779, 1077
+  size: 56, 34
+  orig: 56, 34
+  offset: 0, 0
+  index: -1
+H_Semen
+  rotate: false
+  xy: 819, 723
+  size: 538, 488
+  orig: 538, 488
+  offset: 0, 0
+  index: -1
+Joung
+  rotate: false
+  xy: 636, 755
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Leg_L_CC
+  rotate: false
+  xy: 1950, 1378
+  size: 94, 127
+  orig: 94, 127
+  offset: 0, 0
+  index: -1
+LoveJuice_CC
+  rotate: false
+  xy: 1395, 1246
+  size: 553, 438
+  orig: 553, 438
+  offset: 0, 0
+  index: -1
+LoveJuice_DD
+  rotate: false
+  xy: 819, 1213
+  size: 553, 438
+  orig: 553, 438
+  offset: 0, 0
+  index: -1
+LoveJuice_DDD
+  rotate: false
+  xy: 1374, 806
+  size: 553, 438
+  orig: 553, 438
+  offset: 0, 0
+  index: -1
+LoveJuice_EEP
+  rotate: true
+  xy: 2, 222
+  size: 553, 438
+  orig: 553, 438
+  offset: 0, 0
+  index: -1
+Man_Arm_L_CC
+  rotate: true
+  xy: 146, 1215
+  size: 190, 463
+  orig: 190, 463
+  offset: 0, 0
+  index: -1
+Man_Hand_S_L
+  rotate: false
+  xy: 1588, 6
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: -1
+Man_Hand_S_R
+  rotate: false
+  xy: 1652, 8
+  size: 145, 68
+  orig: 145, 68
+  offset: 0, 0
+  index: -1
+Man_Leg_R_CC
+  rotate: false
+  xy: 1929, 463
+  size: 110, 312
+  orig: 110, 312
+  offset: 0, 0
+  index: -1
+Man_Thighs_L_CC
+  rotate: false
+  xy: 1108, 12
+  size: 415, 461
+  orig: 415, 461
+  offset: 0, 0
+  index: -1
+Man_Thighs_R_CC
+  rotate: true
+  xy: 1525, 78
+  size: 446, 395
+  orig: 446, 395
+  offset: 0, 0
+  index: -1
+Men_Arm_B_E
+  rotate: false
+  xy: 583, 480
+  size: 40, 61
+  orig: 40, 61
+  offset: 0, 0
+  index: -1
+Men_Arm_L_AA
+  rotate: false
+  xy: 1359, 479
+  size: 163, 325
+  orig: 163, 325
+  offset: 0, 0
+  index: -1
+Men_Arm_L_BB
+  rotate: false
+  xy: 1359, 479
+  size: 163, 325
+  orig: 163, 325
+  offset: 0, 0
+  index: -1
+Men_Arm_R_B
+  rotate: false
+  xy: 1185, 550
+  size: 172, 171
+  orig: 172, 171
+  offset: 0, 0
+  index: -1
+Men_Hand_B
+  rotate: false
+  xy: 636, 1172
+  size: 181, 233
+  orig: 181, 233
+  offset: 0, 0
+  index: -1
+Men_Hand_L_B
+  rotate: true
+  xy: 1922, 97
+  size: 236, 119
+  orig: 236, 119
+  offset: 0, 0
+  index: -1
+Men_Hand_R_B
+  rotate: true
+  xy: 1950, 1161
+  size: 155, 81
+  orig: 155, 81
+  offset: 0, 0
+  index: -1
+Men_Leg_R_BB
+  rotate: true
+  xy: 282, 1069
+  size: 144, 351
+  orig: 144, 351
+  offset: 0, 0
+  index: -1
+Men_Thighs_L_AA
+  rotate: true
+  xy: 1395, 1686
+  size: 360, 558
+  orig: 360, 558
+  offset: 0, 0
+  index: -1
+Men_Thighs_L_BB
+  rotate: true
+  xy: 819, 1653
+  size: 393, 574
+  orig: 393, 574
+  offset: 0, 0
+  index: -1
+Men_Thighs_R_BB
+  rotate: true
+  xy: 2, 808
+  size: 403, 278
+  orig: 403, 278
+  offset: 0, 0
+  index: -1
+Men_Thighs_R_BB_p
+  rotate: false
+  xy: 1524, 526
+  size: 403, 278
+  orig: 403, 278
+  offset: 0, 0
+  index: -1
+Pubic_BB
+  rotate: true
+  xy: 1950, 1507
+  size: 99, 95
+  orig: 99, 95
+  offset: 0, 0
+  index: -1
+Pussy_BB
+  rotate: true
+  xy: 1955, 1863
+  size: 129, 89
+  orig: 129, 89
+  offset: 0, 0
+  index: -1
+Testicle_BB
+  rotate: false
+  xy: 282, 777
+  size: 244, 290
+  orig: 244, 290
+  offset: 0, 0
+  index: -1
+Thighs_Hit
+  rotate: false
+  xy: 2, 3
+  size: 266, 217
+  orig: 266, 217
+  offset: 0, 0
+  index: -1
+Thighs_L_CC
+  rotate: true
+  xy: 802, 6
+  size: 466, 304
+  orig: 466, 304
+  offset: 0, 0
+  index: -1
+Thighs_R_CC
+  rotate: true
+  xy: 819, 475
+  size: 246, 364
+  orig: 246, 364
+  offset: 0, 0
+  index: -1
+arm_right_1
+  rotate: false
+  xy: 636, 8
+  size: 162, 212
+  orig: 162, 212
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 1407
+  size: 815, 639
+  orig: 815, 639
+  offset: 0, 0
+  index: -1
+hair_04_ssss
+  rotate: false
+  xy: 1922, 335
+  size: 122, 126
+  orig: 122, 126
+  offset: 0, 0
+  index: -1
+pussy_new
+  rotate: false
+  xy: 442, 474
+  size: 139, 166
+  orig: 139, 166
+  offset: 0, 0
+  index: -1
+testicle_new
+  rotate: false
+  xy: 634, 474
+  size: 183, 279
+  orig: 183, 279
+  offset: 0, 0
+  index: -1
+
+20th_Asagi_EV_022.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+---d-f--_love juice_new
+  rotate: true
+  xy: 1923, 1066
+  size: 169, 108
+  orig: 169, 108
+  offset: 0, 0
+  index: -1
+A_Arm_L
+  rotate: false
+  xy: 631, 70
+  size: 140, 186
+  orig: 140, 186
+  offset: 0, 0
+  index: -1
+A_Body_Sweat_01
+  rotate: false
+  xy: 627, 1621
+  size: 39, 52
+  orig: 39, 52
+  offset: 0, 0
+  index: -1
+A_Body_Sweat_02
+  rotate: true
+  xy: 1696, 1693
+  size: 55, 31
+  orig: 55, 31
+  offset: 0, 0
+  index: -1
+A_Body_Sweat_04
+  rotate: false
+  xy: 1361, 1202
+  size: 202, 140
+  orig: 202, 140
+  offset: 0, 0
+  index: -1
+A_Chest_L
+  rotate: false
+  xy: 1721, 1101
+  size: 200, 134
+  orig: 200, 134
+  offset: 0, 0
+  index: -1
+A_Chest_R
+  rotate: false
+  xy: 1188, 1197
+  size: 171, 158
+  orig: 171, 158
+  offset: 0, 0
+  index: -1
+A_Hair_02
+  rotate: true
+  xy: 1352, 984
+  size: 80, 103
+  orig: 80, 103
+  offset: 0, 0
+  index: -1
+A_Hair_04
+  rotate: true
+  xy: 517, 1610
+  size: 63, 108
+  orig: 63, 108
+  offset: 0, 0
+  index: -1
+A_Hand_L
+  rotate: true
+  xy: 1133, 664
+  size: 102, 107
+  orig: 102, 107
+  offset: 0, 0
+  index: -1
+A_Head_01
+  rotate: false
+  xy: 1565, 1185
+  size: 154, 157
+  orig: 154, 157
+  offset: 0, 0
+  index: -1
+A_Leg_L
+  rotate: false
+  xy: 894, 329
+  size: 107, 146
+  orig: 107, 146
+  offset: 0, 0
+  index: -1
+A_Leg_Rr
+  rotate: false
+  xy: 660, 545
+  size: 198, 195
+  orig: 198, 195
+  offset: 0, 0
+  index: -1
+A_Lovejuice_01_A
+  rotate: false
+  xy: 2, 1605
+  size: 513, 439
+  orig: 513, 439
+  offset: 0, 0
+  index: -1
+A_Lovejuice_01_B
+  rotate: false
+  xy: 1416, 942
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+A_Men_Pennis
+  rotate: false
+  xy: 794, 258
+  size: 98, 285
+  orig: 98, 285
+  offset: 0, 0
+  index: -1
+A_Pussy
+  rotate: true
+  xy: 1721, 1237
+  size: 267, 323
+  orig: 267, 323
+  offset: 0, 0
+  index: -1
+A_Thighs_L
+  rotate: false
+  xy: 910, 1741
+  size: 431, 303
+  orig: 431, 303
+  offset: 0, 0
+  index: -1
+A_Thighs_R
+  rotate: false
+  xy: 396, 815
+  size: 265, 361
+  orig: 265, 361
+  offset: 0, 0
+  index: -1
+B_Effect_01
+  rotate: true
+  xy: 1272, 789
+  size: 193, 142
+  orig: 193, 142
+  offset: 0, 0
+  index: -1
+B_Hair_03
+  rotate: true
+  xy: 191, 21
+  size: 51, 75
+  orig: 51, 75
+  offset: 0, 0
+  index: -1
+B_Hair_04
+  rotate: true
+  xy: 114, 14
+  size: 58, 75
+  orig: 58, 75
+  offset: 0, 0
+  index: -1
+B_Head
+  rotate: true
+  xy: 1050, 660
+  size: 108, 81
+  orig: 108, 81
+  offset: 0, 0
+  index: -1
+B_Saliva
+  rotate: false
+  xy: 894, 263
+  size: 79, 64
+  orig: 79, 64
+  offset: 0, 0
+  index: -1
+C_Eye
+  rotate: false
+  xy: 2, 11
+  size: 110, 61
+  orig: 110, 61
+  offset: 0, 0
+  index: -1
+Chest_R_CC
+  rotate: true
+  xy: 773, 84
+  size: 172, 158
+  orig: 172, 158
+  offset: 0, 0
+  index: -1
+Cut_Effect
+  rotate: false
+  xy: 1361, 1344
+  size: 358, 143
+  orig: 358, 143
+  offset: 0, 0
+  index: -1
+Cut_Genitalia
+  rotate: true
+  xy: 1696, 1506
+  size: 156, 339
+  orig: 156, 339
+  offset: 0, 0
+  index: -1
+Cut_Lline
+  rotate: false
+  xy: 517, 1675
+  size: 391, 369
+  orig: 391, 369
+  offset: 0, 0
+  index: -1
+Cut_Semen
+  rotate: true
+  xy: 338, 258
+  size: 230, 323
+  orig: 230, 323
+  offset: 0, 0
+  index: -1
+Cut_Uterus_01
+  rotate: true
+  xy: 663, 288
+  size: 255, 129
+  orig: 255, 129
+  offset: 0, 0
+  index: -1
+Cut_Uterus_02
+  rotate: false
+  xy: 2, 1186
+  size: 418, 417
+  orig: 418, 417
+  offset: 0, 0
+  index: -1
+Cut_Uterus_03
+  rotate: false
+  xy: 2, 455
+  size: 334, 372
+  orig: 334, 372
+  offset: 0, 0
+  index: -1
+D_Semen
+  rotate: false
+  xy: 324, 43
+  size: 305, 213
+  orig: 305, 213
+  offset: 0, 0
+  index: -1
+F_Effect
+  rotate: true
+  xy: 672, 1279
+  size: 394, 249
+  orig: 394, 249
+  offset: 0, 0
+  index: -1
+F_Semen
+  rotate: false
+  xy: 1361, 1489
+  size: 333, 259
+  orig: 333, 259
+  offset: 0, 0
+  index: -1
+G_Semen
+  rotate: false
+  xy: 2, 829
+  size: 392, 355
+  orig: 392, 355
+  offset: 0, 0
+  index: -1
+Man_Body_CC
+  rotate: true
+  xy: 1735, 1664
+  size: 380, 294
+  orig: 380, 294
+  offset: 0, 0
+  index: -1
+Man_Dick_CC
+  rotate: false
+  xy: 422, 1178
+  size: 248, 425
+  orig: 248, 425
+  offset: 0, 0
+  index: -1
+Man_Leg_L_CC
+  rotate: false
+  xy: 909, 968
+  size: 272, 262
+  orig: 272, 262
+  offset: 0, 0
+  index: -1
+Men_Arm_B
+  rotate: false
+  xy: 663, 742
+  size: 221, 251
+  orig: 221, 251
+  offset: 0, 0
+  index: -1
+Men_Hand_B_E
+  rotate: false
+  xy: 1142, 768
+  size: 128, 198
+  orig: 128, 198
+  offset: 0, 0
+  index: -1
+Men_Leg_L_AA
+  rotate: false
+  xy: 2, 74
+  size: 320, 379
+  orig: 320, 379
+  offset: 0, 0
+  index: -1
+Men_Leg_L_BB
+  rotate: false
+  xy: 338, 490
+  size: 320, 323
+  orig: 320, 323
+  offset: 0, 0
+  index: -1
+Men_Leg_R_AA
+  rotate: false
+  xy: 1190, 1357
+  size: 169, 382
+  orig: 169, 382
+  offset: 0, 0
+  index: -1
+Men_Testicle_AA
+  rotate: false
+  xy: 672, 995
+  size: 235, 282
+  orig: 235, 282
+  offset: 0, 0
+  index: -1
+Men_Thighs_R_AA
+  rotate: false
+  xy: 1343, 1750
+  size: 390, 294
+  orig: 390, 294
+  offset: 0, 0
+  index: -1
+Pussy_CC
+  rotate: false
+  xy: 923, 1389
+  size: 265, 350
+  orig: 265, 350
+  offset: 0, 0
+  index: -1
+Toy
+  rotate: false
+  xy: 886, 770
+  size: 254, 196
+  orig: 254, 196
+  offset: 0, 0
+  index: -1
+arm_right_2
+  rotate: true
+  xy: 923, 1232
+  size: 155, 263
+  orig: 155, 263
+  offset: 0, 0
+  index: -1
+love juice_01_a_new
+  rotate: true
+  xy: 886, 633
+  size: 135, 162
+  orig: 135, 162
+  offset: 0, 0
+  index: -1
+thighs_left_new
+  rotate: false
+  xy: 894, 477
+  size: 135, 154
+  orig: 135, 154
+  offset: 0, 0
+  index: -1
+uterus_new
+  rotate: false
+  xy: 1183, 984
+  size: 167, 211
+  orig: 167, 211
+  offset: 0, 0
+  index: -1
