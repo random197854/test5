@@ -1,0 +1,1199 @@
+
+Keito_EV_01.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL_flushing_line
+  rotate: false
+  xy: 1642, 408
+  size: 230, 125
+  orig: 230, 125
+  offset: 0, 0
+  index: -1
+ALL_hair_shadow_01
+  rotate: true
+  xy: 1064, 2
+  size: 152, 167
+  orig: 152, 167
+  offset: 0, 0
+  index: -1
+b,c,e,g_R_ leg_02
+  rotate: true
+  xy: 1601, 7
+  size: 147, 414
+  orig: 147, 414
+  offset: 0, 0
+  index: -1
+b,c,e,h_symbol
+  rotate: false
+  xy: 1874, 411
+  size: 89, 122
+  orig: 89, 122
+  offset: 0, 0
+  index: -1
+b,c_R_front arm
+  rotate: false
+  xy: 2, 535
+  size: 295, 112
+  orig: 295, 112
+  offset: 0, 0
+  index: -1
+b,c_left  breasts_01
+  rotate: true
+  xy: 1642, 157
+  size: 248, 330
+  orig: 248, 330
+  offset: 0, 0
+  index: -1
+b,e_face_R_eyelashes_01
+  rotate: true
+  xy: 855, 536
+  size: 57, 21
+  orig: 57, 21
+  offset: 0, 0
+  index: -1
+b,e_pierce
+  rotate: false
+  xy: 2, 649
+  size: 1643, 1397
+  orig: 1643, 1397
+  offset: 0, 0
+  index: -1
+b,g_face_R_eyebrow_01
+  rotate: false
+  xy: 2017, 479
+  size: 29, 54
+  orig: 29, 54
+  offset: 0, 0
+  index: -1
+b_R_men_leg
+  rotate: false
+  xy: 1647, 535
+  size: 398, 1164
+  orig: 398, 1164
+  offset: 0, 0
+  index: -1
+b_face_L_eyebrow_01
+  rotate: true
+  xy: 2017, 25
+  size: 104, 26
+  orig: 104, 26
+  offset: 0, 0
+  index: -1
+b_face_L_pupil
+  rotate: true
+  xy: 939, 537
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+c,e,h_face_L_double eyelied_01
+  rotate: false
+  xy: 989, 540
+  size: 73, 53
+  orig: 73, 53
+  offset: 0, 0
+  index: -1
+c_face_R_eyebrow_01
+  rotate: true
+  xy: 2026, 170
+  size: 53, 19
+  orig: 53, 19
+  offset: 0, 0
+  index: -1
+c_face_R_pupil
+  rotate: true
+  xy: 2017, 444
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+c_liquid_01
+  rotate: false
+  xy: 2026, 157
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+c_liquid_02
+  rotate: true
+  xy: 299, 536
+  size: 111, 63
+  orig: 111, 63
+  offset: 0, 0
+  index: -1
+c_men_genitalia
+  rotate: true
+  xy: 1233, 3
+  size: 151, 200
+  orig: 151, 200
+  offset: 0, 0
+  index: -1
+c_men_testicle
+  rotate: false
+  xy: 1647, 1701
+  size: 399, 345
+  orig: 399, 345
+  offset: 0, 0
+  index: -1
+c_neck
+  rotate: false
+  xy: 520, 540
+  size: 155, 107
+  orig: 155, 107
+  offset: 0, 0
+  index: -1
+c_neck_effct
+  rotate: false
+  xy: 878, 537
+  size: 59, 56
+  orig: 59, 56
+  offset: 0, 0
+  index: -1
+c_right breast_chain_01
+  rotate: true
+  xy: 1965, 408
+  size: 10, 31
+  orig: 10, 31
+  offset: 0, 0
+  index: -1
+c_right breast_chain_02
+  rotate: false
+  xy: 677, 543
+  size: 33, 104
+  orig: 33, 104
+  offset: 0, 0
+  index: -1
+e_face_L_eyebrow_01
+  rotate: true
+  xy: 712, 546
+  size: 101, 23
+  orig: 101, 23
+  offset: 0, 0
+  index: -1
+e_face_R_pupil
+  rotate: true
+  xy: 2017, 407
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+e_liquid_01
+  rotate: false
+  xy: 737, 548
+  size: 89, 99
+  orig: 89, 99
+  offset: 0, 0
+  index: -1
+e_liquid_02
+  rotate: true
+  xy: 1974, 156
+  size: 67, 50
+  orig: 67, 50
+  offset: 0, 0
+  index: -1
+e_liquid_04
+  rotate: false
+  xy: 1965, 420
+  size: 49, 59
+  orig: 49, 59
+  offset: 0, 0
+  index: -1
+e_tongue
+  rotate: false
+  xy: 1974, 225
+  size: 72, 64
+  orig: 72, 64
+  offset: 0, 0
+  index: -1
+g,h_pierce
+  rotate: false
+  xy: 2017, 131
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+g_face_L_eyelashes_02
+  rotate: true
+  xy: 1974, 291
+  size: 114, 72
+  orig: 114, 72
+  offset: 0, 0
+  index: -1
+g_liquid_05
+  rotate: true
+  xy: 828, 595
+  size: 52, 227
+  orig: 52, 227
+  offset: 0, 0
+  index: -1
+g_liquid_06
+  rotate: true
+  xy: 364, 538
+  size: 109, 154
+  orig: 109, 154
+  offset: 0, 0
+  index: -1
+g_man upper
+  rotate: false
+  xy: 1064, 156
+  size: 576, 491
+  orig: 576, 491
+  offset: 0, 0
+  index: -1
+g_waist
+  rotate: false
+  xy: 553, 11
+  size: 509, 522
+  orig: 509, 522
+  offset: 0, 0
+  index: -1
+h,g_face_L_pupil
+  rotate: false
+  xy: 1965, 481
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+h_face_R_eyebrow_01
+  rotate: false
+  xy: 828, 536
+  size: 25, 57
+  orig: 25, 57
+  offset: 0, 0
+  index: -1
+h_face_tears_02
+  rotate: false
+  xy: 2017, 7
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+h_men_body
+  rotate: true
+  xy: 2, 11
+  size: 522, 549
+  orig: 522, 549
+  offset: 0, 0
+  index: -1
+hair_accessories_left_01
+  rotate: false
+  xy: 1435, 3
+  size: 164, 151
+  orig: 164, 151
+  offset: 0, 0
+  index: -1
+
+Keito_EV_012.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL_hair_03_hair_accessories_right_01
+  rotate: true
+  xy: 1729, 306
+  size: 71, 137
+  orig: 71, 137
+  offset: 0, 0
+  index: -1
+ALL_hair_06
+  rotate: false
+  xy: 1232, 3
+  size: 495, 374
+  orig: 495, 374
+  offset: 0, 0
+  index: -1
+ALL_hair_07
+  rotate: false
+  xy: 753, 24
+  size: 473, 125
+  orig: 473, 125
+  offset: 0, 0
+  index: -1
+BG
+  rotate: true
+  xy: 1246, 379
+  size: 822, 699
+  orig: 822, 699
+  offset: 0, 0
+  index: -1
+b,c_mouth_01
+  rotate: false
+  xy: 636, 21
+  size: 113, 51
+  orig: 113, 51
+  offset: 0, 0
+  index: -1
+b,e,g_face_L_eyelashes_02
+  rotate: false
+  xy: 97, 3
+  size: 113, 69
+  orig: 113, 69
+  offset: 0, 0
+  index: -1
+b,e_face_R_double eyelied_01
+  rotate: true
+  xy: 2021, 1554
+  size: 56, 14
+  orig: 56, 14
+  offset: 0, 0
+  index: -1
+b,e_face_skin_02
+  rotate: true
+  xy: 2021, 1695
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+b,e_right breast
+  rotate: true
+  xy: 1729, 6
+  size: 298, 299
+  orig: 298, 299
+  offset: 0, 0
+  index: -1
+b_liquid_01
+  rotate: false
+  xy: 212, 6
+  size: 83, 66
+  orig: 83, 66
+  offset: 0, 0
+  index: -1
+b_liquid_02
+  rotate: true
+  xy: 2021, 1663
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+b_men_testicle
+  rotate: true
+  xy: 753, 151
+  size: 495, 477
+  orig: 495, 477
+  offset: 0, 0
+  index: -1
+c_L_men_leg
+  rotate: false
+  xy: 2, 648
+  size: 1242, 1397
+  orig: 1242, 1397
+  offset: 0, 0
+  index: -1
+c_face_R_double eyelied_01
+  rotate: true
+  xy: 2021, 1497
+  size: 55, 13
+  orig: 55, 13
+  offset: 0, 0
+  index: -1
+c_face_R_eyelashes_01
+  rotate: true
+  xy: 2021, 1772
+  size: 48, 22
+  orig: 48, 22
+  offset: 0, 0
+  index: -1
+c_liquid_03
+  rotate: false
+  xy: 1868, 325
+  size: 77, 52
+  orig: 77, 52
+  offset: 0, 0
+  index: -1
+c_men_liquid_01
+  rotate: true
+  xy: 1947, 1068
+  size: 133, 92
+  orig: 133, 92
+  offset: 0, 0
+  index: -1
+e_liquid_03
+  rotate: false
+  xy: 297, 7
+  size: 90, 65
+  orig: 90, 65
+  offset: 0, 0
+  index: -1
+e_men_body
+  rotate: true
+  xy: 1246, 1203
+  size: 842, 773
+  orig: 842, 773
+  offset: 0, 0
+  index: -1
+e_tongue3
+  rotate: false
+  xy: 568, 11
+  size: 66, 61
+  orig: 66, 61
+  offset: 0, 0
+  index: -1
+g,h_face_R_double eyelied_01
+  rotate: true
+  xy: 2021, 1612
+  size: 49, 17
+  orig: 49, 17
+  offset: 0, 0
+  index: -1
+g_L_men_arm
+  rotate: true
+  xy: 2, 74
+  size: 572, 749
+  orig: 572, 749
+  offset: 0, 0
+  index: -1
+g_face_R_eyelashes_01
+  rotate: true
+  xy: 2021, 1984
+  size: 61, 24
+  orig: 61, 24
+  offset: 0, 0
+  index: -1
+g_face_mouth
+  rotate: false
+  xy: 2, 2
+  size: 93, 70
+  orig: 93, 70
+  offset: 0, 0
+  index: -1
+g_liquid_01
+  rotate: false
+  xy: 1947, 740
+  size: 87, 98
+  orig: 87, 98
+  offset: 0, 0
+  index: -1
+g_liquid_03
+  rotate: false
+  xy: 389, 7
+  size: 90, 65
+  orig: 90, 65
+  offset: 0, 0
+  index: -1
+g_liquid_04
+  rotate: true
+  xy: 1947, 840
+  size: 131, 89
+  orig: 131, 89
+  offset: 0, 0
+  index: -1
+h_face_L_eyebrow_01
+  rotate: true
+  xy: 2021, 1822
+  size: 99, 23
+  orig: 99, 23
+  offset: 0, 0
+  index: -1
+h_face_R_eyelashes_01
+  rotate: true
+  xy: 2021, 1923
+  size: 59, 24
+  orig: 59, 24
+  offset: 0, 0
+  index: -1
+h_face_tears_01
+  rotate: true
+  xy: 2021, 1735
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+h_face_tongue
+  rotate: true
+  xy: 481, 9
+  size: 63, 85
+  orig: 63, 85
+  offset: 0, 0
+  index: -1
+h_liquid_02_2
+  rotate: false
+  xy: 1947, 478
+  size: 83, 128
+  orig: 83, 128
+  offset: 0, 0
+  index: -1
+h_liquid_03
+  rotate: false
+  xy: 1947, 608
+  size: 85, 130
+  orig: 85, 130
+  offset: 0, 0
+  index: -1
+hair_accessories_left_02
+  rotate: false
+  xy: 1947, 306
+  size: 81, 170
+  orig: 81, 170
+  offset: 0, 0
+  index: -1
+head abcdefghi_shadow
+  rotate: false
+  xy: 1947, 973
+  size: 92, 93
+  orig: 92, 93
+  offset: 0, 0
+  index: -1
+
+Keito_EV_013.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL_eye_L_01
+  rotate: false
+  xy: 1162, 10
+  size: 99, 75
+  orig: 99, 75
+  offset: 0, 0
+  index: -1
+ALL_eye_R_01
+  rotate: true
+  xy: 2, 8
+  size: 66, 51
+  orig: 66, 51
+  offset: 0, 0
+  index: -1
+ALL_hair_03_hair_accessories_right_02
+  rotate: true
+  xy: 926, 7
+  size: 77, 122
+  orig: 77, 122
+  offset: 0, 0
+  index: -1
+ALL_hair_08
+  rotate: true
+  xy: 1779, 613
+  size: 243, 266
+  orig: 243, 266
+  offset: 0, 0
+  index: -1
+ALL_hair_10
+  rotate: true
+  xy: 1776, 442
+  size: 169, 269
+  orig: 169, 269
+  offset: 0, 0
+  index: -1
+ALL_upper abcdefghi
+  rotate: false
+  xy: 2, 76
+  size: 688, 571
+  orig: 688, 571
+  offset: 0, 0
+  index: -1
+b,c,e,g_L_leg
+  rotate: true
+  xy: 956, 87
+  size: 560, 437
+  orig: 560, 437
+  offset: 0, 0
+  index: -1
+b,c_R_arm_02
+  rotate: true
+  xy: 1245, 1707
+  size: 128, 140
+  orig: 128, 140
+  offset: 0, 0
+  index: -1
+b,c_hand(cdmask)
+  rotate: true
+  xy: 1245, 1837
+  size: 209, 250
+  orig: 209, 250
+  offset: 0, 0
+  index: -1
+b,c_mouth_02
+  rotate: true
+  xy: 1245, 1525
+  size: 180, 136
+  orig: 180, 136
+  offset: 0, 0
+  index: -1
+b,c_tongue
+  rotate: true
+  xy: 1434, 1760
+  size: 37, 49
+  orig: 37, 49
+  offset: 0, 0
+  index: -1
+b,e_face_L_double eyelied_01
+  rotate: false
+  xy: 630, 23
+  size: 85, 51
+  orig: 85, 51
+  offset: 0, 0
+  index: -1
+b,e_face_L_eyelashes_01
+  rotate: false
+  xy: 439, 23
+  size: 94, 51
+  orig: 94, 51
+  offset: 0, 0
+  index: -1
+b,e_face_R_eyelashes_02
+  rotate: true
+  xy: 1503, 2
+  size: 87, 38
+  orig: 87, 38
+  offset: 0, 0
+  index: -1
+b,e_face_skin_01
+  rotate: true
+  xy: 1129, 9
+  size: 76, 31
+  orig: 76, 31
+  offset: 0, 0
+  index: -1
+b_L_men_leg
+  rotate: false
+  xy: 2, 649
+  size: 1241, 1397
+  orig: 1241, 1397
+  offset: 0, 0
+  index: -1
+b_face_R_pupil
+  rotate: false
+  xy: 2002, 328
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+c,g_face_L_eyelashes_01
+  rotate: false
+  xy: 263, 15
+  size: 89, 59
+  orig: 89, 59
+  offset: 0, 0
+  index: -1
+c,g_face_effect
+  rotate: true
+  xy: 1263, 11
+  size: 74, 120
+  orig: 74, 120
+  offset: 0, 0
+  index: -1
+c_face_L_eyebrow_01
+  rotate: false
+  xy: 1395, 1799
+  size: 98, 36
+  orig: 98, 36
+  offset: 0, 0
+  index: -1
+c_face_L_eyelashes_02
+  rotate: false
+  xy: 1385, 11
+  size: 116, 74
+  orig: 116, 74
+  offset: 0, 0
+  index: -1
+c_face_L_pupil
+  rotate: false
+  xy: 1434, 1726
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+c_face_R_eyelashes_02
+  rotate: true
+  xy: 2018, 1957
+  size: 89, 26
+  orig: 89, 26
+  offset: 0, 0
+  index: -1
+c_face_skin
+  rotate: true
+  xy: 145, 13
+  size: 61, 39
+  orig: 61, 39
+  offset: 0, 0
+  index: -1
+c_man right hand
+  rotate: true
+  xy: 1245, 651
+  size: 375, 319
+  orig: 375, 319
+  offset: 0, 0
+  index: -1
+c_men_body
+  rotate: false
+  xy: 1387, 1299
+  size: 659, 425
+  orig: 659, 425
+  offset: 0, 0
+  index: -1
+e,g,h_L_arm
+  rotate: true
+  xy: 692, 86
+  size: 561, 262
+  orig: 561, 262
+  offset: 0, 0
+  index: -1
+e,g,h_L_front arm
+  rotate: false
+  xy: 1579, 858
+  size: 467, 168
+  orig: 467, 168
+  offset: 0, 0
+  index: -1
+e,g,h_L_hand
+  rotate: true
+  xy: 1566, 657
+  size: 199, 211
+  orig: 199, 211
+  offset: 0, 0
+  index: -1
+e,g,h_R_arm
+  rotate: true
+  xy: 1395, 91
+  size: 558, 182
+  orig: 558, 182
+  offset: 0, 0
+  index: -1
+e,g,h_R_front arm
+  rotate: false
+  xy: 1579, 166
+  size: 195, 489
+  orig: 195, 489
+  offset: 0, 0
+  index: -1
+e_face_L_pupil
+  rotate: false
+  xy: 1952, 329
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+e_face_R_eyebrow_01
+  rotate: false
+  xy: 1387, 1748
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+e_left pierce
+  rotate: false
+  xy: 755, 3
+  size: 93, 81
+  orig: 93, 81
+  offset: 0, 0
+  index: -1
+e_men_calf
+  rotate: false
+  xy: 1363, 1028
+  size: 673, 269
+  orig: 673, 269
+  offset: 0, 0
+  index: -1
+e_tongue2
+  rotate: true
+  xy: 104, 9
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+g_face_L_eyebrow_01
+  rotate: true
+  xy: 1094, 2
+  size: 83, 33
+  orig: 83, 33
+  offset: 0, 0
+  index: -1
+g_face_R_eyelashes_02
+  rotate: true
+  xy: 1050, 2
+  size: 83, 42
+  orig: 83, 42
+  offset: 0, 0
+  index: -1
+g_liquid_02
+  rotate: true
+  xy: 55, 8
+  size: 66, 47
+  orig: 66, 47
+  offset: 0, 0
+  index: -1
+g_liquid_07
+  rotate: false
+  xy: 1796, 3
+  size: 39, 161
+  orig: 39, 161
+  offset: 0, 0
+  index: -1
+g_liquid_08
+  rotate: true
+  xy: 850, 5
+  size: 79, 74
+  orig: 79, 74
+  offset: 0, 0
+  index: -1
+h,g_face_R_pupil
+  rotate: false
+  xy: 1952, 287
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+h_L_men_arm
+  rotate: false
+  xy: 1503, 1726
+  size: 513, 320
+  orig: 513, 320
+  offset: 0, 0
+  index: -1
+h_face_L_eyelashes_01
+  rotate: false
+  xy: 535, 23
+  size: 93, 51
+  orig: 93, 51
+  offset: 0, 0
+  index: -1
+h_face_L_eyelashes_02
+  rotate: false
+  xy: 1245, 1242
+  size: 116, 74
+  orig: 116, 74
+  offset: 0, 0
+  index: -1
+h_face_R_eyelashes_02
+  rotate: true
+  xy: 717, 2
+  size: 82, 36
+  orig: 82, 36
+  offset: 0, 0
+  index: -1
+h_face_mouth
+  rotate: false
+  xy: 1952, 367
+  size: 91, 73
+  orig: 91, 73
+  offset: 0, 0
+  index: -1
+h_face_skin_01
+  rotate: false
+  xy: 354, 22
+  size: 83, 52
+  orig: 83, 52
+  offset: 0, 0
+  index: -1
+h_face_skin_02
+  rotate: true
+  xy: 1543, 45
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+h_liquid_02
+  rotate: false
+  xy: 1776, 166
+  size: 174, 274
+  orig: 174, 274
+  offset: 0, 0
+  index: -1
+h_liquid_04
+  rotate: false
+  xy: 186, 14
+  size: 75, 60
+  orig: 75, 60
+  offset: 0, 0
+  index: -1
+h_liquid_05
+  rotate: true
+  xy: 1245, 1318
+  size: 205, 123
+  orig: 205, 123
+  offset: 0, 0
+  index: -1
+h_liquid_06
+  rotate: true
+  xy: 2000, 289
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+left breasts a-c------02
+  rotate: false
+  xy: 1579, 2
+  size: 215, 162
+  orig: 215, 162
+  offset: 0, 0
+  index: -1
+
+Keito_EV_014.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL_flushing
+  rotate: true
+  xy: 1642, 345
+  size: 346, 232
+  orig: 346, 232
+  offset: 0, 0
+  index: -1
+ALL_hair_01
+  rotate: true
+  xy: 1233, 985
+  size: 170, 246
+  orig: 170, 246
+  offset: 0, 0
+  index: -1
+ALL_hair_02
+  rotate: true
+  xy: 399, 10
+  size: 185, 195
+  orig: 185, 195
+  offset: 0, 0
+  index: -1
+ALL_hair_04
+  rotate: true
+  xy: 1876, 425
+  size: 266, 170
+  orig: 266, 170
+  offset: 0, 0
+  index: -1
+ALL_hair_09
+  rotate: true
+  xy: 1068, 1157
+  size: 215, 287
+  orig: 215, 287
+  offset: 0, 0
+  index: -1
+ALL_hair_11
+  rotate: false
+  xy: 1489, 9
+  size: 428, 333
+  orig: 428, 333
+  offset: 0, 0
+  index: -1
+ALL_hair_shadow_02
+  rotate: true
+  xy: 223, 7
+  size: 188, 174
+  orig: 188, 174
+  offset: 0, 0
+  index: -1
+ALL_head
+  rotate: false
+  xy: 1489, 1374
+  size: 551, 434
+  orig: 551, 434
+  offset: 0, 0
+  index: -1
+ALL_weast
+  rotate: true
+  xy: 1068, 1698
+  size: 348, 409
+  orig: 348, 409
+  offset: 0, 0
+  index: -1
+b,c,e,g_R_ leg_01
+  rotate: true
+  xy: 596, 14
+  size: 181, 428
+  orig: 181, 428
+  offset: 0, 0
+  index: -1
+b,c_R_arm_01
+  rotate: true
+  xy: 1233, 805
+  size: 178, 195
+  orig: 178, 195
+  offset: 0, 0
+  index: -1
+b,c_arm
+  rotate: false
+  xy: 1489, 1810
+  size: 554, 236
+  orig: 554, 236
+  offset: 0, 0
+  index: -1
+b,c_left  breasts_02
+  rotate: false
+  xy: 2, 3
+  size: 219, 192
+  orig: 219, 192
+  offset: 0, 0
+  index: -1
+b_men_genitalia
+  rotate: false
+  xy: 1476, 344
+  size: 164, 347
+  orig: 164, 347
+  offset: 0, 0
+  index: -1
+c_R_men_leg
+  rotate: false
+  xy: 2, 1100
+  size: 384, 946
+  orig: 384, 946
+  offset: 0, 0
+  index: -1
+e,g,h_breasts
+  rotate: true
+  xy: 1068, 1378
+  size: 318, 312
+  orig: 318, 312
+  offset: 0, 0
+  index: -1
+e_men_leg
+  rotate: false
+  xy: 1489, 1137
+  size: 503, 235
+  orig: 503, 235
+  offset: 0, 0
+  index: -1
+e_men_thighs
+  rotate: true
+  xy: 2, 197
+  size: 901, 896
+  orig: 901, 896
+  offset: 0, 0
+  index: -1
+g,h_L_leg_02
+  rotate: false
+  xy: 900, 330
+  size: 331, 818
+  orig: 331, 818
+  offset: 0, 0
+  index: -1
+g,h_R_leg_02
+  rotate: true
+  xy: 1233, 336
+  size: 355, 241
+  orig: 355, 241
+  offset: 0, 0
+  index: -1
+g_R_men_arm
+  rotate: true
+  xy: 1026, 4
+  size: 324, 461
+  orig: 324, 461
+  offset: 0, 0
+  index: -1
+h_R_men_arm
+  rotate: false
+  xy: 1489, 693
+  size: 502, 442
+  orig: 502, 442
+  offset: 0, 0
+  index: -1
+h_leg
+  rotate: false
+  xy: 388, 1150
+  size: 678, 896
+  orig: 678, 896
+  offset: 0, 0
+  index: -1
+
+Keito_EV_015.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL_hair_03
+  rotate: false
+  xy: 2, 1449
+  size: 475, 468
+  orig: 475, 468
+  offset: 0, 0
+  index: -1
+ALL_hair_05
+  rotate: false
+  xy: 1189, 1151
+  size: 273, 392
+  orig: 273, 392
+  offset: 0, 0
+  index: -1
+b,c_front arm
+  rotate: true
+  xy: 618, 878
+  size: 233, 342
+  orig: 233, 342
+  offset: 0, 0
+  index: -1
+b,e_pierce shadow
+  rotate: true
+  xy: 1748, 1211
+  size: 420, 169
+  orig: 420, 169
+  offset: 0, 0
+  index: -1
+b_men_body
+  rotate: true
+  xy: 2, 13
+  size: 440, 374
+  orig: 440, 374
+  offset: 0, 0
+  index: -1
+c_men_hip
+  rotate: false
+  xy: 2, 455
+  size: 372, 490
+  orig: 372, 490
+  offset: 0, 0
+  index: -1
+c_pierce
+  rotate: false
+  xy: 1432, 1633
+  size: 460, 284
+  orig: 460, 284
+  offset: 0, 0
+  index: -1
+c_right breast
+  rotate: false
+  xy: 1464, 1237
+  size: 282, 394
+  orig: 282, 394
+  offset: 0, 0
+  index: -1
+g,h_L_leg_01
+  rotate: true
+  xy: 976, 1545
+  size: 372, 454
+  orig: 372, 454
+  offset: 0, 0
+  index: -1
+g,h_R_leg_01
+  rotate: true
+  xy: 2, 947
+  size: 500, 378
+  orig: 500, 378
+  offset: 0, 0
+  index: -1
+g,h_chain
+  rotate: true
+  xy: 382, 989
+  size: 458, 234
+  orig: 458, 234
+  offset: 0, 0
+  index: -1
+g_men_leg_shadow
+  rotate: false
+  xy: 882, 1165
+  size: 305, 378
+  orig: 305, 378
+  offset: 0, 0
+  index: -1
+h_leg_shadow
+  rotate: false
+  xy: 479, 1545
+  size: 495, 372
+  orig: 495, 372
+  offset: 0, 0
+  index: -1
+h_liquid_01
+  rotate: true
+  xy: 962, 870
+  size: 293, 179
+  orig: 293, 179
+  offset: 0, 0
+  index: -1
+h_men_leg_shadow
+  rotate: false
+  xy: 618, 1113
+  size: 262, 430
+  orig: 262, 430
+  offset: 0, 0
+  index: -1

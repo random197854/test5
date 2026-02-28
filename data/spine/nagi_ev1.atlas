@@ -1,0 +1,1507 @@
+
+Nagi_EV1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EVCG_01_L_eye_03
+  rotate: false
+  xy: 687, 11
+  size: 61, 43
+  orig: 61, 43
+  offset: 0, 0
+  index: -1
+EVCG_01_L_leg_02
+  rotate: false
+  xy: 1507, 1157
+  size: 495, 391
+  orig: 495, 391
+  offset: 0, 0
+  index: -1
+EVCG_01_L_pupil
+  rotate: true
+  xy: 2013, 1566
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+EVCG_01_R_arm_01
+  rotate: true
+  xy: 697, 365
+  size: 357, 291
+  orig: 357, 291
+  offset: 0, 0
+  index: -1
+EVCG_01_R_eye_03
+  rotate: false
+  xy: 2013, 1705
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+EVCG_01_R_pupil
+  rotate: false
+  xy: 2024, 19
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+EVCG_01_hair_01
+  rotate: true
+  xy: 1335, 2
+  size: 86, 99
+  orig: 86, 99
+  offset: 0, 0
+  index: -1
+EVCG_01_hair_03
+  rotate: false
+  xy: 1492, 3
+  size: 242, 164
+  orig: 242, 164
+  offset: 0, 0
+  index: -1
+EVCG_01_hair_04
+  rotate: true
+  xy: 537, 5
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: -1
+EVCG_01_nose
+  rotate: false
+  xy: 2004, 1253
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+EVCG_01_rope_03
+  rotate: true
+  xy: 131, 4
+  size: 50, 133
+  orig: 50, 133
+  offset: 0, 0
+  index: -1
+EVCG_02_Egg Vibrator_05
+  rotate: false
+  xy: 266, 4
+  size: 106, 50
+  orig: 106, 50
+  offset: 0, 0
+  index: -1
+EVCG_02_Egg Vibrator_06
+  rotate: true
+  xy: 1507, 1550
+  size: 265, 504
+  orig: 265, 504
+  offset: 0, 0
+  index: -1
+EVCG_02_FACE 2_L_eye_01
+  rotate: true
+  xy: 2031, 2021
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1
+EVCG_02_FACE 2_L_eyebrow
+  rotate: true
+  xy: 2013, 1731
+  size: 84, 33
+  orig: 84, 33
+  offset: 0, 0
+  index: -1
+EVCG_02_FACE 2_R_eye_01
+  rotate: false
+  xy: 2004, 1284
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+EVCG_02_FACE 2_R_eye_02
+  rotate: true
+  xy: 630, 7
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+EVCG_02_FACE 2_R_eyebrow
+  rotate: true
+  xy: 1914, 2
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+EVCG_02_FACE 2_mouth
+  rotate: true
+  xy: 2013, 1597
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+EVCG_02_L_hip_sweat
+  rotate: false
+  xy: 697, 56
+  size: 398, 307
+  orig: 398, 307
+  offset: 0, 0
+  index: -1
+EVCG_02_body_sweat
+  rotate: true
+  xy: 697, 724
+  size: 67, 93
+  orig: 67, 93
+  offset: 0, 0
+  index: -1
+EVCG_02_head_sweat
+  rotate: false
+  xy: 1335, 564
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+EVCG_03_Egg Vibrator_04
+  rotate: false
+  xy: 1194, 4
+  size: 139, 718
+  orig: 139, 718
+  offset: 0, 0
+  index: -1
+EVCG_03_Egg Vibrator_05
+  rotate: true
+  xy: 1493, 169
+  size: 194, 553
+  orig: 194, 553
+  offset: 0, 0
+  index: -1
+EVCG_03_L_eye_03
+  rotate: true
+  xy: 1941, 3
+  size: 36, 57
+  orig: 36, 57
+  offset: 0, 0
+  index: -1
+EVCG_03_L_hand_02
+  rotate: true
+  xy: 697, 793
+  size: 108, 100
+  orig: 108, 100
+  offset: 0, 0
+  index: -1
+EVCG_03_L_pupil
+  rotate: false
+  xy: 1160, 47
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+EVCG_03_R_arm _02
+  rotate: false
+  xy: 2, 1159
+  size: 307, 248
+  orig: 307, 248
+  offset: 0, 0
+  index: -1
+EVCG_03_R_hand_02
+  rotate: true
+  xy: 1914, 41
+  size: 126, 131
+  orig: 126, 131
+  offset: 0, 0
+  index: -1
+EVCG_03_R_leg _01
+  rotate: true
+  xy: 990, 365
+  size: 357, 202
+  orig: 357, 202
+  offset: 0, 0
+  index: -1
+EVCG_03_back_hair_02
+  rotate: false
+  xy: 1736, 4
+  size: 176, 163
+  orig: 176, 163
+  offset: 0, 0
+  index: -1
+EVCG_03_breast_01
+  rotate: false
+  xy: 489, 1161
+  size: 309, 246
+  orig: 309, 246
+  offset: 0, 0
+  index: -1
+EVCG_03_hair_04
+  rotate: false
+  xy: 750, 19
+  size: 73, 35
+  orig: 73, 35
+  offset: 0, 0
+  index: -1
+EVCG_03_hair_05
+  rotate: true
+  xy: 311, 1160
+  size: 247, 176
+  orig: 247, 176
+  offset: 0, 0
+  index: -1
+EVCG_03_hair_07
+  rotate: true
+  xy: 1097, 2
+  size: 69, 61
+  orig: 69, 61
+  offset: 0, 0
+  index: -1
+EVCG_03_nose
+  rotate: true
+  xy: 2004, 1307
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+EVCG_03_rope_05
+  rotate: false
+  xy: 1097, 73
+  size: 95, 290
+  orig: 95, 290
+  offset: 0, 0
+  index: -1
+EVCG_03_shadow
+  rotate: false
+  xy: 2, 1409
+  size: 1503, 637
+  orig: 1503, 637
+  offset: 0, 0
+  index: -1
+EVCG_04_FACE 4_mouth
+  rotate: true
+  xy: 2004, 1191
+  size: 60, 37
+  orig: 60, 37
+  offset: 0, 0
+  index: -1
+EVCG_04_L_pupil
+  rotate: true
+  xy: 2013, 1535
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+EVCG_04_male_hand_03
+  rotate: true
+  xy: 697, 1032
+  size: 127, 100
+  orig: 127, 100
+  offset: 0, 0
+  index: -1
+EVCG_04_saliva
+  rotate: false
+  xy: 666, 7
+  size: 19, 47
+  orig: 19, 47
+  offset: 0, 0
+  index: -1
+EVCG_04_tear
+  rotate: false
+  xy: 2000, 3
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+EVCG_05_L_eye_01
+  rotate: true
+  xy: 825, 25
+  size: 29, 77
+  orig: 29, 77
+  offset: 0, 0
+  index: -1
+EVCG_05_L_eye_02
+  rotate: true
+  xy: 825, 7
+  size: 16, 57
+  orig: 16, 57
+  offset: 0, 0
+  index: -1
+EVCG_05_L_eyebrow
+  rotate: true
+  xy: 904, 26
+  size: 28, 78
+  orig: 28, 78
+  offset: 0, 0
+  index: -1
+EVCG_05_male_hand_03
+  rotate: true
+  xy: 697, 903
+  size: 127, 100
+  orig: 127, 100
+  offset: 0, 0
+  index: -1
+EVCG_05_mouth_02
+  rotate: true
+  xy: 2013, 1639
+  size: 64, 31
+  orig: 64, 31
+  offset: 0, 0
+  index: -1
+EVCG_05_saliva_01
+  rotate: true
+  xy: 425, 4
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+EVCG_05_saliva_02
+  rotate: true
+  xy: 2004, 1352
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+EVCG_05_sweat
+  rotate: true
+  xy: 2, 56
+  size: 1096, 693
+  orig: 1096, 693
+  offset: 0, 0
+  index: -1
+EVCG_05_tear
+  rotate: false
+  xy: 2004, 1463
+  size: 42, 70
+  orig: 42, 70
+  offset: 0, 0
+  index: -1
+EVCG_05_tongue
+  rotate: false
+  xy: 374, 4
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+EVCG_06_L_leg _02_02
+  rotate: true
+  xy: 800, 724
+  size: 683, 693
+  orig: 683, 693
+  offset: 0, 0
+  index: -1
+EVCG_06_R_arm_sweat
+  rotate: false
+  xy: 1507, 1817
+  size: 522, 229
+  orig: 522, 229
+  offset: 0, 0
+  index: -1
+EVCG_06_body_sweat
+  rotate: true
+  xy: 1335, 433
+  size: 129, 157
+  orig: 129, 157
+  offset: 0, 0
+  index: -1
+EVCG_06_cum_2
+  rotate: true
+  xy: 1335, 90
+  size: 199, 155
+  orig: 199, 155
+  offset: 0, 0
+  index: -1
+EVCG_06_mouth_02
+  rotate: false
+  xy: 470, 5
+  size: 65, 49
+  orig: 65, 49
+  offset: 0, 0
+  index: -1
+EVCG_06_saliva_01
+  rotate: true
+  xy: 84, 3
+  size: 51, 45
+  orig: 51, 45
+  offset: 0, 0
+  index: -1
+EVCG_06_saliva_02
+  rotate: false
+  xy: 2004, 1154
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+EVCG_06_tear
+  rotate: false
+  xy: 2004, 1392
+  size: 42, 69
+  orig: 42, 69
+  offset: 0, 0
+  index: -1
+EVCG_06_tongue
+  rotate: true
+  xy: 593, 7
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+EVCG_07_FACE 7_mouth
+  rotate: true
+  xy: 33, 3
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+EVCG_07_FACE 7_tongue
+  rotate: true
+  xy: 2, 2
+  size: 52, 29
+  orig: 52, 29
+  offset: 0, 0
+  index: -1
+EVCG_07_Hip_cum
+  rotate: false
+  xy: 1495, 365
+  size: 551, 787
+  orig: 551, 787
+  offset: 0, 0
+  index: -1
+EVCG_07_arm_cum_02
+  rotate: false
+  xy: 1335, 291
+  size: 156, 140
+  orig: 156, 140
+  offset: 0, 0
+  index: -1
+EVCG_07_head_cum_01
+  rotate: false
+  xy: 1436, 4
+  size: 54, 84
+  orig: 54, 84
+  offset: 0, 0
+  index: -1
+
+Nagi_EV12.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EVCG_01_L_leg_01
+  rotate: false
+  xy: 2, 2
+  size: 358, 270
+  orig: 358, 270
+  offset: 0, 0
+  index: -1
+EVCG_01_back_hair_02
+  rotate: false
+  xy: 1212, 1007
+  size: 211, 245
+  orig: 211, 245
+  offset: 0, 0
+  index: -1
+EVCG_01_head
+  rotate: false
+  xy: 673, 28
+  size: 288, 244
+  orig: 288, 244
+  offset: 0, 0
+  index: -1
+EVCG_01_shadow
+  rotate: false
+  xy: 2, 1254
+  size: 1421, 792
+  orig: 1421, 792
+  offset: 0, 0
+  index: -1
+EVCG_02_FACE 2_L_eye_02
+  rotate: true
+  xy: 1365, 510
+  size: 80, 57
+  orig: 80, 57
+  offset: 0, 0
+  index: -1
+EVCG_02_anal_biz_02
+  rotate: false
+  xy: 1212, 779
+  size: 211, 226
+  orig: 211, 226
+  offset: 0, 0
+  index: -1
+EVCG_02_back_sweat
+  rotate: true
+  xy: 1963, 276
+  size: 99, 82
+  orig: 99, 82
+  offset: 0, 0
+  index: -1
+EVCG_03_L_arm_02
+  rotate: true
+  xy: 1212, 483
+  size: 294, 151
+  orig: 294, 151
+  offset: 0, 0
+  index: -1
+EVCG_03_R_hand_03
+  rotate: true
+  xy: 1963, 16
+  size: 65, 81
+  orig: 65, 81
+  offset: 0, 0
+  index: -1
+EVCG_03_hair_01
+  rotate: true
+  xy: 963, 6
+  size: 266, 116
+  orig: 266, 116
+  offset: 0, 0
+  index: -1
+EVCG_04_effect_breast
+  rotate: true
+  xy: 1081, 42
+  size: 230, 128
+  orig: 230, 128
+  offset: 0, 0
+  index: -1
+EVCG_04_male_body
+  rotate: false
+  xy: 1425, 474
+  size: 610, 931
+  orig: 610, 931
+  offset: 0, 0
+  index: -1
+EVCG_05_cum
+  rotate: true
+  xy: 1212, 2
+  size: 470, 484
+  orig: 470, 484
+  offset: 0, 0
+  index: -1
+EVCG_05_mouth_01
+  rotate: true
+  xy: 1365, 592
+  size: 90, 57
+  orig: 90, 57
+  offset: 0, 0
+  index: -1
+EVCG_06_breast_02
+  rotate: false
+  xy: 362, 26
+  size: 309, 246
+  orig: 309, 246
+  offset: 0, 0
+  index: -1
+EVCG_06_cum
+  rotate: true
+  xy: 1425, 1407
+  size: 639, 615
+  orig: 639, 615
+  offset: 0, 0
+  index: -1
+EVCG_06_face_cum
+  rotate: false
+  xy: 1365, 684
+  size: 57, 93
+  orig: 57, 93
+  offset: 0, 0
+  index: -1
+EVCG_06_male_hand_01
+  rotate: true
+  xy: 1963, 83
+  size: 191, 81
+  orig: 191, 81
+  offset: 0, 0
+  index: -1
+EVCG_06_mouth_01
+  rotate: true
+  xy: 1963, 377
+  size: 95, 83
+  orig: 95, 83
+  offset: 0, 0
+  index: -1
+EVCG_06_sweat
+  rotate: false
+  xy: 2, 274
+  size: 1208, 978
+  orig: 1208, 978
+  offset: 0, 0
+  index: -1
+EVCG_0penis_cum
+  rotate: true
+  xy: 1698, 18
+  size: 454, 263
+  orig: 454, 263
+  offset: 0, 0
+  index: -1
+
+Nagi_EV13.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EVCG_01_L_hand_01
+  rotate: true
+  xy: 1868, 477
+  size: 147, 175
+  orig: 147, 175
+  offset: 0, 0
+  index: -1
+EVCG_01_R_hand_01
+  rotate: false
+  xy: 1868, 1067
+  size: 54, 87
+  orig: 54, 87
+  offset: 0, 0
+  index: -1
+EVCG_01_body
+  rotate: false
+  xy: 1303, 5
+  size: 620, 400
+  orig: 620, 400
+  offset: 0, 0
+  index: -1
+EVCG_01_head_shadow
+  rotate: true
+  xy: 1868, 1230
+  size: 154, 55
+  orig: 154, 55
+  offset: 0, 0
+  index: -1
+EVCG_02_Egg Vibrator_01
+  rotate: false
+  xy: 1868, 408
+  size: 135, 67
+  orig: 135, 67
+  offset: 0, 0
+  index: -1
+EVCG_02_Egg Vibrator_02
+  rotate: true
+  xy: 1448, 1101
+  size: 283, 418
+  orig: 283, 418
+  offset: 0, 0
+  index: -1
+EVCG_02_effect_ass
+  rotate: true
+  xy: 1868, 626
+  size: 377, 175
+  orig: 377, 175
+  offset: 0, 0
+  index: -1
+EVCG_02_sweat
+  rotate: false
+  xy: 2, 1386
+  size: 1006, 660
+  orig: 1006, 660
+  offset: 0, 0
+  index: -1
+EVCG_03_R_arm_01
+  rotate: true
+  xy: 1012, 2
+  size: 403, 289
+  orig: 403, 289
+  offset: 0, 0
+  index: -1
+EVCG_03_R_hand_01
+  rotate: true
+  xy: 1925, 45
+  size: 199, 116
+  orig: 199, 116
+  offset: 0, 0
+  index: -1
+EVCG_03_hair_02
+  rotate: true
+  xy: 1925, 1050
+  size: 196, 118
+  orig: 196, 118
+  offset: 0, 0
+  index: -1
+EVCG_03_rope_06
+  rotate: false
+  xy: 1868, 1005
+  size: 54, 60
+  orig: 54, 60
+  offset: 0, 0
+  index: -1
+EVCG_04_male_hand_01
+  rotate: true
+  xy: 1925, 246
+  size: 160, 118
+  orig: 160, 118
+  offset: 0, 0
+  index: -1
+EVCG_04_sweat
+  rotate: false
+  xy: 1010, 1386
+  size: 1006, 660
+  orig: 1006, 660
+  offset: 0, 0
+  index: -1
+EVCG_05_pussy_02
+  rotate: true
+  xy: 1925, 1248
+  size: 136, 121
+  orig: 136, 121
+  offset: 0, 0
+  index: -1
+EVCG_06_R_leg _02_02
+  rotate: false
+  xy: 2, 2
+  size: 450, 374
+  orig: 450, 374
+  offset: 0, 0
+  index: -1
+EVCG_06_leg_cum
+  rotate: false
+  xy: 1448, 407
+  size: 418, 641
+  orig: 418, 641
+  offset: 0, 0
+  index: -1
+EVCG_06_male_arm_01
+  rotate: false
+  xy: 454, 8
+  size: 556, 368
+  orig: 556, 368
+  offset: 0, 0
+  index: -1
+EVCG_07_arm_cum_01
+  rotate: true
+  xy: 1868, 1156
+  size: 72, 55
+  orig: 72, 55
+  offset: 0, 0
+  index: -1
+EVCG_07_sweat
+  rotate: true
+  xy: 2, 378
+  size: 1006, 660
+  orig: 1006, 660
+  offset: 0, 0
+  index: -1
+background
+  rotate: true
+  xy: 664, 407
+  size: 977, 782
+  orig: 977, 782
+  offset: 0, 0
+  index: -1
+
+Nagi_EV14.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EVCG_01_L_arm_01
+  rotate: false
+  xy: 1728, 1865
+  size: 312, 181
+  orig: 312, 181
+  offset: 0, 0
+  index: -1
+EVCG_01_R_leg_01
+  rotate: true
+  xy: 1692, 1286
+  size: 284, 352
+  orig: 284, 352
+  offset: 0, 0
+  index: -1
+EVCG_01_hairband_01
+  rotate: false
+  xy: 1390, 427
+  size: 133, 111
+  orig: 133, 111
+  offset: 0, 0
+  index: -1
+EVCG_01_rope_02
+  rotate: false
+  xy: 654, 779
+  size: 245, 172
+  orig: 245, 172
+  offset: 0, 0
+  index: -1
+EVCG_02_Egg Vibrator_04
+  rotate: true
+  xy: 2, 634
+  size: 170, 603
+  orig: 170, 603
+  offset: 0, 0
+  index: -1
+EVCG_02_L_arm_sweat
+  rotate: false
+  xy: 2, 8
+  size: 553, 494
+  orig: 553, 494
+  offset: 0, 0
+  index: -1
+EVCG_02_R_arm_sweat
+  rotate: true
+  xy: 676, 1346
+  size: 405, 233
+  orig: 405, 233
+  offset: 0, 0
+  index: -1
+EVCG_02_R_hip_sweat
+  rotate: false
+  xy: 1692, 1068
+  size: 335, 216
+  orig: 335, 216
+  offset: 0, 0
+  index: -1
+EVCG_02_breast_02
+  rotate: false
+  xy: 1728, 1572
+  size: 310, 291
+  orig: 310, 291
+  offset: 0, 0
+  index: -1
+EVCG_02_effect_breast
+  rotate: true
+  xy: 1149, 385
+  size: 153, 98
+  orig: 153, 98
+  offset: 0, 0
+  index: -1
+EVCG_02_effect_head
+  rotate: true
+  xy: 1526, 384
+  size: 367, 155
+  orig: 367, 155
+  offset: 0, 0
+  index: -1
+EVCG_02_pussy_01
+  rotate: false
+  xy: 1527, 1205
+  size: 163, 111
+  orig: 163, 111
+  offset: 0, 0
+  index: -1
+EVCG_07_pussy_03
+  rotate: false
+  xy: 1527, 1205
+  size: 163, 111
+  orig: 163, 111
+  offset: 0, 0
+  index: -1
+EVCG_02_syringe_01
+  rotate: true
+  xy: 1249, 386
+  size: 152, 139
+  orig: 152, 139
+  offset: 0, 0
+  index: -1
+EVCG_03_body
+  rotate: false
+  xy: 2, 806
+  size: 650, 463
+  orig: 650, 463
+  offset: 0, 0
+  index: -1
+EVCG_03_effect
+  rotate: false
+  xy: 911, 1811
+  size: 815, 235
+  orig: 815, 235
+  offset: 0, 0
+  index: -1
+EVCG_03_hair_03
+  rotate: true
+  xy: 1527, 753
+  size: 265, 160
+  orig: 265, 160
+  offset: 0, 0
+  index: -1
+EVCG_03_hair_08
+  rotate: true
+  xy: 1527, 1020
+  size: 183, 161
+  orig: 183, 161
+  offset: 0, 0
+  index: -1
+EVCG_03_head
+  rotate: true
+  xy: 607, 504
+  size: 273, 296
+  orig: 273, 296
+  offset: 0, 0
+  index: -1
+EVCG_03_rope_04
+  rotate: false
+  xy: 1689, 682
+  size: 335, 179
+  orig: 335, 179
+  offset: 0, 0
+  index: -1
+EVCG_04_effect_ass
+  rotate: false
+  xy: 1593, 3
+  size: 442, 379
+  orig: 442, 379
+  offset: 0, 0
+  index: -1
+EVCG_04_effect_head
+  rotate: false
+  xy: 1683, 496
+  size: 363, 184
+  orig: 363, 184
+  offset: 0, 0
+  index: -1
+EVCG_04_lovejuice_01
+  rotate: false
+  xy: 2, 1753
+  size: 907, 293
+  orig: 907, 293
+  offset: 0, 0
+  index: -1
+EVCG_04_male_arm_01
+  rotate: true
+  xy: 557, 17
+  size: 485, 294
+  orig: 485, 294
+  offset: 0, 0
+  index: -1
+EVCG_04_male_leg
+  rotate: true
+  xy: 911, 1318
+  size: 491, 779
+  orig: 491, 779
+  offset: 0, 0
+  index: -1
+EVCG_04_penis_01
+  rotate: false
+  xy: 1133, 540
+  size: 391, 234
+  orig: 391, 234
+  offset: 0, 0
+  index: -1
+EVCG_05_penis_01
+  rotate: false
+  xy: 1133, 540
+  size: 391, 234
+  orig: 391, 234
+  offset: 0, 0
+  index: -1
+EVCG_04_pussy_01
+  rotate: true
+  xy: 440, 504
+  size: 128, 139
+  orig: 128, 139
+  offset: 0, 0
+  index: -1
+EVCG_05_blush
+  rotate: true
+  xy: 1903, 414
+  size: 80, 136
+  orig: 80, 136
+  offset: 0, 0
+  index: -1
+EVCG_05_male_arm_01
+  rotate: true
+  xy: 853, 17
+  size: 485, 294
+  orig: 485, 294
+  offset: 0, 0
+  index: -1
+EVCG_06_L_arm_sweat
+  rotate: false
+  xy: 2, 1271
+  size: 672, 480
+  orig: 672, 480
+  offset: 0, 0
+  index: -1
+EVCG_06_R_leg _01_02
+  rotate: false
+  xy: 1690, 863
+  size: 356, 203
+  orig: 356, 203
+  offset: 0, 0
+  index: -1
+EVCG_06_back_sweat
+  rotate: true
+  xy: 233, 504
+  size: 128, 205
+  orig: 128, 205
+  offset: 0, 0
+  index: -1
+EVCG_06_cum_1
+  rotate: true
+  xy: 910, 776
+  size: 540, 615
+  orig: 540, 615
+  offset: 0, 0
+  index: -1
+EVCG_06_effect_ass
+  rotate: false
+  xy: 1149, 2
+  size: 442, 380
+  orig: 442, 380
+  offset: 0, 0
+  index: -1
+EVCG_06_effect_breast
+  rotate: false
+  xy: 2, 504
+  size: 229, 128
+  orig: 229, 128
+  offset: 0, 0
+  index: -1
+EVCG_06_head_sweat
+  rotate: false
+  xy: 1683, 385
+  size: 140, 109
+  orig: 140, 109
+  offset: 0, 0
+  index: -1
+EVCG_07_Waist_cum
+  rotate: false
+  xy: 1825, 388
+  size: 76, 106
+  orig: 76, 106
+  offset: 0, 0
+  index: -1
+EVCG_07_head_cum
+  rotate: false
+  xy: 905, 506
+  size: 112, 245
+  orig: 112, 245
+  offset: 0, 0
+  index: -1
+EVCG_07_head_cum_02
+  rotate: false
+  xy: 1019, 506
+  size: 112, 245
+  orig: 112, 245
+  offset: 0, 0
+  index: -1
+EVCG_07_penis
+  rotate: true
+  xy: 676, 953
+  size: 391, 232
+  orig: 391, 232
+  offset: 0, 0
+  index: -1
+
+Nagi_EV15.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EVCG_01_L_arm_02
+  rotate: false
+  xy: 863, 446
+  size: 284, 189
+  orig: 284, 189
+  offset: 0, 0
+  index: -1
+EVCG_01_L_hand_02
+  rotate: true
+  xy: 1210, 645
+  size: 115, 96
+  orig: 115, 96
+  offset: 0, 0
+  index: -1
+EVCG_01_R_arm_02
+  rotate: false
+  xy: 808, 930
+  size: 276, 286
+  orig: 276, 286
+  offset: 0, 0
+  index: -1
+EVCG_01_R_hand_02
+  rotate: false
+  xy: 605, 769
+  size: 191, 130
+  orig: 191, 130
+  offset: 0, 0
+  index: -1
+EVCG_01_R_hand_03
+  rotate: false
+  xy: 1462, 600
+  size: 129, 125
+  orig: 129, 125
+  offset: 0, 0
+  index: -1
+EVCG_01_R_leg_02
+  rotate: false
+  xy: 1352, 899
+  size: 441, 362
+  orig: 441, 362
+  offset: 0, 0
+  index: -1
+EVCG_01_back_hair_01
+  rotate: false
+  xy: 929, 98
+  size: 152, 125
+  orig: 152, 125
+  offset: 0, 0
+  index: -1
+EVCG_01_back_hair_03
+  rotate: true
+  xy: 920, 11
+  size: 85, 169
+  orig: 85, 169
+  offset: 0, 0
+  index: -1
+EVCG_01_breast_01
+  rotate: false
+  xy: 431, 120
+  size: 303, 274
+  orig: 303, 274
+  offset: 0, 0
+  index: -1
+EVCG_01_hair_02
+  rotate: false
+  xy: 1871, 611
+  size: 72, 71
+  orig: 72, 71
+  offset: 0, 0
+  index: -1
+EVCG_01_hair_05
+  rotate: true
+  xy: 1221, 446
+  size: 59, 71
+  orig: 59, 71
+  offset: 0, 0
+  index: -1
+EVCG_01_hair_06
+  rotate: true
+  xy: 1086, 943
+  size: 273, 215
+  orig: 273, 215
+  offset: 0, 0
+  index: -1
+EVCG_01_hair_07
+  rotate: true
+  xy: 1072, 233
+  size: 211, 73
+  orig: 211, 73
+  offset: 0, 0
+  index: -1
+EVCG_01_hairband_02
+  rotate: true
+  xy: 1774, 758
+  size: 80, 185
+  orig: 80, 185
+  offset: 0, 0
+  index: -1
+EVCG_01_hip_01
+  rotate: true
+  xy: 1530, 1632
+  size: 414, 449
+  orig: 414, 449
+  offset: 0, 0
+  index: -1
+EVCG_01_rope_01
+  rotate: false
+  xy: 1769, 612
+  size: 100, 70
+  orig: 100, 70
+  offset: 0, 0
+  index: -1
+EVCG_01_rope_04
+  rotate: true
+  xy: 863, 637
+  size: 291, 192
+  orig: 291, 192
+  offset: 0, 0
+  index: -1
+EVCG_01_rope_05
+  rotate: true
+  xy: 415, 45
+  size: 73, 283
+  orig: 73, 283
+  offset: 0, 0
+  index: -1
+EVCG_01_rope_06
+  rotate: false
+  xy: 1294, 434
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+EVCG_02_Chest_sweat
+  rotate: true
+  xy: 1309, 727
+  size: 170, 183
+  orig: 170, 183
+  offset: 0, 0
+  index: -1
+EVCG_02_Egg Vibrator_03
+  rotate: true
+  xy: 1083, 101
+  size: 130, 69
+  orig: 130, 69
+  offset: 0, 0
+  index: -1
+EVCG_02_FACE 2_blush
+  rotate: true
+  xy: 1961, 688
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+EVCG_02_anal_biz_01
+  rotate: true
+  xy: 1057, 736
+  size: 192, 143
+  orig: 192, 143
+  offset: 0, 0
+  index: -1
+EVCG_02_pussy_sweat
+  rotate: false
+  xy: 1221, 507
+  size: 73, 136
+  orig: 73, 136
+  offset: 0, 0
+  index: -1
+EVCG_02_syringe_02
+  rotate: true
+  xy: 1149, 447
+  size: 188, 70
+  orig: 188, 70
+  offset: 0, 0
+  index: -1
+EVCG_03_L_arm_01
+  rotate: true
+  xy: 721, 439
+  size: 328, 140
+  orig: 328, 140
+  offset: 0, 0
+  index: -1
+EVCG_03_L_hand_01
+  rotate: true
+  xy: 1494, 731
+  size: 166, 174
+  orig: 166, 174
+  offset: 0, 0
+  index: -1
+EVCG_03_L_leg 01
+  rotate: true
+  xy: 431, 396
+  size: 365, 288
+  orig: 365, 288
+  offset: 0, 0
+  index: -1
+EVCG_03_L_leg 02
+  rotate: true
+  xy: 2, 285
+  size: 476, 427
+  orig: 476, 427
+  offset: 0, 0
+  index: -1
+EVCG_03_R_leg_02
+  rotate: false
+  xy: 1352, 1263
+  size: 450, 367
+  orig: 450, 367
+  offset: 0, 0
+  index: -1
+EVCG_03_back hair_00___
+  rotate: true
+  xy: 1670, 728
+  size: 169, 102
+  orig: 169, 102
+  offset: 0, 0
+  index: -1
+EVCG_03_effect_01
+  rotate: true
+  xy: 1202, 762
+  size: 179, 105
+  orig: 179, 105
+  offset: 0, 0
+  index: -1
+EVCG_03_effect_02
+  rotate: false
+  xy: 2, 48
+  size: 411, 235
+  orig: 411, 235
+  offset: 0, 0
+  index: -1
+EVCG_03_hair_06
+  rotate: true
+  xy: 1981, 1676
+  size: 84, 59
+  orig: 84, 59
+  offset: 0, 0
+  index: -1
+EVCG_03_hairband_01
+  rotate: false
+  xy: 1593, 593
+  size: 73, 136
+  orig: 73, 136
+  offset: 0, 0
+  index: -1
+EVCG_03_hairband_02
+  rotate: true
+  xy: 1774, 684
+  size: 72, 169
+  orig: 72, 169
+  offset: 0, 0
+  index: -1
+EVCG_03_head_shadow
+  rotate: false
+  xy: 1668, 635
+  size: 99, 91
+  orig: 99, 91
+  offset: 0, 0
+  index: -1
+EVCG_03_hip 01
+  rotate: true
+  xy: 591, 1658
+  size: 388, 468
+  orig: 388, 468
+  offset: 0, 0
+  index: -1
+EVCG_03_rope_01
+  rotate: false
+  xy: 1447, 521
+  size: 113, 77
+  orig: 113, 77
+  offset: 0, 0
+  index: -1
+EVCG_03_rope_02
+  rotate: true
+  xy: 1804, 1392
+  size: 238, 242
+  orig: 238, 242
+  offset: 0, 0
+  index: -1
+EVCG_03_rope_03
+  rotate: false
+  xy: 1981, 1877
+  size: 64, 169
+  orig: 64, 169
+  offset: 0, 0
+  index: -1
+EVCG_04_hip_02
+  rotate: true
+  xy: 475, 1231
+  size: 425, 449
+  orig: 425, 449
+  offset: 0, 0
+  index: -1
+EVCG_04_lovejuice_02
+  rotate: false
+  xy: 468, 763
+  size: 135, 136
+  orig: 135, 136
+  offset: 0, 0
+  index: -1
+EVCG_04_male_arm
+  rotate: false
+  xy: 2, 763
+  size: 464, 447
+  orig: 464, 447
+  offset: 0, 0
+  index: -1
+EVCG_04_male_arm_shadow
+  rotate: false
+  xy: 2, 1212
+  size: 471, 449
+  orig: 471, 449
+  offset: 0, 0
+  index: -1
+EVCG_04_male_hand_02
+  rotate: false
+  xy: 1057, 637
+  size: 151, 97
+  orig: 151, 97
+  offset: 0, 0
+  index: -1
+EVCG_05_hip_02
+  rotate: true
+  xy: 1061, 1639
+  size: 407, 467
+  orig: 407, 467
+  offset: 0, 0
+  index: -1
+EVCG_05_male_hand_01
+  rotate: true
+  xy: 929, 225
+  size: 219, 141
+  orig: 219, 141
+  offset: 0, 0
+  index: -1
+EVCG_05_male_hand_02
+  rotate: false
+  xy: 1091, 2
+  size: 151, 97
+  orig: 151, 97
+  offset: 0, 0
+  index: -1
+EVCG_06_Chest_sweat
+  rotate: true
+  xy: 798, 786
+  size: 113, 63
+  orig: 113, 63
+  offset: 0, 0
+  index: -1
+EVCG_06_L_Hip_sweat
+  rotate: false
+  xy: 475, 901
+  size: 331, 328
+  orig: 331, 328
+  offset: 0, 0
+  index: -1
+EVCG_06_R_Hip_sweat
+  rotate: false
+  xy: 736, 130
+  size: 191, 307
+  orig: 191, 307
+  offset: 0, 0
+  index: -1
+EVCG_06_effect_head
+  rotate: true
+  xy: 1795, 840
+  size: 332, 220
+  orig: 332, 220
+  offset: 0, 0
+  index: -1
+EVCG_06_male_hand_02
+  rotate: false
+  xy: 1308, 610
+  size: 152, 115
+  orig: 152, 115
+  offset: 0, 0
+  index: -1
+EVCG_06_male_hand_03
+  rotate: true
+  xy: 1981, 1762
+  size: 113, 60
+  orig: 113, 60
+  offset: 0, 0
+  index: -1
+EVCG_06_penis_cum
+  rotate: false
+  xy: 736, 2
+  size: 182, 126
+  orig: 182, 126
+  offset: 0, 0
+  index: -1
+EVCG_07_L_leg_sweat
+  rotate: false
+  xy: 1804, 1174
+  size: 230, 216
+  orig: 230, 216
+  offset: 0, 0
+  index: -1
+EVCG_07_arm_cum
+  rotate: false
+  xy: 926, 1218
+  size: 424, 419
+  orig: 424, 419
+  offset: 0, 0
+  index: -1
+EVCG_07_breast_cum
+  rotate: false
+  xy: 1296, 495
+  size: 149, 113
+  orig: 149, 113
+  offset: 0, 0
+  index: -1
+pillow
+  rotate: false
+  xy: 2, 1663
+  size: 587, 383
+  orig: 587, 383
+  offset: 0, 0
+  index: -1
+pillow_02
+  rotate: false
+  xy: 2, 1663
+  size: 587, 383
+  orig: 587, 383
+  offset: 0, 0
+  index: -1
